@@ -1,113 +1,117 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html>
 <head>
 <meta charset="UTF-8">
 <title>English Quiz Pro</title>
 <style>
-body { font-family: Arial; background:#f2f2f2; padding:20px }
-h1 { text-align:center }
-.question { background:#fff; padding:15px; margin:10px 0; border-radius:8px }
-.correct { color:green; font-weight:bold }
-.wrong { color:red; font-weight:bold }
-button { padding:10px 20px; font-size:16px; margin:10px 5px }
+body{font-family:Arial;background:#f2f2f2;padding:20px}
+.question{background:#fff;padding:15px;margin:10px 0;border-radius:8px}
+.correct{color:green;font-weight:bold}
+.wrong{color:red;font-weight:bold}
+button{padding:10px 20px;margin:10px 5px;font-size:16px}
 </style>
 </head>
 <body>
 
-<h1>English Random Quiz</h1>
+<h2>English Random Quiz</h2>
 
 <div id="quiz"></div>
-
 <button onclick="finishQuiz()">KẾT THÚC</button>
-<button onclick="loadNewQuiz()">TIẾP TỤC (50 câu khác)</button>
+<button onclick="loadNew()">TIẾP TỤC (50 câu khác)</button>
 
 <div id="result"></div>
 
 <script>
-let allQuestions = [];
-let currentQuestions = [];
-let correctAnswers = {};
+let allQuestions=[];
+let currentQuestions=[];
 
 fetch("questions.txt")
-.then(res => res.text())
-.then(text => parseQuestions(text));
+.then(r=>r.text())
+.then(text=>{
+    parse(text);
+    loadQuiz(60); // CHỈ LOAD 60 CÂU
+});
 
-function parseQuestions(text){
-    let blocks = text.split(/\n\s*\n/);
-    blocks.forEach(block => {
-        let lines = block.trim().split("\n");
-        if(lines.length >= 6){
-            let q = {
-                question: lines[0],
-                options: lines.slice(1,5),
-                answer: lines[5].replace("ANSWER:", "").trim()
-            };
-            allQuestions.push(q);
+function parse(text){
+    let blocks=text.split(/\n\s*\n/);
+    blocks.forEach(block=>{
+        let lines=block.trim().split("\n");
+        if(lines.length>=6){
+            allQuestions.push({
+                question:lines[0],
+                options:lines.slice(1,5),
+                answer:lines[5].replace("ANSWER:","").trim()
+            });
         }
     });
-    loadQuiz(60);
 }
 
 function shuffle(arr){
-    return arr.sort(() => Math.random() - 0.5);
+    for(let i=arr.length-1;i>0;i--){
+        let j=Math.floor(Math.random()*(i+1));
+        [arr[i],arr[j]]=[arr[j],arr[i]];
+    }
+    return arr;
 }
 
 function loadQuiz(number){
-    document.getElementById("quiz").innerHTML = "";
-    document.getElementById("result").innerHTML = "";
-    correctAnswers = {};
+    document.getElementById("quiz").innerHTML="";
+    document.getElementById("result").innerHTML="";
 
-    currentQuestions = shuffle([...allQuestions]).slice(0, number);
+    let randomSet=shuffle([...allQuestions]).slice(0,number);
+    currentQuestions=randomSet;
 
-    currentQuestions.forEach((q, index) => {
-        let opts = shuffle([...q.options]);
-        let div = document.createElement("div");
-        div.className = "question";
-        div.id = "q" + index;
+    randomSet.forEach((q,index)=>{
+        let div=document.createElement("div");
+        div.className="question";
+        div.id="q"+index;
 
-        let html = `<p>${index+1}. ${q.question}</p>`;
-        opts.forEach(opt => {
-            let letter = opt.charAt(0);
-            html += `<label>
-            <input type="radio" name="q${index}" value="${letter}"> ${opt}
+        let options=shuffle([...q.options]);
+
+        let html=`<p>${index+1}. ${q.question}</p>`;
+        options.forEach(opt=>{
+            let letter=opt.charAt(0);
+            html+=`
+            <label>
+            <input type="radio" name="q${index}" value="${letter}">
+            ${opt}
             </label><br>`;
         });
 
-        div.innerHTML = html;
+        div.innerHTML=html;
         document.getElementById("quiz").appendChild(div);
-        correctAnswers["q"+index] = q.answer;
     });
 }
 
 function finishQuiz(){
-    let score = 0;
+    let score=0;
 
-    currentQuestions.forEach((q, i) => {
-        let div = document.getElementById("q"+i);
-        let selected = document.querySelector(`input[name="q${i}"]:checked`);
-        let correct = q.answer;
+    currentQuestions.forEach((q,index)=>{
+        let correct=q.answer;
+        let selected=document.querySelector(`input[name="q${index}"]:checked`);
+        let div=document.getElementById("q"+index);
 
-        div.querySelectorAll("label").forEach(lb => {
+        div.querySelectorAll("label").forEach(lb=>{
             if(lb.innerText.trim().startsWith(correct)){
                 lb.classList.add("correct");
             }
         });
 
         if(selected){
-            if(selected.value === correct){
+            if(selected.value===correct){
                 score++;
-            } else {
+            }else{
                 selected.parentElement.classList.add("wrong");
             }
         }
     });
 
-    document.getElementById("result").innerHTML =
+    document.getElementById("result").innerHTML=
         `Kết quả: ${score} / ${currentQuestions.length}`;
 }
 
-function loadNewQuiz(){
-    loadQuiz(50);
+function loadNew(){
+    loadQuiz(50); // LOAD 50 CÂU KHÁC
 }
 </script>
 
