@@ -4,87 +4,71 @@
 <meta charset="UTF-8">
 <title>English Quiz</title>
 <style>
-body {
-    font-family: Arial;
-    background-color: #f2f2f2;
-    padding: 20px;
-}
-h1 {
-    text-align: center;
-}
-.question {
-    background: white;
-    padding: 15px;
-    margin: 10px 0;
-    border-radius: 10px;
-}
-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    margin-top: 20px;
-}
-#result {
-    font-size: 20px;
-    font-weight: bold;
-    margin-top: 20px;
-}
+body { font-family: Arial; padding: 20px; background:#f2f2f2; }
+h1 { text-align:center; }
+.question { background:white; padding:15px; margin:10px 0; border-radius:10px; }
+button { padding:10px 20px; font-size:16px; margin-top:20px; }
+#result { font-size:20px; font-weight:bold; margin-top:20px; }
 </style>
 </head>
 <body>
 
-<h1>English Multiple Choice Test</h1>
+<h1>English Quiz Test</h1>
 
-<form id="quizForm">
+<div id="quiz"></div>
 
-<div class="question">
-<p>1. She ___ to school every day.</p>
-<input type="radio" name="q1" value="a"> go<br>
-<input type="radio" name="q1" value="b"> goes<br>
-<input type="radio" name="q1" value="c"> going<br>
-<input type="radio" name="q1" value="d"> gone<br>
-</div>
-
-<div class="question">
-<p>2. They ___ playing football now.</p>
-<input type="radio" name="q2" value="a"> is<br>
-<input type="radio" name="q2" value="b"> am<br>
-<input type="radio" name="q2" value="c"> are<br>
-<input type="radio" name="q2" value="d"> be<br>
-</div>
-
-<div class="question">
-<p>3. This is ___ apple.</p>
-<input type="radio" name="q3" value="a"> a<br>
-<input type="radio" name="q3" value="b"> an<br>
-<input type="radio" name="q3" value="c"> the<br>
-<input type="radio" name="q3" value="d"> no article<br>
-</div>
-
-<button type="button" onclick="checkAnswers()">Submit</button>
-
-</form>
+<button onclick="submitQuiz()">Submit</button>
 
 <div id="result"></div>
 
 <script>
-function checkAnswers() {
+let correctAnswers = {};
+
+fetch("questions.txt")
+.then(response => response.text())
+.then(data => {
+    let blocks = data.split(/\n\s*\n/);
+    let quizDiv = document.getElementById("quiz");
+
+    blocks.forEach((block, index) => {
+        let lines = block.trim().split("\n");
+
+        if (lines.length >= 6) {
+            let questionText = lines[0];
+            let options = lines.slice(1,5);
+            let answerLine = lines[5];
+
+            let questionNumber = "q" + (index + 1);
+            correctAnswers[questionNumber] = answerLine.replace("ANSWER:", "").trim();
+
+            let div = document.createElement("div");
+            div.className = "question";
+
+            let html = `<p>${questionText}</p>`;
+
+            options.forEach(opt => {
+                let letter = opt.charAt(0);
+                html += `<input type="radio" name="${questionNumber}" value="${letter}"> ${opt}<br>`;
+            });
+
+            div.innerHTML = html;
+            quizDiv.appendChild(div);
+        }
+    });
+});
+
+function submitQuiz() {
     let score = 0;
 
-    let answers = {
-        q1: "b",
-        q2: "c",
-        q3: "b"
-    };
-
-    for (let key in answers) {
-        let selected = document.querySelector('input[name="' + key + '"]:checked');
-        if (selected && selected.value === answers[key]) {
+    for (let key in correctAnswers) {
+        let selected = document.querySelector(`input[name="${key}"]:checked`);
+        if (selected && selected.value === correctAnswers[key]) {
             score++;
         }
     }
 
     document.getElementById("result").innerHTML =
-        "Your score: " + score + " / 3";
+        "Your score: " + score + " / " + Object.keys(correctAnswers).length;
 }
 </script>
 
