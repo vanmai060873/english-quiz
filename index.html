@@ -2,73 +2,112 @@
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
-<title>English Quiz</title>
+<title>English Quiz Pro</title>
 <style>
-body { font-family: Arial; padding: 20px; background:#f2f2f2; }
-h1 { text-align:center; }
-.question { background:white; padding:15px; margin:10px 0; border-radius:10px; }
-button { padding:10px 20px; font-size:16px; margin-top:20px; }
-#result { font-size:20px; font-weight:bold; margin-top:20px; }
+body { font-family: Arial; background:#f2f2f2; padding:20px }
+h1 { text-align:center }
+.question { background:#fff; padding:15px; margin:10px 0; border-radius:8px }
+.correct { color:green; font-weight:bold }
+.wrong { color:red; font-weight:bold }
+button { padding:10px 20px; font-size:16px; margin:10px 5px }
 </style>
 </head>
 <body>
 
-<h1>English Quiz Test</h1>
+<h1>English Random Quiz</h1>
 
 <div id="quiz"></div>
 
-<button onclick="submitQuiz()">Submit</button>
+<button onclick="finishQuiz()">KẾT THÚC</button>
+<button onclick="loadNewQuiz()">TIẾP TỤC (50 câu khác)</button>
 
 <div id="result"></div>
 
 <script>
+let allQuestions = [];
+let currentQuestions = [];
 let correctAnswers = {};
 
 fetch("questions.txt")
-.then(response => response.text())
-.then(data => {
-    let blocks = data.split(/\n\s*\n/);
-    let quizDiv = document.getElementById("quiz");
+.then(res => res.text())
+.then(text => parseQuestions(text));
 
-    blocks.forEach((block, index) => {
+function parseQuestions(text){
+    let blocks = text.split(/\n\s*\n/);
+    blocks.forEach(block => {
         let lines = block.trim().split("\n");
-
-        if (lines.length >= 6) {
-            let questionText = lines[0];
-            let options = lines.slice(1,5);
-            let answerLine = lines[5];
-
-            let questionNumber = "q" + (index + 1);
-            correctAnswers[questionNumber] = answerLine.replace("ANSWER:", "").trim();
-
-            let div = document.createElement("div");
-            div.className = "question";
-
-            let html = `<p>${questionText}</p>`;
-
-            options.forEach(opt => {
-                let letter = opt.charAt(0);
-                html += `<input type="radio" name="${questionNumber}" value="${letter}"> ${opt}<br>`;
-            });
-
-            div.innerHTML = html;
-            quizDiv.appendChild(div);
+        if(lines.length >= 6){
+            let q = {
+                question: lines[0],
+                options: lines.slice(1,5),
+                answer: lines[5].replace("ANSWER:", "").trim()
+            };
+            allQuestions.push(q);
         }
     });
-});
+    loadQuiz(60);
+}
 
-function submitQuiz() {
+function shuffle(arr){
+    return arr.sort(() => Math.random() - 0.5);
+}
+
+function loadQuiz(number){
+    document.getElementById("quiz").innerHTML = "";
+    document.getElementById("result").innerHTML = "";
+    correctAnswers = {};
+
+    currentQuestions = shuffle([...allQuestions]).slice(0, number);
+
+    currentQuestions.forEach((q, index) => {
+        let opts = shuffle([...q.options]);
+        let div = document.createElement("div");
+        div.className = "question";
+        div.id = "q" + index;
+
+        let html = `<p>${index+1}. ${q.question}</p>`;
+        opts.forEach(opt => {
+            let letter = opt.charAt(0);
+            html += `<label>
+            <input type="radio" name="q${index}" value="${letter}"> ${opt}
+            </label><br>`;
+        });
+
+        div.innerHTML = html;
+        document.getElementById("quiz").appendChild(div);
+        correctAnswers["q"+index] = q.answer;
+    });
+}
+
+function finishQuiz(){
     let score = 0;
 
-    for (let key in correctAnswers) {
-        let selected = document.querySelector(`input[name="${key}"]:checked`);
-        if (selected && selected.value === correctAnswers[key]) {
-            score++;
+    currentQuestions.forEach((q, i) => {
+        let div = document.getElementById("q"+i);
+        let selected = document.querySelector(`input[name="q${i}"]:checked`);
+        let correct = q.answer;
+
+        div.querySelectorAll("label").forEach(lb => {
+            if(lb.innerText.trim().startsWith(correct)){
+                lb.classList.add("correct");
+            }
+        });
+
+        if(selected){
+            if(selected.value === correct){
+                score++;
+            } else {
+                selected.parentElement.classList.add("wrong");
+            }
         }
-    }
+    });
 
     document.getElementById("result").innerHTML =
-        "Your score: " + score + " / " + Object.keys(correctAnswers).length;
+        `Kết quả: ${score} / ${currentQuestions.length}`;
+}
+
+function loadNewQuiz(){
+    loadQuiz(50);
 }
 </script>
 
