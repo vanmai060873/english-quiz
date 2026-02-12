@@ -12,7 +12,6 @@ body{
     height:100vh;
 }
 
-/* CỘT TRÁI */
 #sidebar{
     width:20%;
     background:#f0f0f0;
@@ -36,7 +35,6 @@ body{
     color:white;
 }
 
-/* CỘT PHẢI */
 #content{
     width:80%;
     padding:20px;
@@ -88,15 +86,15 @@ button.action{
 
 let allQuestions=[];
 let currentQuestions=[];
-let timeLeft=45*60; // 45 phút
+let timeLeft=45*60;
 let timerInterval;
+let totalQuestions=60;
 
 fetch("questions.txt")
 .then(r=>r.text())
 .then(text=>{
     parse(text);
     loadQuiz(60);
-    startTimer();
 });
 
 function parse(text){
@@ -122,6 +120,8 @@ function shuffle(arr){
 }
 
 function loadQuiz(number){
+
+    totalQuestions=number;
 
     clearInterval(timerInterval);
     timeLeft=45*60;
@@ -195,8 +195,11 @@ function startTimer(){
 }
 
 function finishQuiz(){
+
     clearInterval(timerInterval);
-    let score=0;
+
+    let correctCount=0;
+    let answeredCount=0;
 
     currentQuestions.forEach((q,index)=>{
         let correct=q.answer;
@@ -210,16 +213,27 @@ function finishQuiz(){
         });
 
         if(selected){
+            answeredCount++;
             if(selected.value===correct){
-                score++;
+                correctCount++;
             }else{
                 selected.parentElement.classList.add("wrong");
             }
         }
     });
 
+    let unanswered = totalQuestions - answeredCount;
+
+    let pointPerQuestion = 10 / totalQuestions;
+    let finalScore = (correctCount * pointPerQuestion).toFixed(2);
+
     document.getElementById("result").innerHTML=
-        `<h3>Kết quả: ${score} / ${currentQuestions.length}</h3>`;
+        `<h3>
+        Số câu đúng: ${correctCount}<br>
+        Số câu đã làm: ${answeredCount}<br>
+        Số câu chưa làm: ${unanswered}<br>
+        Điểm: ${finalScore} / 10
+        </h3>`;
 }
 
 function loadNew(){
