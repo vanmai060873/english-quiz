@@ -12,7 +12,6 @@ body{
     height:100vh;
 }
 
-/* SIDEBAR */
 #sidebar{
     width:20%;
     background:#f0f0f0;
@@ -36,7 +35,6 @@ body{
     color:white;
 }
 
-/* CONTENT */
 #content{
     width:80%;
     padding:20px;
@@ -50,19 +48,12 @@ body{
     border:1px solid #ddd;
 }
 
-/* MÀU XEN KẼ */
-.even{
-    background:#e6f4ea; /* xanh nhạt */
-}
+.even{ background:#e6f4ea; }
+.odd{ background:#ffe8cc; }
 
-.odd{
-    background:#ffe8cc; /* cam nhạt */
-}
-
-/* CÂU HỎI */
 .question-title{
     font-weight:bold;
-    color:#800000; /* đỏ mận */
+    color:#800000;
 }
 
 .correct{ color:green; font-weight:bold }
@@ -99,7 +90,7 @@ button.action{
     padding:30px;
     border-radius:10px;
     text-align:center;
-    width:350px;
+    width:380px;
 }
 </style>
 </head>
@@ -112,7 +103,6 @@ button.action{
 
     <h2>English Random Quiz</h2>
 
-    <!-- NHẬP TÊN -->
     <div id="nameSection">
         <label>Nhập tên của bạn: </label>
         <input type="text" id="studentName">
@@ -127,11 +117,12 @@ button.action{
 
 </div>
 
-<!-- POPUP -->
 <div id="popup">
     <div id="popupContent">
         <h3 id="popupResult"></h3>
-        <button onclick="closePopup()">ĐÓNG</button>
+        <br>
+        <button onclick="retakeQuiz()">THI LẠI</button>
+        <button onclick="closeProgram()">ĐÓNG</button>
     </div>
 </div>
 
@@ -164,16 +155,13 @@ function parse(text){
 }
 
 function startQuiz(){
-
     let nameInput=document.getElementById("studentName").value.trim();
-
     if(nameInput===""){
-        alert("Vui lòng nhập tên trước khi bắt đầu!");
+        alert("Vui lòng nhập tên!");
         return;
     }
 
     studentName=nameInput;
-
     document.getElementById("nameSection").style.display="none";
     document.getElementById("quizSection").style.display="block";
 
@@ -241,8 +229,7 @@ function loadQuiz(number){
 
 function markDone(index){
     if(!submitted){
-        document.getElementById("nav"+index)
-            .classList.add("done");
+        document.getElementById("nav"+index).classList.add("done");
     }
 }
 
@@ -251,10 +238,7 @@ function startTimer(){
         let minutes=Math.floor(timeLeft/60);
         let seconds=timeLeft%60;
         seconds=seconds<10?"0"+seconds:seconds;
-
-        document.getElementById("timer")
-            .innerText=`Time: ${minutes}:${seconds}`;
-
+        document.getElementById("timer").innerText=`Time: ${minutes}:${seconds}`;
         timeLeft--;
 
         if(timeLeft<0){
@@ -268,7 +252,6 @@ function finishQuiz(){
 
     if(submitted) return;
     submitted=true;
-
     clearInterval(timerInterval);
 
     let correctCount=0;
@@ -297,8 +280,7 @@ function finishQuiz(){
         r.disabled=true;
     });
 
-    let pointPerQuestion=10/totalQuestions;
-    let finalScore=(correctCount*pointPerQuestion).toFixed(2);
+    let finalScore=(correctCount*(10/totalQuestions)).toFixed(2);
 
     document.getElementById("popupResult").innerHTML=
         `Thí sinh: <b>${studentName}</b><br><br>
@@ -308,8 +290,13 @@ function finishQuiz(){
     document.getElementById("popup").style.display="flex";
 }
 
-function closePopup(){
+function retakeQuiz(){
     document.getElementById("popup").style.display="none";
+    loadQuiz(60);
+}
+
+function closeProgram(){
+    document.body.innerHTML="<h2 style='text-align:center;margin-top:200px;'>Bài thi đã kết thúc.</h2>";
 }
 
 </script>
