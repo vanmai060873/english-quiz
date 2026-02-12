@@ -3,33 +3,100 @@
 <head>
 <meta charset="UTF-8">
 <title>English Quiz Pro</title>
+
 <style>
-body{font-family:Arial;background:#f2f2f2;padding:20px}
-.question{background:#fff;padding:15px;margin:10px 0;border-radius:8px}
-.correct{color:green;font-weight:bold}
-.wrong{color:red;font-weight:bold}
-button{padding:10px 20px;margin:10px 5px;font-size:16px}
+body{
+    font-family:Arial;
+    margin:0;
+    display:flex;
+    height:100vh;
+}
+
+/* CỘT TRÁI */
+#sidebar{
+    width:20%;
+    background:#f0f0f0;
+    padding:10px;
+    overflow-y:auto;
+    border-right:1px solid #ccc;
+}
+
+#sidebar button{
+    width:45px;
+    height:45px;
+    margin:5px;
+    border:none;
+    cursor:pointer;
+    background:#ddd;
+    font-weight:bold;
+}
+
+.done{
+    background:green !important;
+    color:white;
+}
+
+/* CỘT PHẢI */
+#content{
+    width:80%;
+    padding:20px;
+    overflow-y:auto;
+}
+
+.question{
+    background:#fff;
+    padding:15px;
+    margin-bottom:15px;
+    border-radius:8px;
+    border:1px solid #ddd;
+}
+
+.correct{ color:green; font-weight:bold }
+.wrong{ color:red; font-weight:bold }
+
+button.action{
+    padding:10px 20px;
+    margin:10px 5px;
+    font-size:16px;
+}
+
+#timer{
+    font-size:20px;
+    font-weight:bold;
+    color:red;
+    margin-bottom:10px;
+}
 </style>
 </head>
+
 <body>
 
-<h2>English Random Quiz</h2>
+<div id="sidebar"></div>
 
-<div id="quiz"></div>
-<button onclick="finishQuiz()">KẾT THÚC</button>
-<button onclick="loadNew()">TIẾP TỤC (50 câu khác)</button>
+<div id="content">
+    <h2>English Random Quiz</h2>
+    <div id="timer">Time: 45:00</div>
+    <div id="quiz"></div>
 
-<div id="result"></div>
+    <button class="action" onclick="finishQuiz()">KẾT THÚC</button>
+    <button class="action" onclick="loadNew()">TIẾP TỤC (50 câu khác)</button>
+
+    <div id="result"></div>
+</div>
 
 <script>
+
 let allQuestions=[];
 let currentQuestions=[];
+let timeLeft=45*60; // 45 phút
+let timerInterval;
 
 fetch("questions.txt")
 .then(r=>r.text())
 .then(text=>{
     parse(text);
-    loadQuiz(60); // CHỈ LOAD 60 CÂU
+    loadQuiz(60);
+    startTimer();
 });
 
 function parse(text){
@@ -55,25 +122,45 @@ function shuffle(arr){
 }
 
 function loadQuiz(number){
+
+    clearInterval(timerInterval);
+    timeLeft=45*60;
+    startTimer();
+
     document.getElementById("quiz").innerHTML="";
+    document.getElementById("sidebar").innerHTML="";
     document.getElementById("result").innerHTML="";
 
     let randomSet=shuffle([...allQuestions]).slice(0,number);
     currentQuestions=randomSet;
 
     randomSet.forEach((q,index)=>{
+
+        let navBtn=document.createElement("button");
+        navBtn.innerText=index+1;
+        navBtn.id="nav"+index;
+        navBtn.onclick=function(){
+            document.getElementById("q"+index)
+                .scrollIntoView({behavior:"smooth"});
+        };
+        document.getElementById("sidebar").appendChild(navBtn);
+
         let div=document.createElement("div");
         div.className="question";
         div.id="q"+index;
 
         let options=shuffle([...q.options]);
 
-        let html=`<p>${index+1}. ${q.question}</p>`;
+        let html=`<p><b>${index+1}. ${q.question}</b></p>`;
+
         options.forEach(opt=>{
             let letter=opt.charAt(0);
             html+=`
             <label>
-            <input type="radio" name="q${index}" value="${letter}">
+            <input type="radio"
+                   name="q${index}"
+                   value="${letter}"
+                   onchange="markDone(${index})">
             ${opt}
             </label><br>`;
         });
@@ -83,7 +170,32 @@ function loadQuiz(number){
     });
 }
 
+function markDone(index){
+    document.getElementById("nav"+index)
+        .classList.add("done");
+}
+
+function startTimer(){
+    timerInterval=setInterval(()=>{
+        let minutes=Math.floor(timeLeft/60);
+        let seconds=timeLeft%60;
+        seconds=seconds<10?"0"+seconds:seconds;
+
+        document.getElementById("timer")
+            .innerText=`Time: ${minutes}:${seconds}`;
+
+        timeLeft--;
+
+        if(timeLeft<0){
+            clearInterval(timerInterval);
+            alert("Hết giờ! Bài sẽ được nộp tự động.");
+            finishQuiz();
+        }
+    },1000);
+}
+
 function finishQuiz(){
+    clearInterval(timerInterval);
     let score=0;
 
     currentQuestions.forEach((q,index)=>{
@@ -107,12 +219,13 @@ function finishQuiz(){
     });
 
     document.getElementById("result").innerHTML=
-        `Kết quả: ${score} / ${currentQuestions.length}`;
+        `<h3>Kết quả: ${score} / ${currentQuestions.length}</h3>`;
 }
 
 function loadNew(){
-    loadQuiz(50); // LOAD 50 CÂU KHÁC
+    loadQuiz(50);
 }
+
 </script>
 
 </body>
