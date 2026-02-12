@@ -44,11 +44,25 @@ body{
 }
 
 .question{
-    background:#fff;
     padding:15px;
     margin-bottom:15px;
     border-radius:8px;
     border:1px solid #ddd;
+}
+
+/* MÀU XEN KẼ */
+.even{
+    background:#e6f4ea; /* xanh nhạt */
+}
+
+.odd{
+    background:#ffe8cc; /* cam nhạt */
+}
+
+/* CÂU HỎI */
+.question-title{
+    font-weight:bold;
+    color:#800000; /* đỏ mận */
 }
 
 .correct{ color:green; font-weight:bold }
@@ -95,11 +109,22 @@ button.action{
 <div id="sidebar"></div>
 
 <div id="content">
-    <h2>English Random Quiz</h2>
-    <div id="timer">Time: 45:00</div>
-    <div id="quiz"></div>
 
-    <button class="action" onclick="finishQuiz()">KẾT THÚC</button>
+    <h2>English Random Quiz</h2>
+
+    <!-- NHẬP TÊN -->
+    <div id="nameSection">
+        <label>Nhập tên của bạn: </label>
+        <input type="text" id="studentName">
+        <button onclick="startQuiz()">BẮT ĐẦU</button>
+    </div>
+
+    <div id="quizSection" style="display:none;">
+        <div id="timer">Time: 45:00</div>
+        <div id="quiz"></div>
+        <button class="action" onclick="finishQuiz()">KẾT THÚC</button>
+    </div>
+
 </div>
 
 <!-- POPUP -->
@@ -118,13 +143,11 @@ let timeLeft=45*60;
 let timerInterval;
 let totalQuestions=60;
 let submitted=false;
+let studentName="";
 
 fetch("questions.txt")
 .then(r=>r.text())
-.then(text=>{
-    parse(text);
-    loadQuiz(60);
-});
+.then(text=>parse(text));
 
 function parse(text){
     let blocks=text.split(/\n\s*\n/);
@@ -138,6 +161,23 @@ function parse(text){
             });
         }
     });
+}
+
+function startQuiz(){
+
+    let nameInput=document.getElementById("studentName").value.trim();
+
+    if(nameInput===""){
+        alert("Vui lòng nhập tên trước khi bắt đầu!");
+        return;
+    }
+
+    studentName=nameInput;
+
+    document.getElementById("nameSection").style.display="none";
+    document.getElementById("quizSection").style.display="block";
+
+    loadQuiz(60);
 }
 
 function shuffle(arr){
@@ -175,12 +215,12 @@ function loadQuiz(number){
         document.getElementById("sidebar").appendChild(navBtn);
 
         let div=document.createElement("div");
-        div.className="question";
+        div.className="question " + (index%2===0 ? "even":"odd");
         div.id="q"+index;
 
         let options=shuffle([...q.options]);
 
-        let html=`<p><b>${index+1}. ${q.question}</b></p>`;
+        let html=`<p class="question-title">${index+1}. ${q.question}</p>`;
 
         options.forEach(opt=>{
             let letter=opt.charAt(0);
@@ -253,7 +293,6 @@ function finishQuiz(){
         }
     });
 
-    // 🔒 KHÓA TOÀN BỘ RADIO
     document.querySelectorAll("input[type=radio]").forEach(r=>{
         r.disabled=true;
     });
@@ -262,8 +301,9 @@ function finishQuiz(){
     let finalScore=(correctCount*pointPerQuestion).toFixed(2);
 
     document.getElementById("popupResult").innerHTML=
-        `Số câu bạn làm đúng là: ${correctCount}<br><br>
-         Số điểm của bạn là: ${finalScore} / 10`;
+        `Thí sinh: <b>${studentName}</b><br><br>
+         Số câu đúng: ${correctCount}<br><br>
+         Điểm: ${finalScore} / 10`;
 
     document.getElementById("popup").style.display="flex";
 }
