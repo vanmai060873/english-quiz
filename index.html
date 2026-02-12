@@ -87,15 +87,6 @@ button.action{
     text-align:center;
     width:350px;
 }
-
-#popupContent h3{
-    margin-bottom:20px;
-}
-
-#popupContent button{
-    padding:10px 20px;
-    font-size:16px;
-}
 </style>
 </head>
 
@@ -109,7 +100,6 @@ button.action{
     <div id="quiz"></div>
 
     <button class="action" onclick="finishQuiz()">KẾT THÚC</button>
-    <button class="action" onclick="loadNew()">TIẾP TỤC (50 câu khác)</button>
 </div>
 
 <!-- POPUP -->
@@ -127,6 +117,7 @@ let currentQuestions=[];
 let timeLeft=45*60;
 let timerInterval;
 let totalQuestions=60;
+let submitted=false;
 
 fetch("questions.txt")
 .then(r=>r.text())
@@ -159,6 +150,7 @@ function shuffle(arr){
 
 function loadQuiz(number){
 
+    submitted=false;
     totalQuestions=number;
 
     clearInterval(timerInterval);
@@ -208,8 +200,10 @@ function loadQuiz(number){
 }
 
 function markDone(index){
-    document.getElementById("nav"+index)
-        .classList.add("done");
+    if(!submitted){
+        document.getElementById("nav"+index)
+            .classList.add("done");
+    }
 }
 
 function startTimer(){
@@ -231,6 +225,9 @@ function startTimer(){
 }
 
 function finishQuiz(){
+
+    if(submitted) return;
+    submitted=true;
 
     clearInterval(timerInterval);
 
@@ -256,6 +253,11 @@ function finishQuiz(){
         }
     });
 
+    // 🔒 KHÓA TOÀN BỘ RADIO
+    document.querySelectorAll("input[type=radio]").forEach(r=>{
+        r.disabled=true;
+    });
+
     let pointPerQuestion=10/totalQuestions;
     let finalScore=(correctCount*pointPerQuestion).toFixed(2);
 
@@ -268,10 +270,6 @@ function finishQuiz(){
 
 function closePopup(){
     document.getElementById("popup").style.display="none";
-}
-
-function loadNew(){
-    loadQuiz(50);
 }
 
 </script>
