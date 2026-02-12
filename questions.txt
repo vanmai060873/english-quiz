@@ -1328,3 +1328,563 @@ B. listening
 C. listens
 D. listened
 ANSWER: B
+Is there ___ apple on the table?
+A. some
+B. a
+C. any
+D. an
+ANSWER: D
+
+Are there ___ books in your bag?
+A. some
+B. a
+C. an
+D. is
+ANSWER: A
+
+Is there ___ teacher in the classroom?
+A. a
+B. any
+C. some
+D. are
+ANSWER: A
+
+Are there ___ students in the yard?
+A. is
+B. any
+C. a
+D. an
+ANSWER: B
+
+Is there ___ milk in the fridge?
+A. some
+B. many
+C. a
+D. an
+ANSWER: A
+
+Are there ___ chairs in the room?
+A. much
+B. a
+C. any
+D. an
+ANSWER: C
+
+Is there ___ dog under the table?
+A. an
+B. some
+C. a
+D. any
+ANSWER: C
+
+Are there ___ apples on the plate?
+A. any
+B. a
+C. an
+D. is
+ANSWER: A
+
+Is there ___ orange in the basket?
+A. some
+B. a
+C. an
+D. any
+ANSWER: C
+
+Are there ___ teachers in the office?
+A. a
+B. an
+C. some
+D. is
+ANSWER: C
+
+Is there ___ water in the bottle?
+A. many
+B. some
+C. a
+D. an
+ANSWER: B
+
+Are there ___ monkeys in the zoo?
+A. is
+B. a
+C. any
+D. an
+ANSWER: C
+
+Is there ___ elephant in the zoo?
+A. a
+B. some
+C. an
+D. any
+ANSWER: C
+
+Are there ___ pencils on the desk?
+A. any
+B. a
+C. an
+D. is
+ANSWER: A
+
+Is there ___ cat in the garden?
+A. a
+B. some
+C. many
+D. any
+ANSWER: A
+
+Are there ___ birds in the tree?
+A. an
+B. a
+C. any
+D. is
+ANSWER: C
+
+Is there ___ rice in the bowl?
+A. a
+B. some
+C. an
+D. many
+ANSWER: B
+
+Are there ___ students in the classroom?
+A. a
+B. an
+C. some
+D. is
+ANSWER: C
+
+Is there ___ umbrella in your bag?
+A. a
+B. some
+C. an
+D. any
+ANSWER: C
+
+Are there ___ dogs in the park?
+A. any
+B. a
+C. an
+D. is
+ANSWER: A
+
+Is there ___ book on the table?
+A. any
+B. an
+C. a
+D. some
+ANSWER: C
+
+Are there ___ oranges in the fridge?
+A. a
+B. is
+C. any
+D. an
+ANSWER: C
+
+Is there ___ teacher in the office?
+A. some
+B. a
+C. any
+D. an
+ANSWER: B
+
+Are there ___ chairs in the classroom?
+A. any
+B. a
+C. an
+D. is
+ANSWER: A
+
+Is there ___ egg in the basket?
+A. a
+B. some
+C. an
+D. many
+ANSWER: C
+
+Are there ___ lions in the zoo?
+A. is
+B. any
+C. a
+D. an
+ANSWER: B
+
+Is there ___ juice in the glass?
+A. many
+B. some
+C. a
+D. an
+ANSWER: B
+
+Are there ___ students in the library?
+A. any
+B. a
+C. an
+D. is
+ANSWER: A
+
+Is there ___ frog in the pond?
+A. some
+B. a
+C. an
+D. many
+ANSWER: B
+
+Are there ___ books on the shelf?
+A. a
+B. an
+C. any
+D. is
+ANSWER: C
+
+Is there ___ ice cream in the fridge?
+A. a
+B. an
+C. some
+D. many
+ANSWER: C
+
+Are there ___ teachers in your school?
+A. is
+B. any
+C. a
+D. an
+ANSWER: B
+
+Is there ___ apple in your bag?
+A. a
+B. an
+C. some
+D. many
+ANSWER: B
+
+Are there ___ desks in the classroom?
+A. a
+B. an
+C. any
+D. is
+ANSWER: C
+
+Is there ___ pencil on the desk?
+A. an
+B. some
+C. a
+D. many
+ANSWER: C
+
+Are there ___ ducks in the pond?
+A. is
+B. any
+C. a
+D. an
+ANSWER: B
+
+Is there ___ milk in the cup?
+A. many
+B. a
+C. some
+D. an
+ANSWER: C
+
+Are there ___ apples in the basket?
+A. any
+B. a
+C. an
+D. is
+ANSWER: A
+
+Is there ___ umbrella near the door?
+A. a
+B. some
+C. an
+D. many
+ANSWER: C
+
+Are there ___ students in the park?
+A. is
+B. any
+C. a
+D. an
+ANSWER: B
+
+Is there a cat ___ the table?
+A. between
+B. under
+C. over
+D. behind
+ANSWER: B
+
+Are there any books ___ the shelf?
+A. on
+B. under
+C. behind
+D. between
+ANSWER: A
+
+Is there a ball ___ the chair and the table?
+A. under
+B. between
+C. behind
+D. on
+ANSWER: B
+
+Is there a picture ___ the wall?
+A. in
+B. under
+C. on
+D. between
+ANSWER: C
+
+Are there any shoes ___ the bed?
+A. on
+B. under
+C. between
+D. above
+ANSWER: B
+
+Is there a dog ___ the house?
+A. in front of
+B. between
+C. under
+D. on
+ANSWER: A
+
+Are there any students ___ the classroom?
+A. between
+B. in
+C. under
+D. behind
+ANSWER: B
+
+Is there a tree ___ the house?
+A. behind
+B. under
+C. between
+D. in
+ANSWER: A
+
+Are there any apples ___ the basket?
+A. in
+B. on
+C. between
+D. behind
+ANSWER: A
+
+Is there a clock ___ the door?
+A. above
+B. under
+C. between
+D. in
+ANSWER: A
+
+Are there any cats ___ the sofa?
+A. behind
+B. between
+C. on
+D. in front of
+ANSWER: C
+
+Is there a teacher ___ the students?
+A. under
+B. between
+C. on
+D. above
+ANSWER: B
+
+Are there any cars ___ the street?
+A. on
+B. under
+C. between
+D. behind
+ANSWER: A
+
+Is there a lamp ___ the table?
+A. above
+B. between
+C. under
+D. behind
+ANSWER: A
+
+Are there any birds ___ the tree?
+A. between
+B. in
+C. under
+D. above
+ANSWER: B
+
+Is there a park ___ the school?
+A. behind
+B. under
+C. between
+D. on
+ANSWER: A
+
+Are there any pencils ___ the desk?
+A. under
+B. between
+C. on
+D. behind
+ANSWER: C
+
+Is there a window ___ the wall?
+A. in
+B. under
+C. between
+D. above
+ANSWER: A
+
+Are there any chairs ___ the table?
+A. between
+B. around
+C. under
+D. behind
+ANSWER: B
+
+Is there a cat ___ the box?
+A. inside
+B. above
+C. between
+D. behind
+ANSWER: A
+
+Are there any children ___ the playground?
+A. in
+B. between
+C. under
+D. above
+ANSWER: A
+
+Is there a river ___ the mountains?
+A. between
+B. under
+C. on
+D. behind
+ANSWER: A
+
+Are there any flowers ___ the garden?
+A. in
+B. between
+C. under
+D. behind
+ANSWER: A
+
+Is there a chair ___ the desk?
+A. under
+B. between
+C. on
+D. above
+ANSWER: A
+
+Are there any pictures ___ the wall?
+A. on
+B. between
+C. under
+D. behind
+ANSWER: A
+
+Is there a bus stop ___ the school?
+A. in front of
+B. under
+C. between
+D. above
+ANSWER: A
+
+Are there any ducks ___ the pond?
+A. in
+B. between
+C. under
+D. above
+ANSWER: A
+
+Is there a cat ___ the two boxes?
+A. between
+B. under
+C. behind
+D. on
+ANSWER: A
+
+Are there any trees ___ the road?
+A. along
+B. between
+C. under
+D. behind
+ANSWER: A
+
+Is there a bridge ___ the river?
+A. over
+B. under
+C. between
+D. behind
+ANSWER: A
+
+Are there any students ___ the teacher?
+A. behind
+B. under
+C. between
+D. above
+ANSWER: A
+
+Is there a dog ___ the gate?
+A. at
+B. between
+C. under
+D. behind
+ANSWER: A
+
+Are there any houses ___ the hill?
+A. on
+B. between
+C. under
+D. behind
+ANSWER: A
+
+Is there a bike ___ the car and the bus?
+A. between
+B. under
+C. behind
+D. on
+ANSWER: A
+
+Are there any birds ___ the roof?
+A. on
+B. between
+C. under
+D. behind
+ANSWER: A
+
+Is there a box ___ the table?
+A. under
+B. between
+C. behind
+D. above
+ANSWER: A
+
+Are there any toys ___ the bed?
+A. under
+B. between
+C. above
+D. behind
+ANSWER: A
+
+Is there a teacher ___ the classroom door?
+A. near
+B. between
+C. under
+D. above
+ANSWER: A
+
+Are there any flowers ___ the house?
+A. in front of
+B. between
+C. under
+D. behind
+ANSWER: A
+
+Is there a cat ___ the window?
+A. by
+B. between
+C. under
+D. above
+ANSWER: A
+
