@@ -1,1890 +1,3060 @@
-What ___ the dog doing in the yard?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-Where ___ the children playing now?
-A. is
-B. am
-C. are
-D. be
-ANSWER: C
-
-How many books ___ on the desk?
-A. be
-B. is
-C. are
-D. am
-ANSWER: C
-
-Is this your hat ___ the table?
-A. under
-B. in
-C. at
-D. on
-ANSWER: D
-
-Which animal ___ in the river?
-A. swimming
-B. swim
-C. swims
-D. swam
-ANSWER: C
-
-Are they ___ TV now?
-A. watched
-B. watching
-C. watch
-D. watches
-ANSWER: B
-
-What ___ in the box?
-A. am
-B. are
-C. be
-D. is
-ANSWER: D
-
-Where ___ the cat sleeping?
-A. are
-B. is
-C. am
-D. be
-ANSWER: B
-
-How many apples ___ in the basket?
-A. is
-B. be
-C. are
-D. am
-ANSWER: C
-
-Is this a panda ___ a bear?
-A. and
-B. but
-C. or
-D. so
-ANSWER: C
-
-Which student ___ the fastest?
-A. runs
-B. run
-C. running
-D. ran
-ANSWER: A
-
-What ___ the teacher doing now?
-A. are
-B. be
-C. is
-D. am
-ANSWER: C
-
-Where ___ the bird flying?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-Are they ___ soccer in the park?
-A. played
-B. playing
-C. play
-D. plays
-ANSWER: B
-
-How many students ___ in the classroom?
-A. are
-B. am
-C. is
-D. be
-ANSWER: A
-
-Is this your book ___ your notebook?
-A. but
-B. or
-C. and
-D. so
-ANSWER: B
-
-What ___ in the sky tonight?
-A. be
-B. is
-C. are
-D. am
-ANSWER: B
-
-Where ___ the monkey jumping?
-A. am
-B. be
+What animal ___ Alex got in his bedroom?
+A. have
+B. has
 C. is
 D. are
-ANSWER: C
-
-Which animal ___ on the farm?
-A. live
-B. lives
-C. living
-D. lived
 ANSWER: B
-
-Are they ___ lunch now?
-A. eat
-B. eating
-C. eats
-D. eaten
+What animal has Alex ___ in his bedroom?
+A. get
+B. got
+C. getting
+D. gets
 ANSWER: B
-
-What ___ in the bowl on the table?
-A. are
-B. am
-C. be
-D. is
-ANSWER: D
-
-How many chairs ___ in the room?
-A. is
-B. are
-C. am
-D. be
-ANSWER: B
-
-Is this a tiger ___ a lion?
-A. so
-B. but
-C. or
-D. and
-ANSWER: C
-
-Where ___ the dog running now?
-A. is
-B. am
-C. be
-D. are
-ANSWER: A
-
-Which fruit ___ in the basket?
-A. are
-B. be
-C. am
-D. is
-ANSWER: D
-
-Are they ___ in the garden?
-A. play
-B. plays
-C. playing
-D. played
-ANSWER: C
-
-What ___ the baby doing?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-How many pencils ___ on the desk?
-A. am
-B. be
-C. is
-D. are
-ANSWER: D
-
-Is this your pen ___ under the chair?
-A. on
-B. in
-C. at
-D. under
-ANSWER: D
-
-Where ___ the horse running?
-A. are
-B. is
-C. be
-D. am
-ANSWER: B
-
-Which animal ___ in the zoo?
-A. live
-B. living
-C. lives
-D. lived
-ANSWER: C
-
-Are they ___ in the classroom now?
-A. studying
-B. study
-C. studies
-D. studied
-ANSWER: A
-
-What ___ in the fridge?
-A. is
-B. are
-C. be
-D. am
-ANSWER: A
-
-How many dogs ___ in the park?
-A. is
-B. be
-C. are
-D. am
-ANSWER: C
-
-Is this your bag ___ your desk?
-A. and
-B. or
-C. so
-D. but
-ANSWER: B
-
-Where ___ the bird sitting?
-A. are
-B. is
-C. be
-D. am
-ANSWER: B
-
-Which child ___ the highest?
-A. jumps
-B. jump
-C. jumping
-D. jumped
-ANSWER: A
-
-Are they ___ dinner now?
-A. eats
-B. eaten
-C. eating
-D. eat
-ANSWER: C
-
-What ___ the boy doing in the yard?
-A. am
-B. be
-C. are
-D. is
-ANSWER: D
-
-How many students ___ in your class?
-A. are
-B. am
-C. is
-D. be
-ANSWER: A
-What ___ the girl doing in the kitchen?
-A. be
-B. am
-C. is
-D. are
-ANSWER: C
-
-Where ___ the boys playing football?
-A. is
-B. are
-C. am
-D. be
-ANSWER: B
-
-How many oranges ___ in the basket?
-A. are
-B. is
-C. be
-D. am
-ANSWER: A
-
-Is this your jacket ___ the chair?
-A. in
-B. under
-C. on
-D. at
-ANSWER: C
-
-Which animal ___ in the pond?
-A. swims
-B. swim
-C. swimming
-D. swam
-ANSWER: A
-
-Are they ___ a movie now?
-A. watch
-B. watched
-C. watching
-D. watches
-ANSWER: C
-
-What ___ in the classroom today?
-A. are
-B. am
-C. is
-D. be
-ANSWER: C
-
-Where ___ the cat sitting?
-A. be
-B. are
-C. am
-D. is
-ANSWER: D
-
-How many chairs ___ in the living room?
-A. is
-B. be
-C. are
-D. am
-ANSWER: C
-
-Is this a monkey ___ a zebra?
-A. or
-B. and
-C. so
-D. but
-ANSWER: A
-
-Which student ___ English very well?
-A. speak
-B. speaking
-C. speaks
-D. spoke
-ANSWER: C
-
-Are they ___ breakfast now?
-A. eat
-B. eating
-C. eats
-D. eaten
-ANSWER: B
-
-What ___ the teacher holding?
-A. are
-B. am
-C. be
-D. is
-ANSWER: D
-
-Where ___ the birds flying?
-A. is
-B. are
-C. am
-D. be
-ANSWER: B
-
-How many pencils ___ on the desk?
-A. are
-B. am
-C. is
-D. be
-ANSWER: A
-
-Is this your ruler ___ your pen?
-A. but
-B. so
-C. or
-D. and
-ANSWER: C
-
-Which animal ___ in the zoo today?
-A. live
-B. lives
-C. living
-D. lived
-ANSWER: B
-
-Are they ___ in the park now?
-A. run
-B. running
-C. runs
-D. ran
-ANSWER: B
-
-What ___ in the sky right now?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-Where ___ the dog sleeping?
-A. are
-B. am
-C. is
-D. be
-ANSWER: C
-
-How many students ___ in the school?
-A. is
-B. are
-C. am
-D. be
-ANSWER: B
-
-Is this your bag ___ under the desk?
+What animal has Alex got ___ his bedroom?
 A. in
 B. on
 C. at
 D. under
-ANSWER: D
-
-Which fruit ___ sweet?
-A. taste
-B. tasting
-C. tastes
-D. tasted
-ANSWER: C
-
-Are they ___ music now?
-A. listen
-B. listens
-C. listening
-D. listened
-ANSWER: C
-
-What ___ the baby doing now?
-A. are
-B. is
-C. am
-D. be
-ANSWER: B
-
-Where ___ the monkey climbing?
-A. are
-B. be
-C. am
-D. is
-ANSWER: D
-
-How many dogs ___ in the yard?
-A. is
-B. am
-C. are
-D. be
-ANSWER: C
-
-Is this a lion ___ a tiger?
-A. so
-B. or
-C. but
-D. and
-ANSWER: B
-
-Which child ___ the fastest in the class?
-A. run
-B. running
-C. runs
-D. ran
-ANSWER: C
-
-Are they ___ dinner now?
-A. eating
-B. eat
-C. eats
-D. eaten
 ANSWER: A
-
-What ___ in the box on the table?
-A. are
-B. be
-C. is
-D. am
+What animal has Alex got in ___ bedroom?
+A. a
+B. an
+C. the
+D. Ø
 ANSWER: C
-
-Where ___ the horse standing?
-A. am
-B. are
-C. is
-D. be
-ANSWER: C
-
-How many apples ___ on the plate?
-A. are
-B. is
-C. be
-D. am
+What animal has Alex got in his ___?
+A. bedroom
+B. kitchen
+C. garden
+D. school
 ANSWER: A
-
-Is this your notebook ___ your book?
+What ___ Lucy got in her hand?
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+What has Lucy ___ in her hand?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What has Lucy got ___ her hand?
+A. in
+B. on
+C. under
+D. behind
+ANSWER: A
+What has Lucy got in ___ hand?
+A. she
+B. her
+C. hers
+D. herself
+ANSWER: B
+What has Lucy got in her ___?
+A. bag
+B. hand
+C. room
+D. desk
+ANSWER: B
+What vegetables ___ Mum got in the kitchen?
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+What vegetables has Mum ___ in the kitchen?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What vegetables has Mum got ___ the kitchen?
+A. in
+B. on
+C. at
+D. over
+ANSWER: A
+What vegetables has Mum got in ___ kitchen?
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+What vegetables has Mum got in the ___?
+A. bedroom
+B. kitchen
+C. garden
+D. hall
+ANSWER: B
+What fruit ___ Dad got in the living room?
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+What fruit has Dad ___ in the living room?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What fruit has Dad got ___ the living room?
+A. in
+B. on
+C. under
+D. behind
+ANSWER: A
+What fruit has Dad got in the ___ room?
+A. living
+B. dining
+C. bath
+D. bed
+ANSWER: A
+What fruit has Dad got in the living ___?
+A. room
+B. rooms
+C. room’s
+D. rooming
+ANSWER: A
+Sunny ___ got one pink doll and one yo-yo.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+Sunny has ___ one pink doll and one yo-yo.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+Sunny has got one pink doll ___ one yo-yo.
 A. but
-B. and
-C. so
-D. or
-ANSWER: D
-
-Which animal ___ very big?
-A. are
-B. is
-C. am
-D. be
-ANSWER: B
-
-Are they ___ in the classroom now?
-A. study
-B. studying
-C. studies
-D. studied
-ANSWER: B
-
-What ___ the boy eating?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-Where ___ the children playing now?
-A. are
-B. am
-C. is
-D. be
-ANSWER: A
-
-How many books ___ in your bag?
-A. be
-B. are
-C. is
-D. am
-ANSWER: B
-
-Is this your hat ___ the table?
-A. on
-B. at
-C. in
-D. under
-ANSWER: A
-What ___ the monkey doing in the tree?
-A. am
-B. is
-C. are
-D. be
-ANSWER: B
-
-Where ___ the girls studying now?
-A. is
-B. am
-C. are
-D. be
+B. or
+C. and
+D. so
 ANSWER: C
-
-How many bananas ___ in the basket?
-A. is
-B. are
-C. am
-D. be
+Sunny has got one ___ doll and one yo-yo.
+A. pink
+B. pinks
+C. pinking
+D. pinked
+ANSWER: A
+Sunny has got one pink doll and one ___.
+A. yo-yo
+B. yo
+C. yoyo
+D. yoyos
+ANSWER: A
+What toys ___ Sunny got in her bedroom?
+A. have
+B. has
+C. is
+D. are
 ANSWER: B
-
-Is this your phone ___ the sofa?
-A. on
-B. in
+What toys has Sunny ___ in her bedroom?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What toys has Sunny got ___ her bedroom?
+A. in
+B. on
 C. at
 D. under
 ANSWER: A
-
-Which animal ___ in the forest?
-A. live
-B. living
-C. lives
-D. lived
-ANSWER: C
-
-Are they ___ the bus now?
-A. take
-B. takes
-C. taking
-D. taken
-ANSWER: C
-
-What ___ in the bag?
-A. be
-B. is
-C. are
-D. am
+What toys has Sunny got in ___ bedroom?
+A. she
+B. her
+C. hers
+D. herself
 ANSWER: B
-
-Where ___ the boy sitting?
-A. are
-B. be
+What toys has Sunny got in her ___?
+A. kitchen
+B. bedroom
+C. garden
+D. school
+ANSWER: B
+What ___ you got in your school bag?
+A. have
+B. has
 C. is
-D. am
+D. are
+ANSWER: A
+What have you ___ in your school bag?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What have you got ___ your school bag?
+A. in
+B. on
+C. at
+D. under
+ANSWER: A
+What have you got in ___ school bag?
+A. you
+B. your
+C. yours
+D. yourself
+ANSWER: B
+What have you got in your ___?
+A. desk
+B. bag
+C. school bag
+D. room
 ANSWER: C
-
-How many birds ___ in the sky?
+What animals ___ we got in the house?
+A. has
+B. have
+C. is
+D. are
+ANSWER: B
+What animals have we ___ in the house?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What animals have we got ___ the house?
+A. in
+B. on
+C. at
+D. under
+ANSWER: A
+What animals have we got in ___ house?
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+What animals have we got in the ___?
+A. house
+B. garden
+C. farm
+D. school
+ANSWER: A
+What fruit ___ they got in the basket?
+A. has
+B. have
+C. is
+D. are
+ANSWER: B
+What fruit have they ___ in the basket?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What fruit have they got ___ the basket?
+A. in
+B. on
+C. under
+D. over
+ANSWER: A
+What fruit have they got in ___ basket?
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+What fruit have they got in the ___?
+A. basket
+B. box
+C. bag
+D. room
+ANSWER: A
+What toys ___ I got in the drawer?
+A. has
+B. have
+C. is
+D. are
+ANSWER: B
+What toys have I ___ in the drawer?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What toys have I got ___ the drawer?
+A. in
+B. on
+C. at
+D. under
+ANSWER: A
+What toys have I got in ___ drawer?
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+What toys have I got in the ___?
+A. box
+B. drawer
+C. bag
+D. room
+ANSWER: B
+What animals ___ he got on his farm?
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+What animals has he ___ on his farm?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What animals has he got ___ his farm?
+A. in
+B. on
+C. at
+D. under
+ANSWER: B
+What animals has he got on ___ farm?
+A. he
+B. his
+C. him
+D. himself
+ANSWER: B
+What animals has he got on his ___?
+A. farm
+B. house
+C. room
+D. desk
+ANSWER: A
+What fruit ___ she got in her garden?
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+What fruit has she ___ in her garden?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What fruit has she got ___ her garden?
+A. in
+B. on
+C. at
+D. under
+ANSWER: A
+What fruit has she got in ___ garden?
+A. she
+B. her
+C. hers
+D. herself
+ANSWER: B
+What fruit has she got in her ___?
+A. house
+B. garden
+C. room
+D. bag
+ANSWER: B
+What vegetables ___ he got in his basket?
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+What vegetables has he ___ in his basket?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What vegetables has he got ___ his basket?
+A. in
+B. on
+C. under
+D. over
+ANSWER: A
+What vegetables has he got in ___ basket?
+A. he
+B. his
+C. him
+D. himself
+ANSWER: B
+What vegetables has he got in his ___?
+A. bag
+B. basket
+C. room
+D. desk
+ANSWER: B
+What fruit ___ she got in the bin?
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+What fruit has she ___ in the bin?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What fruit has she got ___ the bin?
+A. in
+B. on
+C. under
+D. at
+ANSWER: A
+What fruit has she got in ___ bin?
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+What fruit has she got in the ___?
+A. bag
+B. bin
+C. box
+D. room
+ANSWER: B
+What toys ___ she got in her bin?
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+What toys has she ___ in her bin?
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+What toys has she got ___ her bin?
+A. in
+B. on
+C. at
+D. over
+ANSWER: A
+What toys has she got in ___ bin?
+A. she
+B. her
+C. hers
+D. herself
+ANSWER: B
+What toys has she got in her ___?
+A. room
+B. bin
+C. bag
+D. desk
+ANSWER: B
+Which picture ___ May and Sam looking at?
 A. is
-B. am
-C. are
+B. are
+C. am
+D. be
+ANSWER: B
+Which picture are May and Sam ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which picture are May and Sam looking ___?
+A. in
+B. at
+C. on
+D. under
+ANSWER: B
+Which picture are ___ and Sam looking at?
+A. May
+B. She
+C. They
+D. We
+ANSWER: A
+Which picture are May and Sam looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+Which dolphin ___ he looking at?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which dolphin is he ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which dolphin is he looking ___?
+A. in
+B. on
+C. at
+D. under
+ANSWER: C
+Which dolphin is ___ looking at?
+A. he
+B. him
+C. his
+D. himself
+ANSWER: A
+Which dolphin is he looking at ___?
+A. now
+B. yesterday
+C. last night
+D. tomorrow
+ANSWER: A
+Which shark ___ she looking at?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which shark is she ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which shark is she looking ___?
+A. in
+B. on
+C. at
+D. under
+ANSWER: C
+Which shark is ___ looking at?
+A. she
+B. her
+C. hers
+D. herself
+ANSWER: A
+Which shark is she looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+Which pomelo ___ he looking at?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which pomelo is he ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which pomelo is he looking ___?
+A. in
+B. at
+C. on
+D. under
+ANSWER: B
+Which pomelo is ___ looking at?
+A. he
+B. him
+C. his
+D. himself
+ANSWER: A
+Which pomelo is he looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last night
+ANSWER: A
+Which grapes ___ she looking at?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which grapes is she ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which grapes is she looking ___?
+A. in
+B. on
+C. at
+D. under
+ANSWER: C
+Which grapes is ___ looking at?
+A. she
+B. her
+C. hers
+D. herself
+ANSWER: A
+Which grapes is she looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+Which durian ___ she looking at?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which durian is she ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which durian is she looking ___?
+A. in
+B. at
+C. on
+D. under
+ANSWER: B
+Which durian is ___ looking at?
+A. she
+B. her
+C. hers
+D. herself
+ANSWER: A
+Which durian is she looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last night
+ANSWER: A
+Which shark ___ you looking at?
+A. is
+B. are
+C. am
+D. be
+ANSWER: B
+Which shark are you ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which shark are you looking ___?
+A. in
+B. on
+C. at
+D. under
+ANSWER: C
+Which shark are ___ looking at?
+A. you
+B. your
+C. yours
+D. yourself
+ANSWER: A
+Which shark are you looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last night
+ANSWER: A
+Which pomelo ___ we looking at?
+A. is
+B. are
+C. am
+D. be
+ANSWER: B
+Which pomelo are we ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which pomelo are we looking ___?
+A. in
+B. on
+C. at
+D. under
+ANSWER: C
+Which pomelo are ___ looking at?
+A. we
+B. us
+C. our
+D. ourselves
+ANSWER: A
+Which pomelo are we looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+Which grapes ___ they looking at?
+A. is
+B. are
+C. am
+D. be
+ANSWER: B
+Which grapes are they ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which grapes are they looking ___?
+A. in
+B. on
+C. at
+D. under
+ANSWER: C
+Which grapes are ___ looking at?
+A. they
+B. them
+C. their
+D. themselves
+ANSWER: A
+Which grapes are they looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last night
+ANSWER: A
+Which durian ___ I looking at?
+A. is
+B. are
+C. am
 D. be
 ANSWER: C
-
-Is this a dog ___ a cat?
-A. and
-B. or
-C. but
-D. so
+Which durian am I ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which durian am I looking ___?
+A. in
+B. on
+C. at
+D. under
+ANSWER: C
+Which durian am ___ looking at?
+A. I
+B. me
+C. my
+D. myself
+ANSWER: A
+Which durian am I looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+Which drawer ___ we looking at?
+A. is
+B. are
+C. am
+D. be
 ANSWER: B
-
-Which student ___ very hard?
-A. study
-B. studies
-C. studying
-D. studied
+Which drawer are we ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which drawer are we looking ___?
+A. in
+B. on
+C. at
+D. under
+ANSWER: C
+Which drawer are ___ looking at?
+A. we
+B. us
+C. our
+D. ourselves
+ANSWER: A
+Which drawer are we looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last night
+ANSWER: A
+Which armchair ___ you looking at?
+A. is
+B. are
+C. am
+D. be
 ANSWER: B
+Which armchair are you ___ at?
+A. look
+B. looks
+C. looking
+D. looked
+ANSWER: C
+Which armchair are you looking ___?
+A. in
+B. on
+C. at
+D. under
+ANSWER: C
+Which armchair are ___ looking at?
+A. you
+B. your
+C. yours
+D. yourself
+ANSWER: A
+Which armchair are you looking at ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last night
+ANSWER: A
+What kind of grapes ___ Grandpa like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: B
+What kind of grapes does Grandpa ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of grapes does Grandpa like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of grapes does ___ like best?
+A. Grandpa
+B. him
+C. his
+D. himself
+ANSWER: A
+What kind of ___ does Grandpa like best?
+A. grapes
+B. grape
+C. grape’s
+D. grap
+ANSWER: A
+What kind of pomelo ___ Uncle Thang like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: B
+What kind of pomelo does Uncle Thang ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of pomelo does Uncle Thang like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of pomelo does ___ like best?
+A. Uncle Thang
+B. him
+C. his
+D. himself
+ANSWER: A
+What kind of ___ does Uncle Thang like best?
+A. pomelo
+B. pomelos
+C. pomeloes
+D. pomel
+ANSWER: A
+What kind of desk lamp ___ you like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: A
+What kind of desk lamp do you ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of desk lamp do you like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of desk ___ do you like best?
+A. lamp
+B. lamps
+C. lam
+D. lampp
+ANSWER: A
+What kind of desk lamp do ___ like best?
+A. you
+B. your
+C. yours
+D. yourself
+ANSWER: A
+What kind of wristwatch ___ they like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: A
+What kind of wristwatch do they ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of wristwatch do they like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of wristwatch do ___ like best?
+A. they
+B. them
+C. their
+D. themselves
+ANSWER: A
+What kind of ___ do they like best?
+A. wristwatch
+B. watch
+C. watches
+D. watchs
+ANSWER: A
+What kind of wall clock ___ she like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: B
+What kind of wall clock does she ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of wall clock does she like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of wall ___ does she like best?
+A. clock
+B. clocks
+C. clok
+D. clockes
+ANSWER: A
+What kind of wall clock does ___ like best?
+A. she
+B. her
+C. hers
+D. herself
+ANSWER: A
+What kind of drinking glass ___ he like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: B
+What kind of drinking glass does he ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of drinking glass does he like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of drinking ___ does he like best?
+A. glass
+B. glasses
+C. glasse
+D. glasss
+ANSWER: A
+What kind of drinking glass does ___ like best?
+A. he
+B. him
+C. his
+D. himself
+ANSWER: A
 
-Are they ___ homework now?
+What kind of table lamp ___ you like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: A
+What kind of table lamp do you ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of table lamp do you like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of table ___ do you like best?
+A. lamp
+B. lamps
+C. lam
+D. lampp
+ANSWER: A
+What kind of table lamp do ___ like best?
+A. you
+B. your
+C. yours
+D. yourself
+ANSWER: A
+What kind of bookcase ___ Sunny like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: B
+What kind of bookcase does Sunny ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of bookcase does Sunny like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of ___ does Sunny like best?
+A. bookcase
+B. bookcases
+C. bookcasees
+D. bookcas
+ANSWER: A
+What kind of bookcase does ___ like best?
+A. Sunny
+B. her
+C. she
+D. hers
+ANSWER: A
+What kind of insect ___ Lucy like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: B
+What kind of insect does Lucy ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of insect does Lucy like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of ___ does Lucy like best?
+A. insect
+B. insects
+C. insectes
+D. insect’s
+ANSWER: A
+What kind of insect does ___ like best?
+A. Lucy
+B. her
+C. she
+D. herself
+ANSWER: A
+What kind of elephant ___ Uncle Dong like best?
+A. do
+B. does
+C. is
+D. are
+ANSWER: B
+What kind of elephant does Uncle Dong ___ best?
+A. like
+B. likes
+C. liking
+D. liked
+ANSWER: A
+What kind of elephant does Uncle Dong like ___?
+A. good
+B. better
+C. best
+D. well
+ANSWER: C
+What kind of ___ does Uncle Dong like best?
+A. elephant
+B. elephants
+C. elefant
+D. elephant’s
+ANSWER: A
+What kind of elephant does ___ like best?
+A. Uncle Dong
+B. him
+C. his
+D. himself
+ANSWER: A
+What ___ Mrs Good’s class do this afternoon?
+A. will
+B. does
+C. do
+D. is
+ANSWER: A
+What will Mrs Good’s class ___ this afternoon?
 A. do
 B. does
 C. doing
-D. done
-ANSWER: C
-
-What ___ the dog holding?
-A. are
-B. am
-C. be
+D. did
+ANSWER: A
+What will Mrs Good’s class do ___ afternoon?
+A. this
+B. these
+C. that
+D. those
+ANSWER: A
+What will Mrs Good’s class do this ___?
+A. morning
+B. afternoon
+C. evening
+D. night
+ANSWER: B
+What will ___ class do this afternoon?
+A. Mrs Good’s
+B. her
+C. she
+D. hers
+ANSWER: A
+What ___ Mr Pahan’s class do this morning?
+A. will
+B. does
+C. do
 D. is
-ANSWER: D
-
-Where ___ the ducks swimming?
-A. is
-B. are
-C. am
-D. be
-ANSWER: B
-
-How many pencils ___ in your pencil case?
-A. are
-B. is
-C. am
-D. be
 ANSWER: A
-
-Is this your jacket ___ your coat?
-A. but
-B. and
-C. so
-D. or
-ANSWER: D
-
-Which animal ___ the fastest?
-A. run
-B. runs
-C. running
-D. ran
-ANSWER: B
-
-Are they ___ in the library now?
-A. read
-B. reads
-C. reading
-D. readed
-ANSWER: C
-
-What ___ in the fridge?
-A. are
-B. am
-C. is
-D. be
-ANSWER: C
-
-Where ___ the baby sleeping?
-A. are
-B. is
-C. am
-D. be
-ANSWER: B
-
-How many students ___ in your class today?
-A. is
-B. am
-C. are
-D. be
-ANSWER: C
-
-Is this your pen ___ under the chair?
-A. at
-B. in
-C. under
-D. on
-ANSWER: C
-
-Which fruit ___ very sweet?
-A. taste
-B. tasting
-C. tastes
-D. tasted
-ANSWER: C
-
-Are they ___ a song now?
-A. sing
-B. singing
-C. sings
-D. sung
-ANSWER: B
-
-What ___ the teacher saying?
-A. is
-B. are
-C. am
-D. be
+What will Mr Pahan’s class ___ this morning?
+A. do
+B. does
+C. doing
+D. did
 ANSWER: A
-
-Where ___ the horse running?
-A. am
-B. is
-C. are
-D. be
+What will Mr Pahan’s class do ___ morning?
+A. this
+B. these
+C. that
+D. those
+ANSWER: A
+What will Mr Pahan’s class do this ___?
+A. afternoon
+B. morning
+C. night
+D. week
 ANSWER: B
-
-How many chairs ___ in the classroom?
-A. are
-B. is
-C. am
-D. be
+What will ___ class do this morning?
+A. Mr Pahan’s
+B. him
+C. his
+D. himself
 ANSWER: A
-
-Is this a zebra ___ a horse?
-A. or
-B. and
-C. but
-D. so
-ANSWER: A
-
-Which child ___ the highest in the class?
-A. jump
-B. jumping
-C. jumped
-D. jumps
-ANSWER: D
-
-Are they ___ breakfast now?
-A. eat
-B. eaten
-C. eating
-D. eats
-ANSWER: C
-
-What ___ in the sky above us?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-Where ___ the monkey sitting?
-A. are
-B. am
-C. be
+What ___ Sue’s class do this evening?
+A. will
+B. does
+C. do
 D. is
+ANSWER: A
+What will Sue’s class ___ this evening?
+A. do
+B. does
+C. doing
+D. did
+ANSWER: A
+What will Sue’s class do ___ evening?
+A. this
+B. these
+C. that
+D. those
+ANSWER: A
+What will Sue’s class do this ___?
+A. morning
+B. evening
+C. week
+D. month
+ANSWER: B
+What will ___ class do this evening?
+A. Sue’s
+B. her
+C. she
+D. hers
+ANSWER: A
+What ___ Ann’s class do tomorrow?
+A. will
+B. does
+C. do
+D. is
+ANSWER: A
+What will Ann’s class ___ tomorrow?
+A. do
+B. does
+C. doing
+D. did
+ANSWER: A
+What will Ann’s class do ___?
+A. yesterday
+B. tomorrow
+C. today
+D. now
+ANSWER: B
+What will ___ class do tomorrow?
+A. Ann’s
+B. her
+C. she
+D. hers
+ANSWER: A
+What will Ann’s class do tomorrow ___?
+A. morning
+B. afternoon
+C. night
+D. Ø
 ANSWER: D
-
-How many oranges ___ on the table?
-A. is
-B. am
-C. are
-D. be
-ANSWER: C
-
-Is this your bag ___ your backpack?
-A. so
-B. but
-C. or
-D. and
-ANSWER: C
-
-Which animal ___ in the zoo today?
-A. live
-B. lives
-C. living
-D. lived
-ANSWER: B
-
-Are they ___ in the yard now?
-A. play
-B. playing
-C. plays
-D. played
-ANSWER: B
-
-What ___ the boy drinking?
-A. are
-B. is
-C. am
-D. be
-ANSWER: B
-
-Where ___ the children going?
-A. are
-B. is
-C. am
-D. be
+What ___ Lucy’s class do tonight?
+A. will
+B. does
+C. do
+D. is
 ANSWER: A
-
-How many dogs ___ in the park?
-A. is
-B. are
-C. am
-D. be
+What will Lucy’s class ___ tonight?
+A. do
+B. does
+C. doing
+D. did
+ANSWER: A
+What will Lucy’s class do ___?
+A. yesterday
+B. tonight
+C. today
+D. now
 ANSWER: B
-
-Is this your hat ___ on the bed?
+What will ___ class do tonight?
+A. Lucy’s
+B. her
+C. she
+D. hers
+ANSWER: A
+What will Lucy’s class do tonight ___?
 A. at
-B. in
-C. on
-D. under
-ANSWER: C
-Rồi nè 👍 mình làm tiếp Phần 4 và Phần 5, hoàn tất đủ 200 câu.
-Vẫn giữ đúng yêu cầu: không đánh số, đáp án trộn ngẫu nhiên, có ANSWER.
-
-✅ PHẦN 4
-
-What ___ the girl reading now?
-A. are
-B. am
-C. is
-D. be
-ANSWER: C
-
-Where ___ the boys going?
-A. are
-B. is
-C. am
-D. be
+B. on
+C. in
+D. Ø
+ANSWER: D
+What ___ Nick’s class do this afternoon?
+A. will
+B. does
+C. do
+D. is
 ANSWER: A
-
-How many pens ___ on the desk?
-A. is
-B. are
-C. am
-D. be
+What will Nick’s class ___ this afternoon?
+A. do
+B. does
+C. doing
+D. did
+ANSWER: A
+What will Nick’s class do ___ afternoon?
+A. this
+B. these
+C. that
+D. those
+ANSWER: A
+What will ___ class do this afternoon?
+A. Nick’s
+B. his
+C. him
+D. himself
+ANSWER: A
+What will Nick’s class do this ___?
+A. morning
+B. afternoon
+C. night
+D. week
 ANSWER: B
-
-Is this your book ___ the table?
-A. under
-B. in
-C. on
+What ___ Sunny’s class do this week?
+A. will
+B. does
+C. do
+D. is
+ANSWER: A
+What will Sunny’s class ___ this week?
+A. do
+B. does
+C. doing
+D. did
+ANSWER: A
+What will Sunny’s class do ___ week?
+A. this
+B. these
+C. that
+D. those
+ANSWER: A
+What will ___ class do this week?
+A. Sunny’s
+B. her
+C. she
+D. hers
+ANSWER: A
+What will Sunny’s class do this ___?
+A. day
+B. week
+C. month
+D. year
+ANSWER: B
+What ___ Pat’s class do this weekend?
+A. will
+B. does
+C. do
+D. is
+ANSWER: A
+What will Pat’s class ___ this weekend?
+A. do
+B. does
+C. doing
+D. did
+ANSWER: A
+What will Pat’s class do ___ weekend?
+A. this
+B. these
+C. that
+D. those
+ANSWER: A
+What will ___ class do this weekend?
+A. Pat’s
+B. him
+C. his
+D. himself
+ANSWER: A
+What will Pat’s class do this ___?
+A. week
+B. weekend
+C. month
+D. morning
+ANSWER: B
+What ___ Jill’s class do this month?
+A. will
+B. does
+C. do
+D. is
+ANSWER: A
+What will Jill’s class ___ this month?
+A. do
+B. does
+C. doing
+D. did
+ANSWER: A
+What will Jill’s class do ___ month?
+A. this
+B. these
+C. that
+D. those
+ANSWER: A
+What will ___ class do this month?
+A. Jill’s
+B. her
+C. she
+D. hers
+ANSWER: A
+What will Jill’s class do this ___?
+A. week
+B. month
+C. day
+D. year
+ANSWER: B
+What ___ Dan’s class do at the end of this month?
+A. will
+B. does
+C. do
+D. is
+ANSWER: A
+What will Dan’s class ___ at the end of this month?
+A. do
+B. does
+C. doing
+D. did
+ANSWER: A
+What will Dan’s class do at the end ___ this month?
+A. in
+B. on
+C. of
 D. at
 ANSWER: C
-
-Which animal ___ in the tree?
-A. live
-B. living
-C. lives
-D. lived
-ANSWER: C
-
-Are they ___ a game now?
-A. play
-B. playing
-C. plays
-D. played
-ANSWER: B
-
-What ___ in the basket?
+What will Dan’s class do at the ___ of this month?
+A. end
+B. ending
+C. ended
+D. ends
+ANSWER: A
+What will ___ class do at the end of this month?
+A. Dan’s
+B. him
+C. his
+D. himself
+ANSWER: A
+Which dog ___ Anna’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
-
-Where ___ the cat hiding?
-A. are
-B. is
-C. am
-D. be
+Which dog is ___?
+A. Anna
+B. Anna’s
+C. Annas
+D. Annas’
 ANSWER: B
-
-How many students ___ in the library?
-A. is
-B. are
-C. am
-D. be
-ANSWER: B
-
-Is this a panda ___ a monkey?
-A. and
-B. or
-C. but
-D. so
-ANSWER: B
-
-Which child ___ very fast?
-A. run
-B. running
-C. runs
-D. ran
-ANSWER: C
-
-Are they ___ English now?
-A. speak
-B. speaking
-C. speaks
-D. spoken
-ANSWER: B
-
-What ___ the baby eating?
-A. are
-B. am
-C. is
-D. be
-ANSWER: C
-
-Where ___ the birds sitting?
-A. are
-B. is
-C. am
-D. be
+Which ___ is Anna’s?
+A. dog
+B. dogs
+C. dog’s
+D. doges
 ANSWER: A
-
-How many chairs ___ in your house?
-A. is
-B. am
-C. are
-D. be
-ANSWER: C
-
-Is this your ruler ___ your pencil?
-A. but
-B. so
-C. or
-D. and
-ANSWER: C
-
-Which animal ___ very strong?
+Which dog is Anna___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which pear ___ Pahan’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
-
-Are they ___ in the classroom?
-A. write
-B. writing
-C. writes
-D. wrote
+Which pear is ___?
+A. Pahan
+B. Pahan’s
+C. Pahans
+D. Pahans’
 ANSWER: B
-
-What ___ in the box?
-A. are
-B. am
-C. is
-D. be
-ANSWER: C
-
-Where ___ the dog sitting?
-A. is
-B. are
-C. am
-D. be
+Which ___ is Pahan’s?
+A. pear
+B. pears
+C. pear’s
+D. peares
 ANSWER: A
-
-How many apples ___ on the table?
-A. is
-B. are
-C. am
-D. be
+Which pear is Pahan___?
+A. s
+B. ’s
+C. es
+D. Ø
 ANSWER: B
-
-Is this your coat ___ under the bed?
-A. in
-B. at
-C. under
-D. on
-ANSWER: C
-
-Which student ___ very well?
-A. dance
-B. dancing
-C. dances
-D. danced
-ANSWER: C
-
-Are they ___ dinner now?
-A. eat
-B. eaten
-C. eating
-D. eats
-ANSWER: C
-
-What ___ the teacher doing today?
+Which pineapple ___ Lucy’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
-
-Where ___ the horse standing?
-A. are
-B. am
-C. is
-D. be
-ANSWER: C
-
-How many books ___ in your bag?
-A. are
-B. is
-C. am
-D. be
-ANSWER: A
-
-Is this your bag ___ your suitcase?
-A. and
-B. or
-C. so
-D. but
+Which pineapple is ___?
+A. Lucy
+B. Lucy’s
+C. Lucys
+D. Lucys’
 ANSWER: B
-
-Which animal ___ in the water?
-A. swim
-B. swimming
-C. swims
-D. swam
-ANSWER: C
-
-Are they ___ music now?
-A. listen
-B. listening
-C. listens
-D. listened
+Which ___ is Lucy’s?
+A. pineapple
+B. pineapples
+C. pineapple’s
+D. pineaple
+ANSWER: A
+Which pineapple is Lucy___?
+A. s
+B. ’s
+C. es
+D. Ø
 ANSWER: B
-
-What ___ in the sky?
-A. are
-B. am
-C. is
-D. be
-ANSWER: C
-
-Where ___ the monkey climbing?
+Which papaya ___ Sunny’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
-
-How many dogs ___ in the yard?
-A. is
-B. am
-C. are
-D. be
-ANSWER: C
-
-Is this your phone ___ the desk?
-A. under
-B. at
-C. in
-D. on
-ANSWER: D
-
-Which child ___ the fastest runner?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-Are they ___ homework now?
-A. do
-B. doing
-C. does
-D. done
+Which papaya is ___?
+A. Sunny
+B. Sunny’s
+C. Sunnys
+D. Sunnys’
 ANSWER: B
-
-What ___ the girl holding?
-A. is
-B. are
-C. am
-D. be
+Which ___ is Sunny’s?
+A. papaya
+B. papayas
+C. papaya’s
+D. papay
 ANSWER: A
-
-Where ___ the ducks swimming?
-A. are
-B. is
-C. am
-D. be
-ANSWER: A
-
-How many students ___ in the park?
-A. is
-B. are
-C. am
-D. be
+Which papaya is Sunny___?
+A. s
+B. ’s
+C. es
+D. Ø
 ANSWER: B
-
-Is this your notebook ___ your diary?
-A. or
-B. and
-C. but
-D. so
-ANSWER: A
-What ___ the boy drawing?
-A. are
-B. am
-C. is
+Which puppet ___ your mother’s?
+A. is
+B. are
+C. am
 D. be
+ANSWER: A
+Which puppet is ___ mother’s?
+A. you
+B. your
+C. yours
+D. yourself
+ANSWER: B
+Which ___ is your mother’s?
+A. puppet
+B. puppets
+C. puppet’s
+D. pupet
+ANSWER: A
+Which puppet is your mother___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which robot ___ your father’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which robot is ___ father’s?
+A. you
+B. your
+C. yours
+D. yourself
+ANSWER: B
+Which ___ is your father’s?
+A. robot
+B. robots
+C. robot’s
+D. robott
+ANSWER: A
+Which robot is your father___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which mango ___ Jill’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which mango is ___?
+A. Jill
+B. Jill’s
+C. Jills
+D. Jills’
+ANSWER: B
+Which ___ is Jill’s?
+A. mango
+B. mangoes
+C. mango’s
+D. mangoe
+ANSWER: A
+Which mango is Jill___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which teddy bear ___ Pat’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which teddy bear is ___?
+A. Pat
+B. Pat’s
+C. Pats
+D. Pats’
+ANSWER: B
+Which ___ is Pat’s?
+A. teddy bear
+B. teddy bears
+C. bear
+D. bears
+ANSWER: A
+Which teddy bear is Pat___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which T-shirt ___ Nick’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which T-shirt is ___?
+A. Nick
+B. Nick’s
+C. Nicks
+D. Nicks’
+ANSWER: B
+Which ___ is Nick’s?
+A. T-shirt
+B. T-shirts
+C. shirt
+D. shirts
+ANSWER: A
+Which T-shirt is Nick___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which plane ___ Tony’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which plane is ___?
+A. Tony
+B. Tony’s
+C. Tonys
+D. Tonys’
+ANSWER: B
+Which ___ is Tony’s?
+A. plane
+B. planes
+C. plane’s
+D. plan
+ANSWER: A
+Which plane is Tony___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which helicopter ___ Đức’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which helicopter is ___?
+A. Đức
+B. Đức’s
+C. Đứcs
+D. Đức’
+ANSWER: B
+Which ___ is Đức’s?
+A. helicopter
+B. helicopters
+C. helicopter’s
+D. helicoptr
+ANSWER: A
+Which helicopter is Đức___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which watermelon ___ Uncle Đồng’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which watermelon is ___?
+A. Uncle Đồng
+B. Uncle Đồng’s
+C. Uncles Đồng
+D. Đồng’s Uncle
+ANSWER: B
+Which ___ is Uncle Đồng’s?
+A. watermelon
+B. watermelons
+C. watermelon’s
+D. watermellon
+ANSWER: A
+Which watermelon is Uncle Đồng___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which flower ___ Aunt Tình’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which flower is ___?
+A. Aunt Tình
+B. Aunt Tình’s
+C. Aunts Tình
+D. Tình Aunt
+ANSWER: B
+Which ___ is Aunt Tình’s?
+A. flower
+B. flowers
+C. flower’s
+D. flowr
+ANSWER: A
+Which flower is Aunt Tình___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which gift ___ Uncle Cầu’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which gift is ___?
+A. Uncle Cầu
+B. Uncle Cầu’s
+C. Uncles Cầu
+D. Cầu Uncle
+ANSWER: B
+Which ___ is Uncle Cầu’s?
+A. gift
+B. gifts
+C. gift’s
+D. gif
+ANSWER: A
+Which gift is Uncle Cầu___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+Which hippo ___ Jennifer’s?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+Which hippo is ___?
+A. Jennifer
+B. Jennifer’s
+C. Jennifers
+D. Jennifers’
+ANSWER: B
+Which ___ is Jennifer’s?
+A. hippo
+B. hippos
+C. hippo’s
+D. hippoes
+ANSWER: A
+Which hippo is Jennifer___?
+A. s
+B. ’s
+C. es
+D. Ø
+ANSWER: B
+What ___ Lucy wearing?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+What is Lucy ___?
+A. wear
+B. wears
+C. wearing
+D. wore
 ANSWER: C
-
-Where ___ the girls studying?
-A. are
-B. is
+What is ___ wearing?
+A. Lucy
+B. her
+C. she
+D. hers
+ANSWER: A
+What is Lucy wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+What ___ Lucy’s mother wearing?
+A. is
+B. are
 C. am
 D. be
 ANSWER: A
-
-How many oranges ___ in the basket?
-A. are
-B. is
+What is Lucy’s mother ___?
+A. wear
+B. wears
+C. wearing
+D. wore
+ANSWER: C
+What is ___ mother wearing?
+A. Lucy
+B. Lucy’s
+C. Lucys
+D. Lucys’
+ANSWER: B
+What is Lucy’s mother wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last year
+ANSWER: A
+What ___ Lucy’s father wearing?
+A. is
+B. are
 C. am
 D. be
 ANSWER: A
-
-Is this your jacket ___ the chair?
+What is Lucy’s father ___?
+A. wear
+B. wears
+C. wearing
+D. wore
+ANSWER: C
+What is Lucy’s ___ wearing?
+A. father
+B. fathers
+C. father’s
+D. fater
+ANSWER: A
+What is Lucy’s father wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+What ___ Sunny wearing?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+What is Sunny ___?
+A. wear
+B. wears
+C. wearing
+D. wore
+ANSWER: C
+What is ___ wearing?
+A. Sunny
+B. her
+C. she
+D. hers
+ANSWER: A
+What is Sunny wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last night
+ANSWER: A
+What ___ Sunny’s mother wearing?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+What is Sunny’s mother ___?
+A. wear
+B. wears
+C. wearing
+D. wore
+ANSWER: C
+What is ___ mother wearing?
+A. Sunny
+B. Sunny’s
+C. Sunnys
+D. Sunnys’
+ANSWER: B
+What is Sunny’s mother wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last year
+ANSWER: A
+What ___ Sunny’s father wearing?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+What is Sunny’s father ___?
+A. wear
+B. wears
+C. wearing
+D. wore
+ANSWER: C
+What is Sunny’s ___ wearing?
+A. father
+B. fathers
+C. father’s
+D. fater
+ANSWER: A
+What is Sunny’s father wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+What ___ Pahan wearing?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+What is Pahan ___?
+A. wear
+B. wears
+C. wearing
+D. wore
+ANSWER: C
+What is ___ wearing?
+A. Pahan
+B. him
+C. his
+D. himself
+ANSWER: A
+What is Pahan wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+What ___ Tony wearing?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+What is Tony ___?
+A. wear
+B. wears
+C. wearing
+D. wore
+ANSWER: C
+What is ___ wearing?
+A. Tony
+B. him
+C. his
+D. himself
+ANSWER: A
+What is Tony wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last year
+ANSWER: A
+What ___ Đức wearing?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+What is Đức ___?
+A. wear
+B. wears
+C. wearing
+D. wore
+ANSWER: C
+What is ___ wearing?
+A. Đức
+B. him
+C. his
+D. himself
+ANSWER: A
+What is Đức wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+What ___ Uncle Thắng wearing?
+A. is
+B. are
+C. am
+D. be
+ANSWER: A
+What is Uncle Thắng ___?
+A. wear
+B. wears
+C. wearing
+D. wore
+ANSWER: C
+What is ___ wearing?
+A. Uncle Thắng
+B. him
+C. his
+D. himself
+ANSWER: A
+What is Uncle Thắng wearing ___?
+A. now
+B. yesterday
+C. tomorrow
+D. last week
+ANSWER: A
+Color the balloon ___ the boy’s hand yellow.
 A. in
 B. on
 C. at
 D. under
-ANSWER: B
-
-Which animal ___ in the jungle?
-A. live
-B. living
-C. lives
-D. lived
-ANSWER: C
-
-Are they ___ a film now?
-A. watch
-B. watching
-C. watches
-D. watched
-ANSWER: B
-
-What ___ in the bag?
-A. is
-B. are
-C. am
-D. be
 ANSWER: A
-
-Where ___ the baby sitting?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-How many pencils ___ on the desk?
-A. is
-B. am
-C. are
-D. be
+Color ___ balloon in the boy’s hand yellow.
+A. a
+B. an
+C. the
+D. Ø
 ANSWER: C
-
-Is this a horse ___ a zebra?
+Color the balloon in the ___ hand yellow.
+A. boy
+B. boys
+C. boy’s
+D. boys’
+ANSWER: C
+Color the balloon in the boy’s hand ___.
+A. red
+B. blue
+C. yellow
+D. green
+ANSWER: C
+Color the balloon ___ the boy’s hand yellow.
+A. into
+B. onto
+C. in
+D. over
+ANSWER: C
+Color the balloon ___ the two boxes pink.
+A. between
+B. under
+C. above
+D. behind
+ANSWER: A
+Color the balloon between ___ two boxes pink.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the balloon between the ___ boxes pink.
+A. two
+B. to
+C. too
+D. twos
+ANSWER: A
+Color the balloon between the two boxes ___.
+A. red
+B. blue
+C. pink
+D. green
+ANSWER: C
+Color the ___ between the two boxes pink.
+A. balloon
+B. balloons
+C. baloon
+D. baloons
+ANSWER: A
+Color the balloon ___ the table blue.
+A. under
+B. on
+C. in
+D. above
+ANSWER: A
+Color the balloon under ___ table blue.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the balloon under the ___ blue.
+A. table
+B. chair
+C. desk
+D. room
+ANSWER: A
+Color the balloon under the table ___.
+A. red
+B. blue
+C. yellow
+D. pink
+ANSWER: B
+Color ___ balloon under the table blue.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the balloon ___ the chair grey.
+A. on
+B. in
+C. under
+D. at
+ANSWER: A
+Color the balloon on ___ chair grey.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the balloon on the ___ grey.
+A. chair
+B. table
+C. desk
+D. floor
+ANSWER: A
+Color the balloon on the chair ___.
+A. red
+B. blue
+C. grey
+D. green
+ANSWER: C
+Color ___ balloon on the chair grey.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the balloon ___ the cat orange.
+A. behind
+B. under
+C. above
+D. between
+ANSWER: A
+Color the balloon behind ___ cat orange.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the balloon behind the ___ orange.
+A. dog
+B. cat
+C. bird
+D. fish
+ANSWER: B
+Color the balloon behind the cat ___.
+A. red
+B. blue
+C. orange
+D. yellow
+ANSWER: C
+Color ___ balloon behind the cat orange.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the candle ___ the floor blue.
+A. under
+B. on
+C. in
+D. above
+ANSWER: A
+Color the candle under ___ floor blue.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the candle under the ___ blue.
+A. floor
+B. table
+C. desk
+D. chair
+ANSWER: A
+Color the candle under the floor ___.
+A. red
+B. blue
+C. yellow
+D. green
+ANSWER: B
+Color ___ candle under the floor blue.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the face ___ the wall white.
+A. on
+B. in
+C. under
+D. behind
+ANSWER: A
+Color the face on ___ wall white.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the face on the ___ white.
+A. door
+B. wall
+C. floor
+D. desk
+ANSWER: B
+Color the face on the wall ___.
+A. red
+B. blue
+C. white
+D. pink
+ANSWER: C
+Color ___ face on the wall white.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the fruit basket ___ the bookshelf black and red.
+A. on
+B. in
+C. under
+D. between
+ANSWER: A
+Color the fruit basket on ___ bookshelf black and red.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the fruit basket on the ___ black and red.
+A. table
+B. bookshelf
+C. floor
+D. chair
+ANSWER: B
+Color the fruit basket on the bookshelf ___ and red.
+A. black
+B. blue
+C. white
+D. pink
+ANSWER: A
+Color ___ fruit basket on the bookshelf black and red.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the desk lamp ___ the study table yellow.
+A. on
+B. under
+C. in
+D. behind
+ANSWER: A
+Color the desk lamp on ___ study table yellow.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the desk lamp on the ___ yellow.
+A. chair
+B. study table
+C. floor
+D. door
+ANSWER: B
+Color the desk lamp on the study table ___.
+A. red
+B. blue
+C. yellow
+D. grey
+ANSWER: C
+Color ___ desk lamp on the study table yellow.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the banana ___ the drawer dark blue.
+A. in
+B. on
+C. at
+D. under
+ANSWER: A
+Color the banana in ___ drawer dark blue.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the banana in the ___ dark blue.
+A. bag
+B. drawer
+C. box
+D. basket
+ANSWER: B
+Color the banana in the drawer ___.
+A. red
+B. green
+C. dark blue
+D. yellow
+ANSWER: C
+Color ___ banana in the drawer dark blue.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the crocodile ___ the pond light red.
+A. under
+B. on
+C. in
+D. above
+ANSWER: A
+Color the crocodile under ___ pond light red.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the crocodile under the ___ light red.
+A. river
+B. pond
+C. lake
+D. sea
+ANSWER: B
+Color the crocodile under the pond ___ red.
+A. dark
+B. light
+C. bright
+D. deep
+ANSWER: B
+Color the crocodile under the pond light ___.
+A. red
+B. blue
+C. green
+D. yellow
+ANSWER: A
+Color the lunch box ___ the bookshelf purple.
+A. on
+B. in
+C. under
+D. behind
+ANSWER: A
+Color the lunch box on ___ bookshelf purple.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+Color the lunch box on the ___ purple.
+A. table
+B. bookshelf
+C. chair
+D. floor
+ANSWER: B
+Color the lunch box on the bookshelf ___.
+A. red
+B. blue
+C. purple
+D. green
+ANSWER: C
+Color ___ lunch box on the bookshelf purple.
+A. a
+B. an
+C. the
+D. Ø
+ANSWER: C
+The man ___ got black hair and wears glasses.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The man has ___ black hair and wears glasses.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The man has got black hair ___ wears glasses.
 A. but
 B. or
 C. and
 D. so
-ANSWER: B
-
-Which student ___ very carefully?
-A. listen
-B. listens
-C. listening
-D. listened
-ANSWER: B
-
-Are they ___ lunch now?
-A. eat
-B. eating
-C. eats
-D. eaten
-ANSWER: B
-
-What ___ the teacher saying?
-A. are
-B. am
-C. is
-D. be
 ANSWER: C
-
-Where ___ the birds flying?
-A. are
-B. is
-C. am
-D. be
+The man has got ___ hair and wears glasses.
+A. black
+B. blacks
+C. blacked
+D. blacking
 ANSWER: A
-
-How many books ___ on the shelf?
-A. are
-B. is
-C. am
-D. be
-ANSWER: A
-
-Is this your pen ___ your pencil?
-A. and
-B. but
-C. or
+The man has got black ___ and wears glasses.
+A. head
+B. hair
+C. face
+D. eye
+ANSWER: B
+The woman ___ got a pink shirt and orange hair.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The woman has ___ a pink shirt and orange hair.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The woman has got a pink shirt ___ orange hair.
+A. but
+B. or
+C. and
 D. so
 ANSWER: C
-
-Which animal ___ the strongest?
-A. is
-B. are
-C. am
-D. be
+The woman has got a ___ shirt and orange hair.
+A. pink
+B. red
+C. blue
+D. green
 ANSWER: A
-
-Are they ___ in the garden now?
-A. play
-B. playing
-C. plays
-D. played
-ANSWER: B
-
-What ___ in the box on the table?
-A. are
-B. am
+The woman has got a pink shirt and ___ hair.
+A. black
+B. brown
+C. orange
+D. white
+ANSWER: C
+The boy ___ got a blue T-shirt and brown shoes.
+A. have
+B. has
 C. is
-D. be
-ANSWER: C
-
-Where ___ the dog sleeping?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-How many chairs ___ in the classroom?
-A. is
-B. are
-C. am
-D. be
+D. are
 ANSWER: B
-
-Is this your hat ___ under the bed?
-A. at
-B. in
-C. under
-D. on
-ANSWER: C
-
-Which child ___ the highest jumper?
-A. is
-B. are
-C. am
-D. be
-ANSWER: A
-
-Are they ___ breakfast now?
-A. eat
-B. eaten
-C. eating
-D. eats
-ANSWER: C
-
-What ___ the boy drinking?
-A. are
-B. is
-C. am
-D. be
+The boy has ___ a blue T-shirt and brown shoes.
+A. get
+B. got
+C. getting
+D. gets
 ANSWER: B
-
-Where ___ the children playing?
-A. are
-B. is
-C. am
-D. be
-ANSWER: A
-
-How many dogs ___ in the zoo?
-A. is
-B. am
-C. are
-D. be
+The boy has got a blue T-shirt ___ brown shoes.
+A. but
+B. or
+C. and
+D. so
 ANSWER: C
-
-Is this your bag ___ the table?
-A. on
-B. in
-C. at
-D. under
+The boy has got a ___ T-shirt and brown shoes.
+A. blue
+B. red
+C. yellow
+D. green
 ANSWER: A
-
-Which animal ___ in the sea?
-A. swim
-B. swimming
-C. swims
-D. swam
+The boy has got a blue T-shirt and ___ shoes.
+A. black
+B. white
+C. brown
+D. pink
 ANSWER: C
-
-Are they ___ music now?
-A. listen
-B. listening
-C. listens
-D. listened
+The girl ___ got a purple dress and white socks.
+A. have
+B. has
+C. is
+D. are
 ANSWER: B
-Is there ___ apple on the table?
-A. some
-B. a
-C. any
-D. an
-ANSWER: D
-
-Are there ___ books in your bag?
-A. some
-B. a
-C. an
-D. is
+The girl has ___ a purple dress and white socks.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The girl has got a purple dress ___ white socks.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The girl has got a ___ dress and white socks.
+A. purple
+B. pink
+C. blue
+D. green
 ANSWER: A
+The girl has got a purple dress and ___ socks.
+A. black
+B. white
+C. red
+D. yellow
+ANSWER: B
+The girl ___ got blue trousers and black hair.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The girl has ___ blue trousers and black hair.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The girl has got blue trousers ___ black hair.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The girl has got ___ trousers and black hair.
+A. blue
+B. red
+C. green
+D. yellow
+ANSWER: A
+The girl has got blue trousers and ___ hair.
+A. brown
+B. white
+C. black
+D. orange
+ANSWER: C
+The cat ___ got yellow fur and blue eyes.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The cat has ___ yellow fur and blue eyes.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The cat has got yellow fur ___ blue eyes.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The cat has got ___ fur and blue eyes.
+A. yellow
+B. black
+C. white
+D. grey
+ANSWER: A
+The cat has got yellow fur and ___ eyes.
+A. green
+B. blue
+C. brown
+D. red
+ANSWER: B
+The insect ___ got many legs and two eyes.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The insect has ___ many legs and two eyes.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The insect has got many legs ___ two eyes.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The insect has got ___ legs and two eyes.
+A. many
+B. much
+C. lot
+D. lots
+ANSWER: A
+The insect has got many legs and ___ eyes.
+A. one
+B. two
+C. three
+D. four
+ANSWER: B
+The zebra ___ got black and white fur.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The zebra has ___ black and white fur.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The zebra has got black ___ white fur.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The zebra has got ___ and white fur.
+A. black
+B. blue
+C. green
+D. yellow
+ANSWER: A
+The zebra has got black and ___ fur.
+A. red
+B. blue
+C. white
+D. pink
+ANSWER: C
+The panda ___ got black eyes.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The panda has ___ black eyes.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The panda has got ___ eyes.
+A. black
+B. blue
+C. green
+D. white
+ANSWER: A
+The panda has got black ___.
+A. eye
+B. eyes
+C. eyess
+D. eye’s
+ANSWER: B
+The ___ has got black eyes.
+A. panda
+B. pandas
+C. pandaa
+D. pand
+The queen ___ got a pink dress and a yellow hat.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The queen has ___ a pink dress and a yellow hat.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The queen has got a pink dress ___ a yellow hat.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The queen has got a ___ dress and a yellow hat.
+A. pink
+B. red
+C. blue
+D. green
+ANSWER: A
+The queen has got a pink dress and a ___ hat.
+A. red
+B. blue
+C. yellow
+D. black
+ANSWER: C
+The pet mouse ___ got pink fur and a black tail.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The pet mouse has ___ pink fur and a black tail.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The pet mouse has got pink fur ___ a black tail.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The pet mouse has got ___ fur and a black tail.
+A. pink
+B. white
+C. grey
+D. brown
+ANSWER: A
+The pet mouse has got pink fur and a ___ tail.
+A. white
+B. black
+C. red
+D. yellow
+ANSWER: B
+The fox ___ got white fur and two purple ears.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The fox has ___ white fur and two purple ears.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The fox has got white fur ___ two purple ears.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The fox has got ___ fur and two purple ears.
+A. white
+B. black
+C. yellow
+D. grey
+ANSWER: A
+The fox has got white fur and two ___ ears.
+A. red
+B. blue
+C. purple
+D. green
+ANSWER: C
+Grandma ___ got a yellow jacket and red trousers.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+Grandma has ___ a yellow jacket and red trousers.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+Grandma has got a yellow jacket ___ red trousers.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+Grandma has got a ___ jacket and red trousers.
+A. yellow
+B. blue
+C. pink
+D. green
+ANSWER: A
+Grandma has got a yellow jacket and ___ trousers.
+A. white
+B. red
+C. black
+D. brown
+ANSWER: B
+Grandpa ___ got a white umbrella and black glasses.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+Grandpa has ___ a white umbrella and black glasses.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+Grandpa has got a white umbrella ___ black glasses.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+Grandpa has got a ___ umbrella and black glasses.
+A. white
+B. red
+C. blue
+D. yellow
+ANSWER: A
+Grandpa has got a white umbrella and ___ glasses.
+A. red
+B. blue
+C. black
+D. green
+ANSWER: C
+Mom ___ got a red backpack and purple shoes.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+Mom has ___ a red backpack and purple shoes.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+Mom has got a red backpack ___ purple shoes.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+Mom has got a ___ backpack and purple shoes.
+A. red
+B. blue
+C. yellow
+D. green
+ANSWER: A
+Mom has got a red backpack and ___ shoes.
+A. white
+B. black
+C. purple
+D. brown
+ANSWER: C
 
-Is there ___ teacher in the classroom?
-A. a
-B. any
-C. some
+Dad ___ got a blue camera and a yellow mobile phone.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+Dad has ___ a blue camera and a yellow mobile phone.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+Dad has got a blue camera ___ a yellow mobile phone.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+Dad has got a ___ camera and a yellow mobile phone.
+A. blue
+B. red
+C. green
+D. white
+ANSWER: A
+Dad has got a blue camera and a ___ mobile phone.
+A. red
+B. yellow
+C. black
+D. pink
+The shrimp ___ got a grey tail and two orange eyes.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The shrimp has ___ a grey tail and two orange eyes.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The shrimp has got a grey tail ___ two orange eyes.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The shrimp has got a ___ tail and two orange eyes.
+A. grey
+B. black
+C. white
+D. brown
+ANSWER: A
+The shrimp has got a grey tail and two ___ eyes.
+A. red
+B. orange
+C. blue
+D. green
+ANSWER: B
+The crab ___ got four legs and two claws.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+The crab has ___ four legs and two claws.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+The crab has got four legs ___ two claws.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+The crab has got ___ legs and two claws.
+A. four
+B. five
+C. six
+D. three
+ANSWER: A
+The crab has got four legs and two ___.
+A. hands
+B. claws
+C. arms
+D. tails
+ANSWER: B
+Sunny ___ got one pink doll and one yo-yo.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+Sunny has ___ one pink doll and one yo-yo.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+Sunny has got one pink doll ___ one yo-yo.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+Sunny has got one ___ doll and one yo-yo.
+A. pink
+B. blue
+C. red
+D. yellow
+ANSWER: A
+Sunny has got one pink doll and one ___.
+A. toy
+B. yo-yo
+C. ball
+D. kite
+ANSWER: B
+Lucy ___ got one box of crayons and one notebook.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+Lucy has ___ one box of crayons and one notebook.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+Lucy has got one box of crayons ___ one notebook.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+Lucy has got one box of ___ and one notebook.
+A. pens
+B. crayons
+C. books
+D. toys
+ANSWER: B
+Lucy has got one box of crayons and one ___.
+A. bag
+B. pencil
+C. notebook
+D. ruler
+ANSWER: C
+Pahan ___ got one pickleball racket and one yellow ball.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+Pahan has ___ one pickleball racket and one yellow ball.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+Pahan has got one pickleball racket ___ one yellow ball.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+Pahan has got one ___ racket and one yellow ball.
+A. tennis
+B. badminton
+C. pickleball
+D. football
+ANSWER: C
+Pahan has got one pickleball racket and one ___ ball.
+A. red
+B. blue
+C. yellow
+D. green
+ANSWER: C
+Tony ___ got one motorbike and one pair of shoes.
+A. have
+B. has
+C. is
+D. are
+ANSWER: B
+Tony has ___ one motorbike and one pair of shoes.
+A. get
+B. got
+C. getting
+D. gets
+ANSWER: B
+Tony has got one motorbike ___ one pair of shoes.
+A. but
+B. or
+C. and
+D. so
+ANSWER: C
+Tony has got one ___ and one pair of shoes.
+A. bike
+B. car
+C. motorbike
+D. bus
+ANSWER: C
+Tony has got one motorbike and one pair of ___.
+A. socks
+B. shoes
+C. boots
+D. sandals
+ANSWER: B
+I ___ got one orange fish and one black mouse.
+A. have
+B. has
+C. is
 D. are
 ANSWER: A
-
-Are there ___ students in the yard?
-A. is
-B. any
-C. a
-D. an
+I have ___ one orange fish and one black mouse.
+A. get
+B. got
+C. getting
+D. gets
 ANSWER: B
-
-Is there ___ milk in the fridge?
-A. some
-B. many
-C. a
-D. an
-ANSWER: A
-
-Are there ___ chairs in the room?
-A. much
-B. a
-C. any
-D. an
+I have got one orange fish ___ one black mouse.
+A. but
+B. or
+C. and
+D. so
 ANSWER: C
-
-Is there ___ dog under the table?
-A. an
-B. some
-C. a
-D. any
-ANSWER: C
-
-Are there ___ apples on the plate?
-A. any
-B. a
-C. an
-D. is
-ANSWER: A
-
-Is there ___ orange in the basket?
-A. some
-B. a
-C. an
-D. any
-ANSWER: C
-
-Are there ___ teachers in the office?
-A. a
-B. an
-C. some
-D. is
-ANSWER: C
-
-Is there ___ water in the bottle?
-A. many
-B. some
-C. a
-D. an
+I have got one ___ fish and one black mouse.
+A. red
+B. orange
+C. yellow
+D. green
 ANSWER: B
-
-Are there ___ monkeys in the zoo?
-A. is
-B. a
-C. any
-D. an
+I have got one orange fish and one ___ mouse.
+A. white
+B. grey
+C. black
+D. brown
 ANSWER: C
-
-Is there ___ elephant in the zoo?
-A. a
-B. some
-C. an
-D. any
-ANSWER: C
-
-Are there ___ pencils on the desk?
-A. any
-B. a
-C. an
-D. is
-ANSWER: A
-
-Is there ___ cat in the garden?
-A. a
-B. some
-C. many
-D. any
-ANSWER: A
-
-Are there ___ birds in the tree?
-A. an
-B. a
-C. any
-D. is
-ANSWER: C
-
-Is there ___ rice in the bowl?
-A. a
-B. some
-C. an
-D. many
-ANSWER: B
-
-Are there ___ students in the classroom?
-A. a
-B. an
-C. some
-D. is
-ANSWER: C
-
-Is there ___ umbrella in your bag?
-A. a
-B. some
-C. an
-D. any
-ANSWER: C
-
-Are there ___ dogs in the park?
-A. any
-B. a
-C. an
-D. is
-ANSWER: A
-
-Is there ___ book on the table?
-A. any
-B. an
-C. a
-D. some
-ANSWER: C
-
-Are there ___ oranges in the fridge?
-A. a
-B. is
-C. any
-D. an
-ANSWER: C
-
-Is there ___ teacher in the office?
-A. some
-B. a
-C. any
-D. an
-ANSWER: B
-
-Are there ___ chairs in the classroom?
-A. any
-B. a
-C. an
-D. is
-ANSWER: A
-
-Is there ___ egg in the basket?
-A. a
-B. some
-C. an
-D. many
-ANSWER: C
-
-Are there ___ lions in the zoo?
-A. is
-B. any
-C. a
-D. an
-ANSWER: B
-
-Is there ___ juice in the glass?
-A. many
-B. some
-C. a
-D. an
-ANSWER: B
-
-Are there ___ students in the library?
-A. any
-B. a
-C. an
-D. is
-ANSWER: A
-
-Is there ___ frog in the pond?
-A. some
-B. a
-C. an
-D. many
-ANSWER: B
-
-Are there ___ books on the shelf?
-A. a
-B. an
-C. any
-D. is
-ANSWER: C
-
-Is there ___ ice cream in the fridge?
-A. a
-B. an
-C. some
-D. many
-ANSWER: C
-
-Are there ___ teachers in your school?
-A. is
-B. any
-C. a
-D. an
-ANSWER: B
-
-Is there ___ apple in your bag?
-A. a
-B. an
-C. some
-D. many
-ANSWER: B
-
-Are there ___ desks in the classroom?
-A. a
-B. an
-C. any
-D. is
-ANSWER: C
-
-Is there ___ pencil on the desk?
-A. an
-B. some
-C. a
-D. many
-ANSWER: C
-
-Are there ___ ducks in the pond?
-A. is
-B. any
-C. a
-D. an
-ANSWER: B
-
-Is there ___ milk in the cup?
-A. many
-B. a
-C. some
-D. an
-ANSWER: C
-
-Are there ___ apples in the basket?
-A. any
-B. a
-C. an
-D. is
-ANSWER: A
-
-Is there ___ umbrella near the door?
-A. a
-B. some
-C. an
-D. many
-ANSWER: C
-
-Are there ___ students in the park?
-A. is
-B. any
-C. a
-D. an
-ANSWER: B
-
-Is there a cat ___ the table?
-A. between
-B. under
-C. over
-D. behind
-ANSWER: B
-
-Are there any books ___ the shelf?
-A. on
-B. under
-C. behind
-D. between
-ANSWER: A
-
-Is there a ball ___ the chair and the table?
-A. under
-B. between
-C. behind
-D. on
-ANSWER: B
-
-Is there a picture ___ the wall?
-A. in
-B. under
-C. on
-D. between
-ANSWER: C
-
-Are there any shoes ___ the bed?
-A. on
-B. under
-C. between
-D. above
-ANSWER: B
-
-Is there a dog ___ the house?
-A. in front of
-B. between
-C. under
-D. on
-ANSWER: A
-
-Are there any students ___ the classroom?
-A. between
-B. in
-C. under
-D. behind
-ANSWER: B
-
-Is there a tree ___ the house?
-A. behind
-B. under
-C. between
-D. in
-ANSWER: A
-
-Are there any apples ___ the basket?
-A. in
-B. on
-C. between
-D. behind
-ANSWER: A
-
-Is there a clock ___ the door?
-A. above
-B. under
-C. between
-D. in
-ANSWER: A
-
-Are there any cats ___ the sofa?
-A. behind
-B. between
-C. on
-D. in front of
-ANSWER: C
-
-Is there a teacher ___ the students?
-A. under
-B. between
-C. on
-D. above
-ANSWER: B
-
-Are there any cars ___ the street?
-A. on
-B. under
-C. between
-D. behind
-ANSWER: A
-
-Is there a lamp ___ the table?
-A. above
-B. between
-C. under
-D. behind
-ANSWER: A
-
-Are there any birds ___ the tree?
-A. between
-B. in
-C. under
-D. above
-ANSWER: B
-
-Is there a park ___ the school?
-A. behind
-B. under
-C. between
-D. on
-ANSWER: A
-
-Are there any pencils ___ the desk?
-A. under
-B. between
-C. on
-D. behind
-ANSWER: C
-
-Is there a window ___ the wall?
-A. in
-B. under
-C. between
-D. above
-ANSWER: A
-
-Are there any chairs ___ the table?
-A. between
-B. around
-C. under
-D. behind
-ANSWER: B
-
-Is there a cat ___ the box?
-A. inside
-B. above
-C. between
-D. behind
-ANSWER: A
-
-Are there any children ___ the playground?
-A. in
-B. between
-C. under
-D. above
-ANSWER: A
-
-Is there a river ___ the mountains?
-A. between
-B. under
-C. on
-D. behind
-ANSWER: A
-
-Are there any flowers ___ the garden?
-A. in
-B. between
-C. under
-D. behind
-ANSWER: A
-
-Is there a chair ___ the desk?
-A. under
-B. between
-C. on
-D. above
-ANSWER: A
-
-Are there any pictures ___ the wall?
-A. on
-B. between
-C. under
-D. behind
-ANSWER: A
-
-Is there a bus stop ___ the school?
-A. in front of
-B. under
-C. between
-D. above
-ANSWER: A
-
-Are there any ducks ___ the pond?
-A. in
-B. between
-C. under
-D. above
-ANSWER: A
-
-Is there a cat ___ the two boxes?
-A. between
-B. under
-C. behind
-D. on
-ANSWER: A
-
-Are there any trees ___ the road?
-A. along
-B. between
-C. under
-D. behind
-ANSWER: A
-
-Is there a bridge ___ the river?
-A. over
-B. under
-C. between
-D. behind
-ANSWER: A
-
-Are there any students ___ the teacher?
-A. behind
-B. under
-C. between
-D. above
-ANSWER: A
-
-Is there a dog ___ the gate?
-A. at
-B. between
-C. under
-D. behind
-ANSWER: A
-
-Are there any houses ___ the hill?
-A. on
-B. between
-C. under
-D. behind
-ANSWER: A
-
-Is there a bike ___ the car and the bus?
-A. between
-B. under
-C. behind
-D. on
-ANSWER: A
-
-Are there any birds ___ the roof?
-A. on
-B. between
-C. under
-D. behind
-ANSWER: A
-
-Is there a box ___ the table?
-A. under
-B. between
-C. behind
-D. above
-ANSWER: A
-
-Are there any toys ___ the bed?
-A. under
-B. between
-C. above
-D. behind
-ANSWER: A
-
-Is there a teacher ___ the classroom door?
-A. near
-B. between
-C. under
-D. above
-ANSWER: A
-
-Are there any flowers ___ the house?
-A. in front of
-B. between
-C. under
-D. behind
-ANSWER: A
-
-Is there a cat ___ the window?
-A. by
-B. between
-C. under
-D. above
-ANSWER: A
-
