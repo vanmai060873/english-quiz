@@ -4,12 +4,14 @@ B. has
 C. is
 D. are
 ANSWER: B
+
 What animal has Alex ___ in his bedroom?
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 What animal has Alex got ___ his bedroom?
 A. in
 B. on
@@ -3058,3 +3060,4 @@ B. grey
 C. black
 D. brown
 ANSWER: C
+
