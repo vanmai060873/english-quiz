@@ -53,6 +53,7 @@ B. on
 C. under
 D. behind
 ANSWER: A
+
 What has Lucy got in ___ hand?
 A. she
 B. her
@@ -290,6 +291,7 @@ B. got
 C. getting
 D. gets
 ANSWER: B
+
 What fruit have they got ___ the basket?
 A. in
 B. on
@@ -407,6 +409,7 @@ B. her
 C. hers
 D. herself
 ANSWER: B
+
 What fruit has she got in her ___?
 A. house
 B. garden
@@ -455,6 +458,7 @@ B. has
 C. is
 D. are
 ANSWER: B
+
 What fruit has she ___ in the bin?
 A. get
 B. got
@@ -846,12 +850,14 @@ B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which durian am I looking ___?
 A. in
 B. on
 C. at
 D. under
 ANSWER: C
+
 Which durian am ___ looking at?
 A. I
 B. me
@@ -906,6 +912,7 @@ B. are
 C. am
 D. be
 ANSWER: B
+
 Which armchair are you ___ at?
 A. look
 B. looks
@@ -926,6 +933,7 @@ B. your
 C. yours
 D. yourself
 ANSWER: A
+
 Which armchair are you looking at ___?
 A. now
 B. yesterday
@@ -1079,12 +1087,14 @@ B. does
 C. is
 D. are
 ANSWER: B
+
 What kind of wall clock does she ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of wall clock does she like ___?
 A. good
 B. better
@@ -1098,12 +1108,14 @@ B. clocks
 C. clok
 D. clockes
 ANSWER: A
+
 What kind of wall clock does ___ like best?
 A. she
 B. her
 C. hers
 D. herself
 ANSWER: A
+
 What kind of drinking glass ___ he like best?
 A. do
 B. does
@@ -1292,6 +1304,7 @@ B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Mrs Good’s class do ___ afternoon?
 A. this
 B. these
@@ -1396,6 +1409,7 @@ B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Ann’s class do ___?
 A. yesterday
 B. tomorrow
@@ -1884,6 +1898,7 @@ B. are
 C. am
 D. be
 ANSWER: A
+
 Which plane is ___?
 A. Tony
 B. Tony’s
@@ -3544,6 +3559,7 @@ B. grey
 C. black
 D. brown
 ANSWER: C
+
 
 
 
