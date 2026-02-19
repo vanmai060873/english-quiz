@@ -32,6 +32,7 @@ B. kitchen
 C. garden
 D. school
 ANSWER: A
+
 What ___ Lucy got in her hand?
 A. have
 B. has
@@ -58,6 +59,7 @@ B. her
 C. hers
 D. herself
 ANSWER: B
+
 What has Lucy got in her ___?
 A. bag
 B. hand
@@ -356,12 +358,14 @@ B. got
 C. getting
 D. gets
 ANSWER: B
+
 What animals has he got ___ his farm?
 A. in
 B. on
 C. at
 D. under
 ANSWER: B
+
 What animals has he got on ___ farm?
 A. he
 B. his
@@ -471,6 +475,7 @@ B. an
 C. the
 D. Ø
 ANSWER: C
+
 What fruit has she got in the ___?
 A. bag
 B. bin
@@ -505,12 +510,14 @@ B. her
 C. hers
 D. herself
 ANSWER: B
+
 What toys has she got in her ___?
 A. room
 B. bin
 C. bag
 D. desk
 ANSWER: B
+
 Which picture ___ May and Sam looking at?
 A. is
 B. are
@@ -825,12 +832,14 @@ B. yesterday
 C. tomorrow
 D. last night
 ANSWER: A
+
 Which durian ___ I looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: C
+
 Which durian am I ___ at?
 A. look
 B. looks
@@ -849,24 +858,28 @@ B. me
 C. my
 D. myself
 ANSWER: A
+
 Which durian am I looking at ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 Which drawer ___ we looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: B
+
 Which drawer are we ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which drawer are we looking ___?
 A. in
 B. on
@@ -879,12 +892,14 @@ B. us
 C. our
 D. ourselves
 ANSWER: A
+
 Which drawer are we looking at ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last night
 ANSWER: A
+
 Which armchair ___ you looking at?
 A. is
 B. are
@@ -897,12 +912,14 @@ B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which armchair are you looking ___?
 A. in
 B. on
 C. at
 D. under
 ANSWER: C
+
 Which armchair are ___ looking at?
 A. you
 B. your
@@ -915,126 +932,147 @@ B. yesterday
 C. tomorrow
 D. last night
 ANSWER: A
+
 What kind of grapes ___ Grandpa like best?
 A. do
 B. does
 C. is
 D. are
 ANSWER: B
+
 What kind of grapes does Grandpa ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of grapes does Grandpa like ___?
 A. good
 B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of grapes does ___ like best?
 A. Grandpa
 B. him
 C. his
 D. himself
 ANSWER: A
+
 What kind of ___ does Grandpa like best?
 A. grapes
 B. grape
 C. grape’s
 D. grap
 ANSWER: A
+
 What kind of pomelo ___ Uncle Thang like best?
 A. do
 B. does
 C. is
 D. are
 ANSWER: B
+
 What kind of pomelo does Uncle Thang ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of pomelo does Uncle Thang like ___?
 A. good
 B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of pomelo does ___ like best?
 A. Uncle Thang
 B. him
 C. his
 D. himself
 ANSWER: A
+
 What kind of ___ does Uncle Thang like best?
 A. pomelo
 B. pomelos
 C. pomeloes
 D. pomel
 ANSWER: A
+
 What kind of desk lamp ___ you like best?
 A. do
 B. does
 C. is
 D. are
 ANSWER: A
+
 What kind of desk lamp do you ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of desk lamp do you like ___?
 A. good
 B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of desk ___ do you like best?
 A. lamp
 B. lamps
 C. lam
 D. lampp
 ANSWER: A
+
 What kind of desk lamp do ___ like best?
 A. you
 B. your
 C. yours
 D. yourself
 ANSWER: A
+
 What kind of wristwatch ___ they like best?
 A. do
 B. does
 C. is
 D. are
 ANSWER: A
+
 What kind of wristwatch do they ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of wristwatch do they like ___?
 A. good
 B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of wristwatch do ___ like best?
 A. they
 B. them
 C. their
 D. themselves
 ANSWER: A
+
 What kind of ___ do they like best?
 A. wristwatch
 B. watch
 C. watches
 D. watchs
 ANSWER: A
+
 What kind of wall clock ___ she like best?
 A. do
 B. does
@@ -1053,6 +1091,7 @@ B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of wall ___ does she like best?
 A. clock
 B. clocks
@@ -1071,24 +1110,28 @@ B. does
 C. is
 D. are
 ANSWER: B
+
 What kind of drinking glass does he ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of drinking glass does he like ___?
 A. good
 B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of drinking ___ does he like best?
 A. glass
 B. glasses
 C. glasse
 D. glasss
 ANSWER: A
+
 What kind of drinking glass does ___ like best?
 A. he
 B. him
@@ -1102,126 +1145,147 @@ B. does
 C. is
 D. are
 ANSWER: A
+
 What kind of table lamp do you ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of table lamp do you like ___?
 A. good
 B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of table ___ do you like best?
 A. lamp
 B. lamps
 C. lam
 D. lampp
 ANSWER: A
+
 What kind of table lamp do ___ like best?
 A. you
 B. your
 C. yours
 D. yourself
 ANSWER: A
+
 What kind of bookcase ___ Sunny like best?
 A. do
 B. does
 C. is
 D. are
 ANSWER: B
+
 What kind of bookcase does Sunny ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of bookcase does Sunny like ___?
 A. good
 B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of ___ does Sunny like best?
 A. bookcase
 B. bookcases
 C. bookcasees
 D. bookcas
 ANSWER: A
+
 What kind of bookcase does ___ like best?
 A. Sunny
 B. her
 C. she
 D. hers
 ANSWER: A
+
 What kind of insect ___ Lucy like best?
 A. do
 B. does
 C. is
 D. are
 ANSWER: B
+
 What kind of insect does Lucy ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of insect does Lucy like ___?
 A. good
 B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of ___ does Lucy like best?
 A. insect
 B. insects
 C. insectes
 D. insect’s
 ANSWER: A
+
 What kind of insect does ___ like best?
 A. Lucy
 B. her
 C. she
 D. herself
 ANSWER: A
+
 What kind of elephant ___ Uncle Dong like best?
 A. do
 B. does
 C. is
 D. are
 ANSWER: B
+
 What kind of elephant does Uncle Dong ___ best?
 A. like
 B. likes
 C. liking
 D. liked
 ANSWER: A
+
 What kind of elephant does Uncle Dong like ___?
 A. good
 B. better
 C. best
 D. well
 ANSWER: C
+
 What kind of ___ does Uncle Dong like best?
 A. elephant
 B. elephants
 C. elefant
 D. elephant’s
 ANSWER: A
+
 What kind of elephant does ___ like best?
 A. Uncle Dong
 B. him
 C. his
 D. himself
 ANSWER: A
+
 What ___ Mrs Good’s class do this afternoon?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Mrs Good’s class ___ this afternoon?
 A. do
 B. does
@@ -1234,84 +1298,98 @@ B. these
 C. that
 D. those
 ANSWER: A
+
 What will Mrs Good’s class do this ___?
 A. morning
 B. afternoon
 C. evening
 D. night
 ANSWER: B
+
 What will ___ class do this afternoon?
 A. Mrs Good’s
 B. her
 C. she
 D. hers
 ANSWER: A
+
 What ___ Mr Pahan’s class do this morning?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Mr Pahan’s class ___ this morning?
 A. do
 B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Mr Pahan’s class do ___ morning?
 A. this
 B. these
 C. that
 D. those
 ANSWER: A
+
 What will Mr Pahan’s class do this ___?
 A. afternoon
 B. morning
 C. night
 D. week
 ANSWER: B
+
 What will ___ class do this morning?
 A. Mr Pahan’s
 B. him
 C. his
 D. himself
 ANSWER: A
+
 What ___ Sue’s class do this evening?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Sue’s class ___ this evening?
 A. do
 B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Sue’s class do ___ evening?
 A. this
 B. these
 C. that
 D. those
 ANSWER: A
+
 What will Sue’s class do this ___?
 A. morning
 B. evening
 C. week
 D. month
 ANSWER: B
+
 What will ___ class do this evening?
 A. Sue’s
 B. her
 C. she
 D. hers
 ANSWER: A
+
 What ___ Ann’s class do tomorrow?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Ann’s class ___ tomorrow?
 A. do
 B. does
@@ -1324,156 +1402,182 @@ B. tomorrow
 C. today
 D. now
 ANSWER: B
+
 What will ___ class do tomorrow?
 A. Ann’s
 B. her
 C. she
 D. hers
 ANSWER: A
+
 What will Ann’s class do tomorrow ___?
 A. morning
 B. afternoon
 C. night
 D. Ø
 ANSWER: D
+
 What ___ Lucy’s class do tonight?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Lucy’s class ___ tonight?
 A. do
 B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Lucy’s class do ___?
 A. yesterday
 B. tonight
 C. today
 D. now
 ANSWER: B
+
 What will ___ class do tonight?
 A. Lucy’s
 B. her
 C. she
 D. hers
 ANSWER: A
+
 What will Lucy’s class do tonight ___?
 A. at
 B. on
 C. in
 D. Ø
 ANSWER: D
+
 What ___ Nick’s class do this afternoon?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Nick’s class ___ this afternoon?
 A. do
 B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Nick’s class do ___ afternoon?
 A. this
 B. these
 C. that
 D. those
 ANSWER: A
+
 What will ___ class do this afternoon?
 A. Nick’s
 B. his
 C. him
 D. himself
 ANSWER: A
+
 What will Nick’s class do this ___?
 A. morning
 B. afternoon
 C. night
 D. week
 ANSWER: B
+
 What ___ Sunny’s class do this week?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Sunny’s class ___ this week?
 A. do
 B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Sunny’s class do ___ week?
 A. this
 B. these
 C. that
 D. those
 ANSWER: A
+
 What will ___ class do this week?
 A. Sunny’s
 B. her
 C. she
 D. hers
 ANSWER: A
+
 What will Sunny’s class do this ___?
 A. day
 B. week
 C. month
 D. year
 ANSWER: B
+
 What ___ Pat’s class do this weekend?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Pat’s class ___ this weekend?
 A. do
 B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Pat’s class do ___ weekend?
 A. this
 B. these
 C. that
 D. those
 ANSWER: A
+
 What will ___ class do this weekend?
 A. Pat’s
 B. him
 C. his
 D. himself
 ANSWER: A
+
 What will Pat’s class do this ___?
 A. week
 B. weekend
 C. month
 D. morning
 ANSWER: B
+
 What ___ Jill’s class do this month?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Jill’s class ___ this month?
 A. do
 B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Jill’s class do ___ month?
 A. this
 B. these
 C. that
 D. those
 ANSWER: A
+
 What will ___ class do this month?
 A. Jill’s
 B. her
@@ -1486,252 +1590,294 @@ B. month
 C. day
 D. year
 ANSWER: B
+
 What ___ Dan’s class do at the end of this month?
 A. will
 B. does
 C. do
 D. is
 ANSWER: A
+
 What will Dan’s class ___ at the end of this month?
 A. do
 B. does
 C. doing
 D. did
 ANSWER: A
+
 What will Dan’s class do at the end ___ this month?
 A. in
 B. on
 C. of
 D. at
 ANSWER: C
+
 What will Dan’s class do at the ___ of this month?
 A. end
 B. ending
 C. ended
 D. ends
 ANSWER: A
+
 What will ___ class do at the end of this month?
 A. Dan’s
 B. him
 C. his
 D. himself
 ANSWER: A
+
 Which dog ___ Anna’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which dog is ___?
 A. Anna
 B. Anna’s
 C. Annas
 D. Annas’
 ANSWER: B
+
 Which ___ is Anna’s?
 A. dog
 B. dogs
 C. dog’s
 D. doges
 ANSWER: A
+
 Which dog is Anna___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which pear ___ Pahan’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which pear is ___?
 A. Pahan
 B. Pahan’s
 C. Pahans
 D. Pahans’
 ANSWER: B
+
 Which ___ is Pahan’s?
 A. pear
 B. pears
 C. pear’s
 D. peares
 ANSWER: A
+
 Which pear is Pahan___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which pineapple ___ Lucy’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which pineapple is ___?
 A. Lucy
 B. Lucy’s
 C. Lucys
 D. Lucys’
 ANSWER: B
+
 Which ___ is Lucy’s?
 A. pineapple
 B. pineapples
 C. pineapple’s
 D. pineaple
 ANSWER: A
+
 Which pineapple is Lucy___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which papaya ___ Sunny’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which papaya is ___?
 A. Sunny
 B. Sunny’s
 C. Sunnys
 D. Sunnys’
 ANSWER: B
+
 Which ___ is Sunny’s?
 A. papaya
 B. papayas
 C. papaya’s
 D. papay
 ANSWER: A
+
 Which papaya is Sunny___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which puppet ___ your mother’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which puppet is ___ mother’s?
 A. you
 B. your
 C. yours
 D. yourself
 ANSWER: B
+
 Which ___ is your mother’s?
 A. puppet
 B. puppets
 C. puppet’s
 D. pupet
 ANSWER: A
+
 Which puppet is your mother___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which robot ___ your father’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which robot is ___ father’s?
 A. you
 B. your
 C. yours
 D. yourself
 ANSWER: B
+
 Which ___ is your father’s?
 A. robot
 B. robots
 C. robot’s
 D. robott
 ANSWER: A
+
 Which robot is your father___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which mango ___ Jill’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which mango is ___?
 A. Jill
 B. Jill’s
 C. Jills
 D. Jills’
 ANSWER: B
+
 Which ___ is Jill’s?
 A. mango
 B. mangoes
 C. mango’s
 D. mangoe
 ANSWER: A
+
 Which mango is Jill___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which teddy bear ___ Pat’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which teddy bear is ___?
 A. Pat
 B. Pat’s
 C. Pats
 D. Pats’
 ANSWER: B
+
 Which ___ is Pat’s?
 A. teddy bear
 B. teddy bears
 C. bear
 D. bears
 ANSWER: A
+
 Which teddy bear is Pat___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which T-shirt ___ Nick’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which T-shirt is ___?
 A. Nick
 B. Nick’s
 C. Nicks
 D. Nicks’
 ANSWER: B
+
 Which ___ is Nick’s?
 A. T-shirt
 B. T-shirts
 C. shirt
 D. shirts
 ANSWER: A
+
 Which T-shirt is Nick___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which plane ___ Tony’s?
 A. is
 B. are
@@ -1750,72 +1896,84 @@ B. planes
 C. plane’s
 D. plan
 ANSWER: A
+
 Which plane is Tony___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which helicopter ___ Đức’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which helicopter is ___?
 A. Đức
 B. Đức’s
 C. Đứcs
 D. Đức’
 ANSWER: B
+
 Which ___ is Đức’s?
 A. helicopter
 B. helicopters
 C. helicopter’s
 D. helicoptr
 ANSWER: A
+
 Which helicopter is Đức___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which watermelon ___ Uncle Đồng’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which watermelon is ___?
 A. Uncle Đồng
 B. Uncle Đồng’s
 C. Uncles Đồng
 D. Đồng’s Uncle
 ANSWER: B
+
 Which ___ is Uncle Đồng’s?
 A. watermelon
 B. watermelons
 C. watermelon’s
 D. watermellon
 ANSWER: A
+
 Which watermelon is Uncle Đồng___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which flower ___ Aunt Tình’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which flower is ___?
 A. Aunt Tình
 B. Aunt Tình’s
 C. Aunts Tình
 D. Tình Aunt
 ANSWER: B
+
 Which ___ is Aunt Tình’s?
 A. flower
 B. flowers
@@ -1828,840 +1986,980 @@ B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which gift ___ Uncle Cầu’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which gift is ___?
 A. Uncle Cầu
 B. Uncle Cầu’s
 C. Uncles Cầu
 D. Cầu Uncle
 ANSWER: B
+
 Which ___ is Uncle Cầu’s?
 A. gift
 B. gifts
 C. gift’s
 D. gif
 ANSWER: A
+
 Which gift is Uncle Cầu___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 Which hippo ___ Jennifer’s?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which hippo is ___?
 A. Jennifer
 B. Jennifer’s
 C. Jennifers
 D. Jennifers’
 ANSWER: B
+
 Which ___ is Jennifer’s?
 A. hippo
 B. hippos
 C. hippo’s
 D. hippoes
 ANSWER: A
+
 Which hippo is Jennifer___?
 A. s
 B. ’s
 C. es
 D. Ø
 ANSWER: B
+
 What ___ Lucy wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Lucy ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is ___ wearing?
 A. Lucy
 B. her
 C. she
 D. hers
 ANSWER: A
+
 What is Lucy wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 What ___ Lucy’s mother wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Lucy’s mother ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is ___ mother wearing?
 A. Lucy
 B. Lucy’s
 C. Lucys
 D. Lucys’
 ANSWER: B
+
 What is Lucy’s mother wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last year
 ANSWER: A
+
 What ___ Lucy’s father wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Lucy’s father ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is Lucy’s ___ wearing?
 A. father
 B. fathers
 C. father’s
 D. fater
 ANSWER: A
+
 What is Lucy’s father wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 What ___ Sunny wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Sunny ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is ___ wearing?
 A. Sunny
 B. her
 C. she
 D. hers
 ANSWER: A
+
 What is Sunny wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last night
 ANSWER: A
+
 What ___ Sunny’s mother wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Sunny’s mother ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is ___ mother wearing?
 A. Sunny
 B. Sunny’s
 C. Sunnys
 D. Sunnys’
 ANSWER: B
+
 What is Sunny’s mother wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last year
 ANSWER: A
+
 What ___ Sunny’s father wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Sunny’s father ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is Sunny’s ___ wearing?
 A. father
 B. fathers
 C. father’s
 D. fater
 ANSWER: A
+
 What is Sunny’s father wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 What ___ Pahan wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Pahan ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is ___ wearing?
 A. Pahan
 B. him
 C. his
 D. himself
 ANSWER: A
+
 What is Pahan wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 What ___ Tony wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Tony ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is ___ wearing?
 A. Tony
 B. him
 C. his
 D. himself
 ANSWER: A
+
 What is Tony wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last year
 ANSWER: A
+
 What ___ Đức wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Đức ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is ___ wearing?
 A. Đức
 B. him
 C. his
 D. himself
 ANSWER: A
+
 What is Đức wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 What ___ Uncle Thắng wearing?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 What is Uncle Thắng ___?
 A. wear
 B. wears
 C. wearing
 D. wore
 ANSWER: C
+
 What is ___ wearing?
 A. Uncle Thắng
 B. him
 C. his
 D. himself
 ANSWER: A
+
 What is Uncle Thắng wearing ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 Color the balloon ___ the boy’s hand yellow.
 A. in
 B. on
 C. at
 D. under
 ANSWER: A
+
 Color ___ balloon in the boy’s hand yellow.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the balloon in the ___ hand yellow.
 A. boy
 B. boys
 C. boy’s
 D. boys’
 ANSWER: C
+
 Color the balloon in the boy’s hand ___.
 A. red
 B. blue
 C. yellow
 D. green
 ANSWER: C
+
 Color the balloon ___ the boy’s hand yellow.
 A. into
 B. onto
 C. in
 D. over
 ANSWER: C
+
 Color the balloon ___ the two boxes pink.
 A. between
 B. under
 C. above
 D. behind
 ANSWER: A
+
 Color the balloon between ___ two boxes pink.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the balloon between the ___ boxes pink.
 A. two
 B. to
 C. too
 D. twos
 ANSWER: A
+
 Color the balloon between the two boxes ___.
 A. red
 B. blue
 C. pink
 D. green
 ANSWER: C
+
 Color the ___ between the two boxes pink.
 A. balloon
 B. balloons
 C. baloon
 D. baloons
 ANSWER: A
+
 Color the balloon ___ the table blue.
 A. under
 B. on
 C. in
 D. above
 ANSWER: A
+
 Color the balloon under ___ table blue.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the balloon under the ___ blue.
 A. table
 B. chair
 C. desk
 D. room
 ANSWER: A
+
 Color the balloon under the table ___.
 A. red
 B. blue
 C. yellow
 D. pink
 ANSWER: B
+
 Color ___ balloon under the table blue.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the balloon ___ the chair grey.
 A. on
 B. in
 C. under
 D. at
 ANSWER: A
+
 Color the balloon on ___ chair grey.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the balloon on the ___ grey.
 A. chair
 B. table
 C. desk
 D. floor
 ANSWER: A
+
 Color the balloon on the chair ___.
 A. red
 B. blue
 C. grey
 D. green
 ANSWER: C
+
 Color ___ balloon on the chair grey.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the balloon ___ the cat orange.
 A. behind
 B. under
 C. above
 D. between
 ANSWER: A
+
 Color the balloon behind ___ cat orange.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the balloon behind the ___ orange.
 A. dog
 B. cat
 C. bird
 D. fish
 ANSWER: B
+
 Color the balloon behind the cat ___.
 A. red
 B. blue
 C. orange
 D. yellow
 ANSWER: C
+
 Color ___ balloon behind the cat orange.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the candle ___ the floor blue.
 A. under
 B. on
 C. in
 D. above
 ANSWER: A
+
 Color the candle under ___ floor blue.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the candle under the ___ blue.
 A. floor
 B. table
 C. desk
 D. chair
 ANSWER: A
+
 Color the candle under the floor ___.
 A. red
 B. blue
 C. yellow
 D. green
 ANSWER: B
+
 Color ___ candle under the floor blue.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the face ___ the wall white.
 A. on
 B. in
 C. under
 D. behind
 ANSWER: A
+
 Color the face on ___ wall white.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the face on the ___ white.
 A. door
 B. wall
 C. floor
 D. desk
 ANSWER: B
+
 Color the face on the wall ___.
 A. red
 B. blue
 C. white
 D. pink
 ANSWER: C
+
 Color ___ face on the wall white.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the fruit basket ___ the bookshelf black and red.
 A. on
 B. in
 C. under
 D. between
 ANSWER: A
+
 Color the fruit basket on ___ bookshelf black and red.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the fruit basket on the ___ black and red.
 A. table
 B. bookshelf
 C. floor
 D. chair
 ANSWER: B
+
 Color the fruit basket on the bookshelf ___ and red.
 A. black
 B. blue
 C. white
 D. pink
 ANSWER: A
+
 Color ___ fruit basket on the bookshelf black and red.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the desk lamp ___ the study table yellow.
 A. on
 B. under
 C. in
 D. behind
 ANSWER: A
+
 Color the desk lamp on ___ study table yellow.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the desk lamp on the ___ yellow.
 A. chair
 B. study table
 C. floor
 D. door
 ANSWER: B
+
 Color the desk lamp on the study table ___.
 A. red
 B. blue
 C. yellow
 D. grey
 ANSWER: C
+
 Color ___ desk lamp on the study table yellow.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the banana ___ the drawer dark blue.
 A. in
 B. on
 C. at
 D. under
 ANSWER: A
+
 Color the banana in ___ drawer dark blue.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the banana in the ___ dark blue.
 A. bag
 B. drawer
 C. box
 D. basket
 ANSWER: B
+
 Color the banana in the drawer ___.
 A. red
 B. green
 C. dark blue
 D. yellow
 ANSWER: C
+
 Color ___ banana in the drawer dark blue.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the crocodile ___ the pond light red.
 A. under
 B. on
 C. in
 D. above
 ANSWER: A
+
 Color the crocodile under ___ pond light red.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the crocodile under the ___ light red.
 A. river
 B. pond
 C. lake
 D. sea
 ANSWER: B
+
 Color the crocodile under the pond ___ red.
 A. dark
 B. light
 C. bright
 D. deep
 ANSWER: B
+
 Color the crocodile under the pond light ___.
 A. red
 B. blue
 C. green
 D. yellow
 ANSWER: A
+
 Color the lunch box ___ the bookshelf purple.
 A. on
 B. in
 C. under
 D. behind
 ANSWER: A
+
 Color the lunch box on ___ bookshelf purple.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 Color the lunch box on the ___ purple.
 A. table
 B. bookshelf
 C. chair
 D. floor
 ANSWER: B
+
 Color the lunch box on the bookshelf ___.
 A. red
 B. blue
 C. purple
 D. green
 ANSWER: C
+
 Color ___ lunch box on the bookshelf purple.
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 The man ___ got black hair and wears glasses.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The man has ___ black hair and wears glasses.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The man has got black hair ___ wears glasses.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The man has got ___ hair and wears glasses.
 A. black
 B. blacks
 C. blacked
 D. blacking
 ANSWER: A
+
 The man has got black ___ and wears glasses.
 A. head
 B. hair
 C. face
 D. eye
 ANSWER: B
+
 The woman ___ got a pink shirt and orange hair.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The woman has ___ a pink shirt and orange hair.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The woman has got a pink shirt ___ orange hair.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The woman has got a ___ shirt and orange hair.
 A. pink
 B. red
 C. blue
 D. green
 ANSWER: A
+
 The woman has got a pink shirt and ___ hair.
 A. black
 B. brown
 C. orange
 D. white
 ANSWER: C
+
 The boy ___ got a blue T-shirt and brown shoes.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The boy has ___ a blue T-shirt and brown shoes.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The boy has got a blue T-shirt ___ brown shoes.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The boy has got a ___ T-shirt and brown shoes.
 A. blue
 B. red
 C. yellow
 D. green
 ANSWER: A
+
 The boy has got a blue T-shirt and ___ shoes.
 A. black
 B. white
 C. brown
 D. pink
 ANSWER: C
+
 The girl ___ got a purple dress and white socks.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The girl has ___ a purple dress and white socks.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The girl has got a purple dress ___ white socks.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The girl has got a ___ dress and white socks.
 A. purple
 B. pink
 C. blue
 D. green
 ANSWER: A
+
 The girl has got a purple dress and ___ socks.
 A. black
 B. white
 C. red
 D. yellow
 ANSWER: B
+
 The girl ___ got blue trousers and black hair.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The girl has ___ blue trousers and black hair.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The girl has got blue trousers ___ black hair.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The girl has got ___ trousers and black hair.
 A. blue
 B. red
 C. green
 D. yellow
 ANSWER: A
+
 The girl has got blue trousers and ___ hair.
 A. brown
 B. white
 C. black
 D. orange
 ANSWER: C
+
 The cat ___ got yellow fur and blue eyes.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The cat has ___ yellow fur and blue eyes.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The cat has got yellow fur ___ blue eyes.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The cat has got ___ fur and blue eyes.
 A. yellow
 B. black
 C. white
 D. grey
 ANSWER: A
+
 The cat has got yellow fur and ___ eyes.
 A. green
 B. blue
 C. brown
 D. red
 ANSWER: B
+
 The insect ___ got many legs and two eyes.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The insect has ___ many legs and two eyes.
 A. get
 B. got
@@ -2674,143 +2972,168 @@ B. or
 C. and
 D. so
 ANSWER: C
+
 The insect has got ___ legs and two eyes.
 A. many
 B. much
 C. lot
 D. lots
 ANSWER: A
+
 The insect has got many legs and ___ eyes.
 A. one
 B. two
 C. three
 D. four
 ANSWER: B
+
 The zebra ___ got black and white fur.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The zebra has ___ black and white fur.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The zebra has got black ___ white fur.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The zebra has got ___ and white fur.
 A. black
 B. blue
 C. green
 D. yellow
 ANSWER: A
+
 The zebra has got black and ___ fur.
 A. red
 B. blue
 C. white
 D. pink
 ANSWER: C
+
 The panda ___ got black eyes.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The panda has ___ black eyes.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The panda has got ___ eyes.
 A. black
 B. blue
 C. green
 D. white
 ANSWER: A
+
 The panda has got black ___.
 A. eye
 B. eyes
 C. eyess
 D. eye’s
 ANSWER: B
+
 The ___ has got black eyes.
 A. panda
 B. pandas
 C. pandaa
 D. pand
+ANSWER: A
+
 The queen ___ got a pink dress and a yellow hat.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The queen has ___ a pink dress and a yellow hat.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The queen has got a pink dress ___ a yellow hat.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The queen has got a ___ dress and a yellow hat.
 A. pink
 B. red
 C. blue
 D. green
 ANSWER: A
+
 The queen has got a pink dress and a ___ hat.
 A. red
 B. blue
 C. yellow
 D. black
 ANSWER: C
+
 The pet mouse ___ got pink fur and a black tail.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The pet mouse has ___ pink fur and a black tail.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The pet mouse has got pink fur ___ a black tail.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The pet mouse has got ___ fur and a black tail.
 A. pink
 B. white
 C. grey
 D. brown
 ANSWER: A
+
 The pet mouse has got pink fur and a ___ tail.
 A. white
 B. black
 C. red
 D. yellow
 ANSWER: B
+
 The fox ___ got white fur and two purple ears.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The fox has ___ white fur and two purple ears.
 A. get
 B. got
@@ -2823,102 +3146,119 @@ B. or
 C. and
 D. so
 ANSWER: C
+
 The fox has got ___ fur and two purple ears.
 A. white
 B. black
 C. yellow
 D. grey
 ANSWER: A
+
 The fox has got white fur and two ___ ears.
 A. red
 B. blue
 C. purple
 D. green
 ANSWER: C
+
 Grandma ___ got a yellow jacket and red trousers.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 Grandma has ___ a yellow jacket and red trousers.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 Grandma has got a yellow jacket ___ red trousers.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 Grandma has got a ___ jacket and red trousers.
 A. yellow
 B. blue
 C. pink
 D. green
 ANSWER: A
+
 Grandma has got a yellow jacket and ___ trousers.
 A. white
 B. red
 C. black
 D. brown
 ANSWER: B
+
 Grandpa ___ got a white umbrella and black glasses.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 Grandpa has ___ a white umbrella and black glasses.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 Grandpa has got a white umbrella ___ black glasses.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 Grandpa has got a ___ umbrella and black glasses.
 A. white
 B. red
 C. blue
 D. yellow
 ANSWER: A
+
 Grandpa has got a white umbrella and ___ glasses.
 A. red
 B. blue
 C. black
 D. green
 ANSWER: C
+
 Mom ___ got a red backpack and purple shoes.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 Mom has ___ a red backpack and purple shoes.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 Mom has got a red backpack ___ purple shoes.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 Mom has got a ___ backpack and purple shoes.
 A. red
 B. blue
 C. yellow
 D. green
 ANSWER: A
+
 Mom has got a red backpack and ___ shoes.
 A. white
 B. black
@@ -2932,41 +3272,49 @@ B. has
 C. is
 D. are
 ANSWER: B
+
 Dad has ___ a blue camera and a yellow mobile phone.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 Dad has got a blue camera ___ a yellow mobile phone.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 Dad has got a ___ camera and a yellow mobile phone.
 A. blue
 B. red
 C. green
 D. white
 ANSWER: A
+
 Dad has got a blue camera and a ___ mobile phone.
-A. red
+A. reds
 B. yellow
-C. black
-D. pink
+C. blacks
+D. pinks
+ANSWER: B
+
 The shrimp ___ got a grey tail and two orange eyes.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The shrimp has ___ a grey tail and two orange eyes.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The shrimp has got a grey tail ___ two orange eyes.
 A. but
 B. or
@@ -2979,192 +3327,224 @@ B. black
 C. white
 D. brown
 ANSWER: A
+
 The shrimp has got a grey tail and two ___ eyes.
 A. red
 B. orange
 C. blue
 D. green
 ANSWER: B
+
 The crab ___ got four legs and two claws.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 The crab has ___ four legs and two claws.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 The crab has got four legs ___ two claws.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 The crab has got ___ legs and two claws.
 A. four
 B. five
 C. six
 D. three
 ANSWER: A
+
 The crab has got four legs and two ___.
 A. hands
 B. claws
 C. arms
 D. tails
 ANSWER: B
+
 Sunny ___ got one pink doll and one yo-yo.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 Sunny has ___ one pink doll and one yo-yo.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 Sunny has got one pink doll ___ one yo-yo.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 Sunny has got one ___ doll and one yo-yo.
 A. pink
 B. blue
 C. red
 D. yellow
 ANSWER: A
+
 Sunny has got one pink doll and one ___.
 A. toy
 B. yo-yo
 C. ball
 D. kite
 ANSWER: B
+
 Lucy ___ got one box of crayons and one notebook.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 Lucy has ___ one box of crayons and one notebook.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 Lucy has got one box of crayons ___ one notebook.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 Lucy has got one box of ___ and one notebook.
 A. pens
 B. crayons
 C. books
 D. toys
 ANSWER: B
+
 Lucy has got one box of crayons and one ___.
 A. bag
 B. pencil
 C. notebook
 D. ruler
 ANSWER: C
+
 Pahan ___ got one pickleball racket and one yellow ball.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 Pahan has ___ one pickleball racket and one yellow ball.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 Pahan has got one pickleball racket ___ one yellow ball.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 Pahan has got one ___ racket and one yellow ball.
 A. tennis
 B. badminton
 C. pickleball
 D. football
 ANSWER: C
+
 Pahan has got one pickleball racket and one ___ ball.
 A. red
 B. blue
 C. yellow
 D. green
 ANSWER: C
+
 Tony ___ got one motorbike and one pair of shoes.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 Tony has ___ one motorbike and one pair of shoes.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 Tony has got one motorbike ___ one pair of shoes.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 Tony has got one ___ and one pair of shoes.
 A. bike
 B. car
 C. motorbike
 D. bus
 ANSWER: C
+
 Tony has got one motorbike and one pair of ___.
 A. socks
 B. shoes
 C. boots
 D. sandals
 ANSWER: B
+
 I ___ got one orange fish and one black mouse.
 A. have
 B. has
 C. is
 D. are
 ANSWER: A
+
 I have ___ one orange fish and one black mouse.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 I have got one orange fish ___ one black mouse.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 I have got one ___ fish and one black mouse.
 A. red
 B. orange
 C. yellow
 D. green
 ANSWER: B
+
 I have got one orange fish and one ___ mouse.
 A. white
 B. grey
 C. black
 D. brown
 ANSWER: C
+
 
 
 
