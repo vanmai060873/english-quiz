@@ -78,6 +78,7 @@ B. got
 C. getting
 D. gets
 ANSWER: B
+
 What vegetables has Mum got ___ the kitchen?
 A. in
 B. on
@@ -105,6 +106,7 @@ B. has
 C. is
 D. are
 ANSWER: B
+
 What fruit has Dad ___ in the living room?
 A. get
 B. got
@@ -118,12 +120,14 @@ B. on
 C. under
 D. behind
 ANSWER: A
+
 What fruit has Dad got in the ___ room?
 A. living
 B. dining
 C. bath
 D. bed
 ANSWER: A
+
 What fruit has Dad got in the living ___?
 A. room
 B. rooms
@@ -165,6 +169,7 @@ B. yo
 C. yoyo
 D. yoyos
 ANSWER: A
+
 What toys ___ Sunny got in her bedroom?
 A. have
 B. has
@@ -185,12 +190,14 @@ B. on
 C. at
 D. under
 ANSWER: A
+
 What toys has Sunny got in ___ bedroom?
 A. she
 B. her
 C. hers
 D. herself
 ANSWER: B
+
 What toys has Sunny got in her ___?
 A. kitchen
 B. bedroom
@@ -308,12 +315,14 @@ B. have
 C. is
 D. are
 ANSWER: B
+
 What toys have I ___ in the drawer?
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 What toys have I got ___ the drawer?
 A. in
 B. on
@@ -340,6 +349,7 @@ B. has
 C. is
 D. are
 ANSWER: B
+
 What animals has he ___ on his farm?
 A. get
 B. got
@@ -399,36 +409,42 @@ B. garden
 C. room
 D. bag
 ANSWER: B
+
 What vegetables ___ he got in his basket?
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 What vegetables has he ___ in his basket?
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 What vegetables has he got ___ his basket?
 A. in
 B. on
 C. under
 D. over
 ANSWER: A
+
 What vegetables has he got in ___ basket?
 A. he
 B. his
 C. him
 D. himself
 ANSWER: B
+
 What vegetables has he got in his ___?
 A. bag
 B. basket
 C. room
 D. desk
 ANSWER: B
+
 What fruit ___ she got in the bin?
 A. have
 B. has
@@ -441,12 +457,14 @@ B. got
 C. getting
 D. gets
 ANSWER: B
+
 What fruit has she got ___ the bin?
 A. in
 B. on
 C. under
 D. at
 ANSWER: A
+
 What fruit has she got in ___ bin?
 A. a
 B. an
@@ -459,24 +477,28 @@ B. bin
 C. box
 D. room
 ANSWER: B
+
 What toys ___ she got in her bin?
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 What toys has she ___ in her bin?
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 What toys has she got ___ her bin?
 A. in
 B. on
 C. at
 D. over
 ANSWER: A
+
 What toys has she got in ___ bin?
 A. she
 B. her
@@ -495,264 +517,308 @@ B. are
 C. am
 D. be
 ANSWER: B
+
 Which picture are May and Sam ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which picture are May and Sam looking ___?
 A. in
 B. at
 C. on
 D. under
 ANSWER: B
+
 Which picture are ___ and Sam looking at?
 A. May
 B. She
 C. They
 D. We
 ANSWER: A
+
 Which picture are May and Sam looking at ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 Which dolphin ___ he looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which dolphin is he ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which dolphin is he looking ___?
 A. in
 B. on
 C. at
 D. under
 ANSWER: C
+
 Which dolphin is ___ looking at?
 A. he
 B. him
 C. his
 D. himself
 ANSWER: A
+
 Which dolphin is he looking at ___?
 A. now
 B. yesterday
 C. last night
 D. tomorrow
 ANSWER: A
+
 Which shark ___ she looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which shark is she ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which shark is she looking ___?
 A. in
 B. on
 C. at
 D. under
 ANSWER: C
+
 Which shark is ___ looking at?
 A. she
 B. her
 C. hers
 D. herself
 ANSWER: A
+
 Which shark is she looking at ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 Which pomelo ___ he looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which pomelo is he ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which pomelo is he looking ___?
 A. in
 B. at
 C. on
 D. under
 ANSWER: B
+
 Which pomelo is ___ looking at?
 A. he
 B. him
 C. his
 D. himself
 ANSWER: A
+
 Which pomelo is he looking at ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last night
 ANSWER: A
+
 Which grapes ___ she looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which grapes is she ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which grapes is she looking ___?
 A. in
 B. on
 C. at
 D. under
 ANSWER: C
+
 Which grapes is ___ looking at?
 A. she
 B. her
 C. hers
 D. herself
 ANSWER: A
+
 Which grapes is she looking at ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 Which durian ___ she looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: A
+
 Which durian is she ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which durian is she looking ___?
 A. in
 B. at
 C. on
 D. under
 ANSWER: B
+
 Which durian is ___ looking at?
 A. she
 B. her
 C. hers
 D. herself
 ANSWER: A
+
 Which durian is she looking at ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last night
 ANSWER: A
+
 Which shark ___ you looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: B
+
 Which shark are you ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which shark are you looking ___?
 A. in
 B. on
 C. at
 D. under
 ANSWER: C
+
 Which shark are ___ looking at?
 A. you
 B. your
 C. yours
 D. yourself
 ANSWER: A
+
 Which shark are you looking at ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last night
 ANSWER: A
+
 Which pomelo ___ we looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: B
+
 Which pomelo are we ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which pomelo are we looking ___?
 A. in
 B. on
 C. at
 D. under
 ANSWER: C
+
 Which pomelo are ___ looking at?
 A. we
 B. us
 C. our
 D. ourselves
 ANSWER: A
+
 Which pomelo are we looking at ___?
 A. now
 B. yesterday
 C. tomorrow
 D. last week
 ANSWER: A
+
 Which grapes ___ they looking at?
 A. is
 B. are
 C. am
 D. be
 ANSWER: B
+
 Which grapes are they ___ at?
 A. look
 B. looks
 C. looking
 D. looked
 ANSWER: C
+
 Which grapes are they looking ___?
 A. in
 B. on
 C. at
 D. under
 ANSWER: C
+
 Which grapes are ___ looking at?
 A. they
 B. them
 C. their
 D. themselves
 ANSWER: A
+
 Which grapes are they looking at ___?
 A. now
 B. yesterday
@@ -3099,5 +3165,6 @@ B. grey
 C. black
 D. brown
 ANSWER: C
+
 
 
