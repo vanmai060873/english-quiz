@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-
 <title>Trắc nghiệm kiến thức Sunny và Lucy</title>
 
 <style>
@@ -15,93 +14,69 @@ height:100vh;
 }
 
 #sidebar{
-
 width:20%;
 background:#f4f4f4;
 overflow-y:auto;
 padding:10px;
 border-right:1px solid #ccc;
-
 }
 
 #sidebar button{
-
 width:42px;
 height:42px;
 margin:4px;
 border:none;
 background:#ddd;
 cursor:pointer;
-
 }
 
-.done{
-
-background:#4caf50 !important;
-color:white;
-
-}
-
-.correctNav{
-
-background:green !important;
-color:white;
-
-}
-
-.wrongNav{
-
-background:red !important;
-color:white;
-
-}
+.done{background:#4caf50 !important;color:white;}
+.correctNav{background:green !important;color:white;}
+.wrongNav{background:red !important;color:white;}
 
 #content{
-
 width:80%;
 padding:20px;
 overflow-y:auto;
-
 }
 
 .question{
-
 padding:15px;
 margin-bottom:15px;
 border-radius:8px;
 border:1px solid #ddd;
-
 }
 
 .even{background:#e6f4ea;}
 .odd{background:#ffe8cc;}
 
 .question-title{
-
 font-weight:bold;
 color:#800000;
-
 }
 
-.correct{
-
-color:green;
-font-weight:bold;
-
-}
-
-.wrong{
-
-color:red;
-font-weight:bold;
-
-}
+.correct{color:green;font-weight:bold;}
+.wrong{color:red;font-weight:bold;}
 
 #timer{
-
-font-size:20px;
+font-size:22px;
 color:red;
 font-weight:bold;
+margin-bottom:10px;
+}
+
+/* 🔥 nhấp nháy */
+.blink{
+
+animation:blinkTimer 1s infinite;
+
+}
+
+@keyframes blinkTimer{
+
+0%{opacity:1;}
+50%{opacity:0.2;}
+100%{opacity:1;}
 
 }
 
@@ -114,7 +89,6 @@ left:0;
 width:100%;
 height:100%;
 background:rgba(0,0,0,0.5);
-
 justify-content:center;
 align-items:center;
 
@@ -138,7 +112,6 @@ margin:5px;
 }
 
 </style>
-
 </head>
 
 <body>
@@ -209,9 +182,7 @@ let timer;
 let studentName="";
 
 fetch("questions.txt")
-
 .then(r=>r.text())
-
 .then(text=>{
 
 text=text.replace(/\r\n/g,"\n");
@@ -225,13 +196,9 @@ if(
 lines[i] &&
 
 lines[i+1]?.startsWith("A.")&&
-
 lines[i+2]?.startsWith("B.")&&
-
 lines[i+3]?.startsWith("C.")&&
-
 lines[i+4]?.startsWith("D.")&&
-
 lines[i+5]?.startsWith("ANSWER")
 
 ){
@@ -241,23 +208,14 @@ allQuestions.push({
 question:lines[i],
 
 options:[
-
 lines[i+1],
-
 lines[i+2],
-
 lines[i+3],
-
 lines[i+4]
-
 ],
 
-answer:
-
-lines[i+5]
-
+answer:lines[i+5]
 .replace("ANSWER:","")
-
 .trim()
 
 });
@@ -271,9 +229,7 @@ lines[i+5]
 function startQuiz(){
 
 studentName=document
-
 .getElementById("studentName")
-
 .value.trim();
 
 if(studentName===""){
@@ -285,7 +241,6 @@ return;
 }
 
 nameSection.style.display="none";
-
 quizSection.style.display="block";
 
 loadQuiz();
@@ -301,19 +256,15 @@ return a.sort(()=>Math.random()-0.5);
 function loadQuiz(){
 
 submitted=false;
-
 showWrongOnly=false;
 
 wrongBtn.style.display="none";
 
 quiz.innerHTML="";
-
 sidebar.innerHTML="";
 
 currentQuestions=
-
 shuffle([...allQuestions])
-
 .slice(0,totalQuestions);
 
 startTimer();
@@ -329,7 +280,6 @@ nav.id="nav"+i;
 nav.onclick=()=>{
 
 document.getElementById("q"+i)
-
 .scrollIntoView({behavior:"smooth"});
 
 };
@@ -343,29 +293,21 @@ div.className="question "+(i%2?"odd":"even");
 div.id="q"+i;
 
 let html=
-
 `<p class="question-title">
-
 ${i+1}. ${q.question}
-
 </p>`;
 
 shuffle([...q.options])
-
 .forEach(opt=>{
 
 let letter=opt.charAt(0);
 
 html+=`
-
 <label>
 
 <input type="radio"
-
 name="q${i}"
-
 value="${letter}"
-
 onchange="markDone(${i})">
 
 ${opt}
@@ -387,7 +329,6 @@ function markDone(i){
 if(!submitted)
 
 document.getElementById("nav"+i)
-
 .classList.add("done");
 
 }
@@ -398,20 +339,26 @@ clearInterval(timer);
 
 timeLeft=100*60;
 
+let timerEl=document.getElementById("timer");
+
 timer=setInterval(()=>{
 
 let m=Math.floor(timeLeft/60);
-
 let s=timeLeft%60;
 
 timerEl.innerText=
-
 `${m}:${s<10?'0':''}${s}`;
+
+/* 🔥 10 phút cuối nhấp nháy */
+if(timeLeft<=600){
+
+timerEl.classList.add("blink");
+
+}
 
 timeLeft--;
 
 if(timeLeft<0)
-
 finishQuiz();
 
 },1000);
@@ -434,29 +381,18 @@ currentQuestions.forEach((q,i)=>{
 
 let correct=q.answer;
 
-let selected=
-
-document.querySelector(
-
+let selected=document.querySelector(
 `input[name=q${i}]:checked`
-
 );
 
-let div=document
+let div=document.getElementById("q"+i);
 
-.getElementById("q"+i);
-
-let nav=document
-
-.getElementById("nav"+i);
+let nav=document.getElementById("nav"+i);
 
 div.querySelectorAll("label")
-
 .forEach(lb=>{
 
-let radio=
-
-lb.querySelector("input");
+let radio=lb.querySelector("input");
 
 if(radio.value===correct)
 
@@ -473,17 +409,14 @@ correctCount++;
 nav.className="correctNav";
 
 }
-
 else{
 
 selected.parentElement
-
 .classList.add("wrong");
 
 nav.className="wrongNav";
 
 if(!firstWrong)
-
 firstWrong=div;
 
 }
@@ -493,31 +426,17 @@ firstWrong=div;
 });
 
 document
-
-.querySelectorAll(
-
-"input[type=radio]"
-
-)
-
+.querySelectorAll("input[type=radio]")
 .forEach(r=>r.disabled=true);
 
 let score=
-
 (correctCount*(10/totalQuestions))
-
 .toFixed(2);
 
 popupResult.innerHTML=
 
-`<b>${studentName}</b>
-
-<br>
-
-Đúng ${correctCount}/${totalQuestions}
-
-<br>
-
+`<b>${studentName}</b><br>
+Đúng ${correctCount}/${totalQuestions}<br>
 Điểm ${score}/10`;
 
 popup.style.display="flex";
@@ -527,9 +446,7 @@ wrongBtn.style.display="inline-block";
 if(firstWrong)
 
 firstWrong.scrollIntoView({
-
 behavior:"smooth"
-
 });
 
 }
@@ -546,44 +463,31 @@ return;
 
 showWrongOnly=!showWrongOnly;
 
-currentQuestions
+currentQuestions.forEach((q,i)=>{
 
-.forEach((q,i)=>{
+let div=document.getElementById("q"+i);
 
-let div=
-
-document.getElementById("q"+i);
-
-let nav=
-
-document.getElementById("nav"+i);
+let nav=document.getElementById("nav"+i);
 
 if(showWrongOnly){
 
-if(nav.classList
-
-.contains("wrongNav")){
+if(nav.classList.contains("wrongNav")){
 
 div.style.display="block";
-
 nav.style.display="inline-block";
 
 }
-
 else{
 
 div.style.display="none";
-
 nav.style.display="none";
 
 }
 
 }
-
 else{
 
 div.style.display="block";
-
 nav.style.display="inline-block";
 
 }
@@ -609,6 +513,4 @@ popup.style.display="none";
 </script>
 
 </body>
-
 </html>
-
