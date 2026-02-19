@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -15,13 +15,11 @@ height:100vh;
 }
 
 #sidebar{
-
 width:20%;
 background:#f4f4f4;
 overflow-y:auto;
 padding:10px;
 border-right:1px solid #ccc;
-
 }
 
 #sidebar button{
@@ -36,54 +34,35 @@ cursor:pointer;
 }
 
 .done{
-
 background:#4caf50 !important;
 color:white;
-
 }
 
 .correctNav{
-
 background:green !important;
 color:white;
-
 }
 
 .wrongNav{
-
 background:red !important;
 color:white;
-
 }
 
 #content{
-
 width:80%;
 padding:20px;
 overflow-y:auto;
-
 }
 
 .question{
-
 padding:15px;
 margin-bottom:15px;
 border-radius:8px;
 border:1px solid #ddd;
-
 }
 
-.even{
-
-background:#e6f4ea;
-
-}
-
-.odd{
-
-background:#ffe8cc;
-
-}
+.even{background:#e6f4ea;}
+.odd{background:#ffe8cc;}
 
 .question-title{
 
@@ -134,7 +113,7 @@ align-items:center;
 background:white;
 padding:30px;
 border-radius:10px;
-width:400px;
+width:420px;
 text-align:center;
 
 }
@@ -176,6 +155,8 @@ Tên:
 
 <button onclick="finishQuiz()">KẾT THÚC</button>
 
+<button onclick="toggleWrong()">CHỈ XEM CÂU SAI</button>
+
 </div>
 
 </div>
@@ -200,7 +181,9 @@ let allQuestions=[];
 let currentQuestions=[];
 let submitted=false;
 
-let timeLeft=45*60;
+let showWrongOnly=false;
+
+let timeLeft=100*60;
 
 let timer;
 
@@ -214,45 +197,79 @@ fetch("questions.txt")
 
 .then(text=>{
 
-let blocks=text.split(/\n\s*\n/);
+text=text.replace(/\r\n/g,"\n");
 
-blocks.forEach(block=>{
+let lines=text.split("\n");
 
-let lines=block.trim().split("\n");
+for(let i=0;i<lines.length;i++){
 
-if(lines.length>=6){
+if(
+
+lines[i]&&
+
+lines[i+1]?.startsWith("A.")&&
+
+lines[i+2]?.startsWith("B.")&&
+
+lines[i+3]?.startsWith("C.")&&
+
+lines[i+4]?.startsWith("D.")&&
+
+lines[i+5]?.startsWith("ANSWER")
+
+){
 
 allQuestions.push({
 
-question:lines[0],
+question:lines[i],
 
-options:lines.slice(1,5),
+options:[
 
-answer:lines[5].replace("ANSWER:","").trim()
+lines[i+1],
+
+lines[i+2],
+
+lines[i+3],
+
+lines[i+4]
+
+],
+
+answer:
+
+lines[i+5]
+
+.replace("ANSWER:","")
+
+.trim()
 
 });
 
 }
 
-});
+}
 
 });
 
 function startQuiz(){
 
-studentName=document.getElementById("studentName").value.trim();
+studentName=document
+
+.getElementById("studentName")
+
+.value.trim();
 
 if(studentName===""){
 
-alert("Nhập tên");
+alert("Nhập tên!");
 
 return;
 
 }
 
-document.getElementById("nameSection").style.display="none";
+nameSection.style.display="none";
 
-document.getElementById("quizSection").style.display="block";
+quizSection.style.display="block";
 
 loadQuiz();
 
@@ -268,13 +285,17 @@ function loadQuiz(){
 
 submitted=false;
 
+showWrongOnly=false;
+
 document.getElementById("quiz").innerHTML="";
 
 document.getElementById("sidebar").innerHTML="";
 
 currentQuestions=
 
-shuffle([...allQuestions]).slice(0,totalQuestions);
+shuffle([...allQuestions])
+
+.slice(0,totalQuestions);
 
 startTimer();
 
@@ -302,9 +323,17 @@ div.className="question "+(i%2?"odd":"even");
 
 div.id="q"+i;
 
-let html=`<p class='question-title'>${i+1}. ${q.question}</p>`;
+let html=
 
-shuffle([...q.options]).forEach(opt=>{
+`<p class="question-title">
+
+${i+1}. ${q.question}
+
+</p>`;
+
+shuffle([...q.options])
+
+.forEach(opt=>{
 
 let letter=opt.charAt(0);
 
@@ -362,7 +391,9 @@ timerEl.innerText=
 
 timeLeft--;
 
-if(timeLeft<0)finishQuiz();
+if(timeLeft<0)
+
+finishQuiz();
 
 },1000);
 
@@ -384,23 +415,31 @@ currentQuestions.forEach((q,i)=>{
 
 let correct=q.answer;
 
-let selected=document.querySelector(
+let selected=document
+
+.querySelector(
 
 `input[name=q${i}]:checked`
 
 );
 
-let div=document.getElementById("q"+i);
+let div=document
 
-let nav=document.getElementById("nav"+i);
+.getElementById("q"+i);
+
+let nav=document
+
+.getElementById("nav"+i);
 
 div.querySelectorAll("label")
 
 .forEach(lb=>{
 
-if(lb.innerText.trim()
+let radio=
 
-.startsWith(correct))
+lb.querySelector("input");
+
+if(radio.value===correct)
 
 lb.classList.add("correct");
 
@@ -436,7 +475,11 @@ firstWrong=div;
 
 document
 
-.querySelectorAll("input[type=radio]")
+.querySelectorAll(
+
+"input[type=radio]"
+
+)
 
 .forEach(r=>r.disabled=true);
 
@@ -448,9 +491,13 @@ let score=
 
 popupResult.innerHTML=
 
-`<b>${studentName}</b><br>
+`<b>${studentName}</b>
 
-Đúng ${correctCount}/200<br>
+<br>
+
+Đúng ${correctCount}/${totalQuestions}
+
+<br>
 
 Điểm ${score}/10`;
 
@@ -458,7 +505,69 @@ popup.style.display="flex";
 
 if(firstWrong)
 
-firstWrong.scrollIntoView();
+firstWrong.scrollIntoView({
+
+behavior:"smooth"
+
+});
+
+}
+
+function toggleWrong(){
+
+if(!submitted){
+
+alert("Phải kết thúc bài trước!");
+
+return;
+
+}
+
+showWrongOnly=!showWrongOnly;
+
+currentQuestions
+
+.forEach((q,i)=>{
+
+let div=
+
+document.getElementById("q"+i);
+
+let nav=
+
+document.getElementById("nav"+i);
+
+if(showWrongOnly){
+
+if(nav.classList
+
+.contains("wrongNav")){
+
+div.style.display="block";
+
+nav.style.display="inline-block";
+
+}
+
+else{
+
+div.style.display="none";
+
+nav.style.display="none";
+
+}
+
+}
+
+else{
+
+div.style.display="block";
+
+nav.style.display="inline-block";
+
+}
+
+});
 
 }
 
@@ -474,7 +583,7 @@ function closeProgram(){
 
 document.body.innerHTML=
 
-"<h2 style='text-align:center;margin-top:200px'>Kết thúc</h2>";
+"<h2 style='text-align:center;margin-top:200px'>Bài thi đã kết thúc</h2>";
 
 }
 
