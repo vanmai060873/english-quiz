@@ -18,12 +18,14 @@ B. on
 C. at
 D. under
 ANSWER: A
+
 What animal has Alex got in ___ bedroom?
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 What animal has Alex got in his ___?
 A. bedroom
 B. kitchen
@@ -36,12 +38,14 @@ B. has
 C. is
 D. are
 ANSWER: B
+
 What has Lucy ___ in her hand?
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 What has Lucy got ___ her hand?
 A. in
 B. on
@@ -60,12 +64,14 @@ B. hand
 C. room
 D. desk
 ANSWER: B
+
 What vegetables ___ Mum got in the kitchen?
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 What vegetables has Mum ___ in the kitchen?
 A. get
 B. got
@@ -78,18 +84,21 @@ B. on
 C. at
 D. over
 ANSWER: A
+
 What vegetables has Mum got in ___ kitchen?
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 What vegetables has Mum got in the ___?
 A. bedroom
 B. kitchen
 C. garden
 D. hall
 ANSWER: B
+
 What fruit ___ Dad got in the living room?
 A. have
 B. has
@@ -102,6 +111,7 @@ B. got
 C. getting
 D. gets
 ANSWER: B
+
 What fruit has Dad got ___ the living room?
 A. in
 B. on
@@ -120,30 +130,35 @@ B. rooms
 C. room’s
 D. rooming
 ANSWER: A
+
 Sunny ___ got one pink doll and one yo-yo.
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 Sunny has ___ one pink doll and one yo-yo.
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 Sunny has got one pink doll ___ one yo-yo.
 A. but
 B. or
 C. and
 D. so
 ANSWER: C
+
 Sunny has got one ___ doll and one yo-yo.
 A. pink
 B. pinks
 C. pinking
 D. pinked
 ANSWER: A
+
 Sunny has got one pink doll and one ___.
 A. yo-yo
 B. yo
@@ -156,12 +171,14 @@ B. has
 C. is
 D. are
 ANSWER: B
+
 What toys has Sunny ___ in her bedroom?
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 What toys has Sunny got ___ her bedroom?
 A. in
 B. on
@@ -180,72 +197,84 @@ B. bedroom
 C. garden
 D. school
 ANSWER: B
+
 What ___ you got in your school bag?
 A. have
 B. has
 C. is
 D. are
 ANSWER: A
+
 What have you ___ in your school bag?
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 What have you got ___ your school bag?
 A. in
 B. on
 C. at
 D. under
 ANSWER: A
+
 What have you got in ___ school bag?
 A. you
 B. your
 C. yours
 D. yourself
 ANSWER: B
+
 What have you got in your ___?
 A. desk
 B. bag
 C. school bag
 D. room
 ANSWER: C
+
 What animals ___ we got in the house?
 A. has
 B. have
 C. is
 D. are
 ANSWER: B
+
 What animals have we ___ in the house?
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 What animals have we got ___ the house?
 A. in
 B. on
 C. at
 D. under
 ANSWER: A
+
 What animals have we got in ___ house?
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 What animals have we got in the ___?
 A. house
 B. garden
 C. farm
 D. school
 ANSWER: A
+
 What fruit ___ they got in the basket?
 A. has
 B. have
 C. is
 D. are
 ANSWER: B
+
 What fruit have they ___ in the basket?
 A. get
 B. got
@@ -258,18 +287,21 @@ B. on
 C. under
 D. over
 ANSWER: A
+
 What fruit have they got in ___ basket?
 A. a
 B. an
 C. the
 D. Ø
 ANSWER: C
+
 What fruit have they got in the ___?
 A. basket
 B. box
 C. bag
 D. room
 ANSWER: A
+
 What toys ___ I got in the drawer?
 A. has
 B. have
@@ -294,12 +326,14 @@ B. an
 C. the
 D. Ø
 ANSWER: C
+
 What toys have I got in the ___?
 A. box
 B. drawer
 C. bag
 D. room
 ANSWER: B
+
 What animals ___ he got on his farm?
 A. have
 B. has
@@ -324,30 +358,35 @@ B. his
 C. him
 D. himself
 ANSWER: B
+
 What animals has he got on his ___?
 A. farm
 B. house
 C. room
 D. desk
 ANSWER: A
+
 What fruit ___ she got in her garden?
 A. have
 B. has
 C. is
 D. are
 ANSWER: B
+
 What fruit has she ___ in her garden?
 A. get
 B. got
 C. getting
 D. gets
 ANSWER: B
+
 What fruit has she got ___ her garden?
 A. in
 B. on
 C. at
 D. under
 ANSWER: A
+
 What fruit has she got in ___ garden?
 A. she
 B. her
@@ -3060,4 +3099,5 @@ B. grey
 C. black
 D. brown
 ANSWER: C
+
 
