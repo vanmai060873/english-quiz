@@ -14,44 +14,44 @@ ANSWER: B
 
 What animal has Alex got ___ his bedroom?
 A. in
-B. on
-C. at
-D. under
+B. from
+C. beside
+D. across
 ANSWER: A
 
 What animal has Alex got in ___ bedroom?
 A. a
 B. an
 C. the
-D. Ø
+D. this
 ANSWER: C
 
 What animal has Alex got in his ___?
 A. bedroom
-B. kitchen
-C. garden
-D. school
+B. banana
+C. yellow
+D. quickly
 ANSWER: A
 
 What ___ Lucy got in her hand?
 A. have
 B. has
-C. is
-D. are
+C. does
+D. do
 ANSWER: B
 
 What has Lucy ___ in her hand?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What has Lucy got ___ her hand?
 A. in
-B. on
-C. under
-D. behind
+B. from
+C. across
+D. beside
 ANSWER: A
 
 What has Lucy got in ___ hand?
@@ -62,136 +62,136 @@ D. herself
 ANSWER: B
 
 What has Lucy got in her ___?
-A. bag
-B. hand
-C. room
-D. desk
-ANSWER: B
+A. hand
+B. run
+C. quickly
+D. happy
+ANSWER: A
 
 What vegetables ___ Mum got in the kitchen?
 A. have
 B. has
-C. is
-D. are
+C. does
+D. do
 ANSWER: B
 
 What vegetables has Mum ___ in the kitchen?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What vegetables has Mum got ___ the kitchen?
 A. in
-B. on
-C. at
-D. over
+B. beside
+C. across
+D. toward
 ANSWER: A
 
 What vegetables has Mum got in ___ kitchen?
 A. a
 B. an
 C. the
-D. Ø
+D. some
 ANSWER: C
 
 What vegetables has Mum got in the ___?
-A. bedroom
-B. kitchen
-C. garden
-D. hall
-ANSWER: B
+A. kitchen
+B. quickly
+C. yellow
+D. running
+ANSWER: A
 
 What fruit ___ Dad got in the living room?
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 What fruit has Dad ___ in the living room?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What fruit has Dad got ___ the living room?
 A. in
-B. on
-C. under
-D. behind
+B. across
+C. beside
+D. toward
 ANSWER: A
 
 What fruit has Dad got in the ___ room?
 A. living
-B. dining
-C. bath
-D. bed
+B. yellow
+C. quickly
+D. running
 ANSWER: A
 
 What fruit has Dad got in the living ___?
 A. room
 B. rooms
-C. room’s
-D. rooming
+C. runner
+D. running
 ANSWER: A
 
 Sunny ___ got one pink doll and one yo-yo.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 Sunny has ___ one pink doll and one yo-yo.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 Sunny has got one pink doll ___ one yo-yo.
-A. but
-B. or
-C. and
-D. so
-ANSWER: C
+A. and
+B. beside
+C. from
+D. under
+ANSWER: A
 
 Sunny has got one ___ doll and one yo-yo.
 A. pink
-B. pinks
-C. pinking
-D. pinked
+B. quickly
+C. running
+D. beside
 ANSWER: A
 
 Sunny has got one pink doll and one ___.
 A. yo-yo
-B. yo
-C. yoyo
-D. yoyos
+B. yellow
+C. quickly
+D. run
 ANSWER: A
 
 What toys ___ Sunny got in her bedroom?
 A. have
 B. has
-C. is
-D. are
+C. does
+D. do
 ANSWER: B
 
 What toys has Sunny ___ in her bedroom?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What toys has Sunny got ___ her bedroom?
 A. in
-B. on
-C. at
-D. under
+B. beside
+C. toward
+D. across
 ANSWER: A
 
 What toys has Sunny got in ___ bedroom?
@@ -202,10 +202,10 @@ D. herself
 ANSWER: B
 
 What toys has Sunny got in her ___?
-A. kitchen
-B. bedroom
-C. garden
-D. school
+A. bedroom
+B. yellow
+C. quickly
+D. running
 ANSWER: B
 
 What ___ you got in your school bag?
@@ -218,15 +218,15 @@ ANSWER: A
 What have you ___ in your school bag?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What have you got ___ your school bag?
 A. in
-B. on
-C. at
-D. under
+B. beside
+C. across
+D. toward
 ANSWER: A
 
 What have you got in ___ school bag?
@@ -237,11 +237,11 @@ D. yourself
 ANSWER: B
 
 What have you got in your ___?
-A. desk
-B. bag
-C. school bag
-D. room
-ANSWER: C
+A. school bag
+B. yellow
+C. running
+D. quickly
+ANSWER: A
 
 What animals ___ we got in the house?
 A. has
@@ -253,29 +253,29 @@ ANSWER: B
 What animals have we ___ in the house?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What animals have we got ___ the house?
 A. in
-B. on
-C. at
-D. under
+B. beside
+C. across
+D. toward
 ANSWER: A
 
 What animals have we got in ___ house?
 A. a
 B. an
 C. the
-D. Ø
+D. many
 ANSWER: C
 
 What animals have we got in the ___?
 A. house
-B. garden
-C. farm
-D. school
+B. yellow
+C. running
+D. quickly
 ANSWER: A
 
 What fruit ___ they got in the basket?
@@ -288,29 +288,29 @@ ANSWER: B
 What fruit have they ___ in the basket?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What fruit have they got ___ the basket?
 A. in
-B. on
-C. under
-D. over
+B. beside
+C. across
+D. toward
 ANSWER: A
 
 What fruit have they got in ___ basket?
 A. a
 B. an
 C. the
-D. Ø
+D. many
 ANSWER: C
 
 What fruit have they got in the ___?
 A. basket
-B. box
-C. bag
-D. room
+B. running
+C. yellow
+D. quickly
 ANSWER: A
 
 What toys ___ I got in the drawer?
@@ -323,49 +323,50 @@ ANSWER: B
 What toys have I ___ in the drawer?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What toys have I got ___ the drawer?
 A. in
-B. on
-C. at
-D. under
+B. beside
+C. across
+D. toward
 ANSWER: A
+
 What toys have I got in ___ drawer?
 A. a
 B. an
 C. the
-D. Ø
+D. many
 ANSWER: C
 
 What toys have I got in the ___?
-A. box
-B. drawer
-C. bag
-D. room
-ANSWER: B
+A. drawer
+B. running
+C. yellow
+D. quickly
+ANSWER: A
 
 What animals ___ he got on his farm?
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 What animals has he ___ on his farm?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What animals has he got ___ his farm?
 A. in
 B. on
-C. at
-D. under
+C. beside
+D. toward
 ANSWER: B
 
 What animals has he got on ___ farm?
@@ -377,30 +378,30 @@ ANSWER: B
 
 What animals has he got on his ___?
 A. farm
-B. house
-C. room
-D. desk
+B. yellow
+C. quickly
+D. running
 ANSWER: A
 
 What fruit ___ she got in her garden?
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 What fruit has she ___ in her garden?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What fruit has she got ___ her garden?
 A. in
-B. on
-C. at
-D. under
+B. beside
+C. across
+D. toward
 ANSWER: A
 
 What fruit has she got in ___ garden?
@@ -411,31 +412,31 @@ D. herself
 ANSWER: B
 
 What fruit has she got in her ___?
-A. house
-B. garden
-C. room
-D. bag
-ANSWER: B
+A. garden
+B. running
+C. yellow
+D. quickly
+ANSWER: A
 
 What vegetables ___ he got in his basket?
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 What vegetables has he ___ in his basket?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What vegetables has he got ___ his basket?
 A. in
-B. on
-C. under
-D. over
+B. beside
+C. across
+D. toward
 ANSWER: A
 
 What vegetables has he got in ___ basket?
@@ -446,66 +447,66 @@ D. himself
 ANSWER: B
 
 What vegetables has he got in his ___?
-A. bag
-B. basket
-C. room
-D. desk
-ANSWER: B
+A. basket
+B. yellow
+C. quickly
+D. running
+ANSWER: A
 
 What fruit ___ she got in the bin?
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 What fruit has she ___ in the bin?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What fruit has she got ___ the bin?
 A. in
-B. on
-C. under
-D. at
+B. beside
+C. across
+D. toward
 ANSWER: A
 
 What fruit has she got in ___ bin?
 A. a
 B. an
 C. the
-D. Ø
+D. many
 ANSWER: C
 
 What fruit has she got in the ___?
-A. bag
-B. bin
-C. box
-D. room
-ANSWER: B
+A. bin
+B. running
+C. yellow
+D. quickly
+ANSWER: A
 
 What toys ___ she got in her bin?
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 What toys has she ___ in her bin?
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 What toys has she got ___ her bin?
 A. in
-B. on
-C. at
-D. over
+B. beside
+C. across
+D. toward
 ANSWER: A
 
 What toys has she got in ___ bin?
@@ -516,11 +517,11 @@ D. herself
 ANSWER: B
 
 What toys has she got in her ___?
-A. room
-B. bin
-C. bag
-D. desk
-ANSWER: B
+A. bin
+B. running
+C. yellow
+D. quickly
+ANSWER: A
 
 Which picture ___ May and Sam looking at?
 A. is
@@ -546,15 +547,15 @@ ANSWER: B
 Which picture are ___ and Sam looking at?
 A. May
 B. She
-C. They
-D. We
+C. Them
+D. Us
 ANSWER: A
 
 Which picture are May and Sam looking at ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last week
+D. last year
 ANSWER: A
 
 Which dolphin ___ he looking at?
@@ -588,8 +589,8 @@ ANSWER: A
 Which dolphin is he looking at ___?
 A. now
 B. yesterday
-C. last night
-D. tomorrow
+C. tomorrow
+D. last night
 ANSWER: A
 
 Which shark ___ she looking at?
@@ -659,7 +660,7 @@ Which pomelo is he looking at ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last night
+D. last year
 ANSWER: A
 
 Which grapes ___ she looking at?
@@ -694,7 +695,7 @@ Which grapes is she looking at ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last week
+D. last night
 ANSWER: A
 
 Which durian ___ she looking at?
@@ -729,7 +730,7 @@ Which durian is she looking at ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last night
+D. last week
 ANSWER: A
 
 Which shark ___ you looking at?
@@ -764,7 +765,7 @@ Which shark are you looking at ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last night
+D. last week
 ANSWER: A
 
 Which pomelo ___ we looking at?
@@ -799,7 +800,7 @@ Which pomelo are we looking at ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last week
+D. last year
 ANSWER: A
 
 Which grapes ___ they looking at?
@@ -892,6 +893,7 @@ B. on
 C. at
 D. under
 ANSWER: C
+
 Which drawer are ___ looking at?
 A. we
 B. us
@@ -903,7 +905,7 @@ Which drawer are we looking at ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last night
+D. last week
 ANSWER: A
 
 Which armchair ___ you looking at?
@@ -938,7 +940,7 @@ Which armchair are you looking at ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last night
+D. last week
 ANSWER: A
 
 What kind of grapes ___ Grandpa like best?
@@ -1076,9 +1078,9 @@ ANSWER: A
 
 What kind of ___ do they like best?
 A. wristwatch
-B. watch
-C. watches
-D. watchs
+B. watches
+C. watchs
+D. watches
 ANSWER: A
 
 What kind of wall clock ___ she like best?
@@ -1316,7 +1318,7 @@ What will Mrs Good’s class do this ___?
 A. morning
 B. afternoon
 C. evening
-D. night
+D. week
 ANSWER: B
 
 What will ___ class do this afternoon?
@@ -1351,7 +1353,7 @@ What will Mr Pahan’s class do this ___?
 A. afternoon
 B. morning
 C. night
-D. week
+D. month
 ANSWER: B
 
 What will ___ class do this morning?
@@ -1413,8 +1415,8 @@ ANSWER: A
 What will Ann’s class do ___?
 A. yesterday
 B. tomorrow
-C. today
-D. now
+C. last week
+D. last year
 ANSWER: B
 
 What will ___ class do tomorrow?
@@ -1448,8 +1450,8 @@ ANSWER: A
 What will Lucy’s class do ___?
 A. yesterday
 B. tonight
-C. today
-D. now
+C. last week
+D. last year
 ANSWER: B
 
 What will ___ class do tonight?
@@ -1489,8 +1491,8 @@ ANSWER: A
 
 What will ___ class do this afternoon?
 A. Nick’s
-B. his
-C. him
+B. him
+C. his
 D. himself
 ANSWER: A
 
@@ -1498,7 +1500,7 @@ What will Nick’s class do this ___?
 A. morning
 B. afternoon
 C. night
-D. week
+D. month
 ANSWER: B
 
 What ___ Sunny’s class do this week?
@@ -1598,6 +1600,7 @@ B. her
 C. she
 D. hers
 ANSWER: A
+
 What will Jill’s class do this ___?
 A. week
 B. month
@@ -1905,6 +1908,7 @@ B. Tony’s
 C. Tonys
 D. Tonys’
 ANSWER: B
+
 Which ___ is Tony’s?
 A. plane
 B. planes
@@ -1995,6 +1999,7 @@ B. flowers
 C. flower’s
 D. flowr
 ANSWER: A
+
 Which flower is Aunt Tình___?
 A. s
 B. ’s
@@ -2167,7 +2172,7 @@ What is Sunny wearing ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last night
+D. last week
 ANSWER: A
 
 What ___ Sunny’s mother wearing?
@@ -2251,7 +2256,7 @@ What is Pahan wearing ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last week
+D. last year
 ANSWER: A
 
 What ___ Tony wearing?
@@ -2279,7 +2284,7 @@ What is Tony wearing ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last year
+D. last week
 ANSWER: A
 
 What ___ Đức wearing?
@@ -2335,7 +2340,7 @@ What is Uncle Thắng wearing ___?
 A. now
 B. yesterday
 C. tomorrow
-D. last week
+D. last year
 ANSWER: A
 
 Color the balloon ___ the boy’s hand yellow.
@@ -2709,13 +2714,6 @@ C. lake
 D. sea
 ANSWER: B
 
-Color the crocodile under the pond ___ red.
-A. dark
-B. light
-C. bright
-D. deep
-ANSWER: B
-
 Color the crocodile under the pond light ___.
 A. red
 B. blue
@@ -2856,519 +2854,515 @@ C. yellow
 D. green
 ANSWER: A
 
-The boy has got a blue T-shirt and ___ shoes.
-A. black
-B. white
-C. brown
-D. pink
-ANSWER: C
-
 The girl ___ got a purple dress and white socks.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The girl has ___ a purple dress and white socks.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 The girl has got a purple dress ___ white socks.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 The girl has got a ___ dress and white socks.
 A. purple
-B. pink
-C. blue
-D. green
+B. quickly
+C. running
+D. yellowly
 ANSWER: A
 
 The girl has got a purple dress and ___ socks.
-A. black
-B. white
-C. red
-D. yellow
-ANSWER: B
+A. white
+B. quickly
+C. running
+D. beside
+ANSWER: A
 
 The girl ___ got blue trousers and black hair.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The girl has ___ blue trousers and black hair.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 The girl has got blue trousers ___ black hair.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 The girl has got ___ trousers and black hair.
 A. blue
-B. red
-C. green
-D. yellow
+B. quickly
+C. yellowly
+D. running
 ANSWER: A
 
 The girl has got blue trousers and ___ hair.
-A. brown
+A. black
 B. white
-C. black
-D. orange
-ANSWER: C
+C. green
+D. purple
+ANSWER: A
 
 The cat ___ got yellow fur and blue eyes.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The cat has ___ yellow fur and blue eyes.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 The cat has got yellow fur ___ blue eyes.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 The cat has got ___ fur and blue eyes.
 A. yellow
-B. black
-C. white
-D. grey
+B. quickly
+C. running
+D. slowly
 ANSWER: A
 
 The cat has got yellow fur and ___ eyes.
-A. green
-B. blue
-C. brown
-D. red
-ANSWER: B
+A. blue
+B. greenly
+C. quickly
+D. running
+ANSWER: A
 
 The insect ___ got many legs and two eyes.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The insect has ___ many legs and two eyes.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
+
 The insect has got many legs ___ two eyes.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 The insect has got ___ legs and two eyes.
 A. many
 B. much
-C. lot
-D. lots
+C. slowly
+D. yellow
 ANSWER: A
 
 The insect has got many legs and ___ eyes.
-A. one
-B. two
-C. three
-D. four
-ANSWER: B
+A. two
+B. three
+C. four
+D. five
+ANSWER: A
 
 The zebra ___ got black and white fur.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The zebra has ___ black and white fur.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 The zebra has got black ___ white fur.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 The zebra has got ___ and white fur.
 A. black
+B. quickly
+C. running
+D. slowly
+ANSWER: A
+
+The zebra has got black and ___ fur.
+A. white
 B. blue
 C. green
 D. yellow
 ANSWER: A
 
-The zebra has got black and ___ fur.
-A. red
-B. blue
-C. white
-D. pink
-ANSWER: C
-
 The panda ___ got black eyes.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The panda has ___ black eyes.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 The panda has got ___ eyes.
 A. black
-B. blue
-C. green
-D. white
+B. quickly
+C. running
+D. beside
 ANSWER: A
 
 The panda has got black ___.
 A. eye
 B. eyes
-C. eyess
-D. eye’s
+C. eyeing
+D. eyed
 ANSWER: B
 
 The ___ has got black eyes.
 A. panda
 B. pandas
-C. pandaa
-D. pand
+C. panding
+D. panded
 ANSWER: A
 
 The queen ___ got a pink dress and a yellow hat.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The queen has ___ a pink dress and a yellow hat.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 The queen has got a pink dress ___ a yellow hat.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 The queen has got a ___ dress and a yellow hat.
 A. pink
-B. red
-C. blue
-D. green
+B. running
+C. quickly
+D. slowly
 ANSWER: A
 
 The queen has got a pink dress and a ___ hat.
-A. red
+A. yellow
 B. blue
-C. yellow
-D. black
-ANSWER: C
+C. green
+D. purple
+ANSWER: A
 
 The pet mouse ___ got pink fur and a black tail.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The pet mouse has ___ pink fur and a black tail.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 The pet mouse has got pink fur ___ a black tail.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 The pet mouse has got ___ fur and a black tail.
 A. pink
-B. white
-C. grey
-D. brown
+B. green
+C. yellow
+D. blue
 ANSWER: A
 
 The pet mouse has got pink fur and a ___ tail.
-A. white
-B. black
-C. red
-D. yellow
-ANSWER: B
+A. black
+B. white
+C. yellow
+D. orange
+ANSWER: A
 
 The fox ___ got white fur and two purple ears.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The fox has ___ white fur and two purple ears.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
+
 The fox has got white fur ___ two purple ears.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 The fox has got ___ fur and two purple ears.
 A. white
-B. black
-C. yellow
-D. grey
+B. quickly
+C. slowly
+D. running
 ANSWER: A
 
 The fox has got white fur and two ___ ears.
-A. red
-B. blue
-C. purple
-D. green
-ANSWER: C
+A. purple
+B. green
+C. blue
+D. yellow
+ANSWER: A
 
 Grandma ___ got a yellow jacket and red trousers.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 Grandma has ___ a yellow jacket and red trousers.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 Grandma has got a yellow jacket ___ red trousers.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 Grandma has got a ___ jacket and red trousers.
 A. yellow
 B. blue
-C. pink
-D. green
+C. green
+D. purple
 ANSWER: A
 
 Grandma has got a yellow jacket and ___ trousers.
-A. white
-B. red
+A. red
+B. white
 C. black
 D. brown
-ANSWER: B
+ANSWER: A
 
 Grandpa ___ got a white umbrella and black glasses.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 Grandpa has ___ a white umbrella and black glasses.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 Grandpa has got a white umbrella ___ black glasses.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 Grandpa has got a ___ umbrella and black glasses.
 A. white
-B. red
-C. blue
-D. yellow
+B. yellow
+C. green
+D. blue
 ANSWER: A
 
 Grandpa has got a white umbrella and ___ glasses.
-A. red
-B. blue
-C. black
-D. green
-ANSWER: C
+A. black
+B. red
+C. pink
+D. orange
+ANSWER: A
 
 Mom ___ got a red backpack and purple shoes.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 Mom has ___ a red backpack and purple shoes.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 Mom has got a red backpack ___ purple shoes.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 Mom has got a ___ backpack and purple shoes.
 A. red
 B. blue
 C. yellow
-D. green
+D. white
 ANSWER: A
 
 Mom has got a red backpack and ___ shoes.
-A. white
+A. purple
 B. black
-C. purple
-D. brown
-ANSWER: C
+C. green
+D. orange
+ANSWER: A
 
 Dad ___ got a blue camera and a yellow mobile phone.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 Dad has ___ a blue camera and a yellow mobile phone.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 Dad has got a blue camera ___ a yellow mobile phone.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 Dad has got a ___ camera and a yellow mobile phone.
 A. blue
-B. red
-C. green
+B. green
+C. red
 D. white
 ANSWER: A
 
 Dad has got a blue camera and a ___ mobile phone.
-A. reds
-B. yellow
-C. blacks
-D. pinks
-ANSWER: B
+A. yellow
+B. purple
+C. black
+D. orange
+ANSWER: A
 
 The shrimp ___ got a grey tail and two orange eyes.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The shrimp has ___ a grey tail and two orange eyes.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 The shrimp has got a grey tail ___ two orange eyes.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
+
 The shrimp has got a ___ tail and two orange eyes.
 A. grey
-B. black
-C. white
-D. brown
+B. red
+C. green
+D. white
 ANSWER: A
 
 The shrimp has got a grey tail and two ___ eyes.
-A. red
-B. orange
-C. blue
-D. green
-ANSWER: B
+A. orange
+B. blue
+C. purple
+D. black
+ANSWER: A
 
 The crab ___ got four legs and two claws.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 The crab has ___ four legs and two claws.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 The crab has got four legs ___ two claws.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 The crab has got ___ legs and two claws.
@@ -3379,151 +3373,151 @@ D. three
 ANSWER: A
 
 The crab has got four legs and two ___.
-A. hands
-B. claws
+A. claws
+B. hands
 C. arms
 D. tails
-ANSWER: B
+ANSWER: A
 
 Sunny ___ got one pink doll and one yo-yo.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 Sunny has ___ one pink doll and one yo-yo.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 Sunny has got one pink doll ___ one yo-yo.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 Sunny has got one ___ doll and one yo-yo.
 A. pink
 B. blue
-C. red
+C. green
 D. yellow
 ANSWER: A
 
 Sunny has got one pink doll and one ___.
-A. toy
-B. yo-yo
-C. ball
-D. kite
-ANSWER: B
+A. yo-yo
+B. kite
+C. robot
+D. ball
+ANSWER: A
 
 Lucy ___ got one box of crayons and one notebook.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 Lucy has ___ one box of crayons and one notebook.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 Lucy has got one box of crayons ___ one notebook.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 Lucy has got one box of ___ and one notebook.
-A. pens
-B. crayons
+A. crayons
+B. pens
 C. books
 D. toys
-ANSWER: B
+ANSWER: A
 
 Lucy has got one box of crayons and one ___.
-A. bag
+A. notebook
 B. pencil
-C. notebook
-D. ruler
-ANSWER: C
+C. ruler
+D. eraser
+ANSWER: A
 
 Pahan ___ got one pickleball racket and one yellow ball.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 Pahan has ___ one pickleball racket and one yellow ball.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 Pahan has got one pickleball racket ___ one yellow ball.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 Pahan has got one ___ racket and one yellow ball.
-A. tennis
-B. badminton
-C. pickleball
-D. football
-ANSWER: C
+A. pickleball
+B. tennis
+C. football
+D. badminton
+ANSWER: A
 
 Pahan has got one pickleball racket and one ___ ball.
-A. red
+A. yellow
 B. blue
-C. yellow
-D. green
-ANSWER: C
+C. green
+D. red
+ANSWER: A
 
 Tony ___ got one motorbike and one pair of shoes.
 A. have
 B. has
-C. is
+C. do
 D. are
 ANSWER: B
 
 Tony has ___ one motorbike and one pair of shoes.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 Tony has got one motorbike ___ one pair of shoes.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 Tony has got one ___ and one pair of shoes.
-A. bike
+A. motorbike
 B. car
-C. motorbike
-D. bus
-ANSWER: C
+C. bus
+D. truck
+ANSWER: A
 
 Tony has got one motorbike and one pair of ___.
-A. socks
-B. shoes
+A. shoes
+B. socks
 C. boots
 D. sandals
-ANSWER: B
+ANSWER: A
 
 I ___ got one orange fish and one black mouse.
 A. have
@@ -3535,32 +3529,27 @@ ANSWER: A
 I have ___ one orange fish and one black mouse.
 A. get
 B. got
-C. getting
-D. gets
+C. gets
+D. getting
 ANSWER: B
 
 I have got one orange fish ___ one black mouse.
 A. but
 B. or
 C. and
-D. so
+D. because
 ANSWER: C
 
 I have got one ___ fish and one black mouse.
-A. red
-B. orange
-C. yellow
+A. orange
+B. red
+C. blue
 D. green
-ANSWER: B
+ANSWER: A
 
 I have got one orange fish and one ___ mouse.
-A. white
-B. grey
-C. black
+A. black
+B. white
+C. grey
 D. brown
-ANSWER: C
-
-
-
-
-
+ANSWER: A
