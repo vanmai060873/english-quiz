@@ -1219,7 +1219,7 @@ ANSWER: A
 What kind of bookcase does ___ like best?
 A. Sunny
 B. her
-C. she
+C. his
 D. hers
 ANSWER: A
 
@@ -2435,10 +2435,10 @@ D. room
 ANSWER: A
 
 Color the balloon under the table ___.
-A. red
+A. reds
 B. blue
-C. yellow
-D. pink
+C. yellows
+D. pinks
 ANSWER: B
 
 Color ___ balloon under the table blue.
@@ -2638,9 +2638,9 @@ D. Ø
 ANSWER: C
 
 Color the desk lamp on the ___ yellow.
-A. chair
+A. chairt
 B. study table
-C. floor
+C. floorf
 D. door
 ANSWER: B
 
@@ -3024,9 +3024,9 @@ ANSWER: A
 
 The zebra has got black and ___ fur.
 A. white
-B. blue
-C. green
-D. yellow
+B. blues
+C. greens
+D. yellows
 ANSWER: A
 
 The panda ___ got black eyes.
@@ -3553,3 +3553,4 @@ B. white
 C. grey
 D. brown
 ANSWER: A
+
