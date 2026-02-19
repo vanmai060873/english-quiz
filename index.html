@@ -1,98 +1,153 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Trắc nghiệm kiểm tra kiến thức Sunny và Lucy</title>
+
+<title>Trắc nghiệm kiến thức Sunny và Lucy</title>
 
 <style>
+
 body{
-    font-family:Arial;
-    margin:0;
-    display:flex;
-    height:100vh;
+font-family:Arial;
+margin:0;
+display:flex;
+height:100vh;
 }
 
 #sidebar{
-    width:20%;
-    background:#f0f0f0;
-    padding:10px;
-    overflow-y:auto;
-    border-right:1px solid #ccc;
+
+width:20%;
+background:#f4f4f4;
+overflow-y:auto;
+padding:10px;
+border-right:1px solid #ccc;
+
 }
 
 #sidebar button{
-    width:45px;
-    height:45px;
-    margin:5px;
-    border:none;
-    cursor:pointer;
-    background:#ddd;
-    font-weight:bold;
+
+width:42px;
+height:42px;
+margin:4px;
+border:none;
+background:#ddd;
+cursor:pointer;
+
 }
 
 .done{
-    background:green !important;
-    color:white;
+
+background:#4caf50 !important;
+color:white;
+
+}
+
+.correctNav{
+
+background:green !important;
+color:white;
+
+}
+
+.wrongNav{
+
+background:red !important;
+color:white;
+
 }
 
 #content{
-    width:80%;
-    padding:20px;
-    overflow-y:auto;
+
+width:80%;
+padding:20px;
+overflow-y:auto;
+
 }
 
 .question{
-    padding:15px;
-    margin-bottom:15px;
-    border-radius:8px;
-    border:1px solid #ddd;
+
+padding:15px;
+margin-bottom:15px;
+border-radius:8px;
+border:1px solid #ddd;
+
 }
 
-.even{ background:#e6f4ea; }
-.odd{ background:#ffe8cc; }
+.even{
+
+background:#e6f4ea;
+
+}
+
+.odd{
+
+background:#ffe8cc;
+
+}
 
 .question-title{
-    font-weight:bold;
-    color:#800000;
+
+font-weight:bold;
+color:#800000;
+
 }
 
-.correct{ color:green; font-weight:bold }
-.wrong{ color:red; font-weight:bold }
+.correct{
 
-button.action{
-    padding:10px 20px;
-    margin:10px 5px;
-    font-size:16px;
+color:green;
+font-weight:bold;
+
+}
+
+.wrong{
+
+color:red;
+font-weight:bold;
+
 }
 
 #timer{
-    font-size:20px;
-    font-weight:bold;
-    color:red;
-    margin-bottom:10px;
+
+font-size:20px;
+color:red;
+font-weight:bold;
+
 }
 
-/* POPUP */
 #popup{
-    display:none;
-    position:fixed;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    background:rgba(0,0,0,0.5);
-    justify-content:center;
-    align-items:center;
+
+display:none;
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:rgba(0,0,0,0.5);
+
+justify-content:center;
+align-items:center;
+
 }
 
 #popupContent{
-    background:white;
-    padding:30px;
-    border-radius:10px;
-    text-align:center;
-    width:380px;
+
+background:white;
+padding:30px;
+border-radius:10px;
+width:400px;
+text-align:center;
+
 }
+
+button{
+
+padding:10px 15px;
+margin:5px;
+
+}
+
 </style>
+
 </head>
 
 <body>
@@ -101,209 +156,330 @@ button.action{
 
 <div id="content">
 
-    <h2>Trắc nghiệm kiến thức Sunny và Lucy</h2>
+<h2>Trắc nghiệm kiến thức Sunny và Lucy</h2>
 
-    <div id="nameSection">
-        <label>Nhập tên của bạn: </label>
-        <input type="text" id="studentName">
-        <button onclick="startQuiz()">BẮT ĐẦU</button>
-    </div>
+<div id="nameSection">
 
-    <div id="quizSection" style="display:none;">
-        <div id="timer">Time: 45:00</div>
-        <div id="quiz"></div>
-        <button class="action" onclick="finishQuiz()">KẾT THÚC</button>
-    </div>
+Tên:
+
+<input id="studentName">
+
+<button onclick="startQuiz()">BẮT ĐẦU</button>
+
+</div>
+
+<div id="quizSection" style="display:none">
+
+<div id="timer">45:00</div>
+
+<div id="quiz"></div>
+
+<button onclick="finishQuiz()">KẾT THÚC</button>
+
+</div>
 
 </div>
 
 <div id="popup">
-    <div id="popupContent">
-        <h3 id="popupResult"></h3>
-        <br>
-        <button onclick="retakeQuiz()">THI LẠI</button>
-        <button onclick="closeProgram()">ĐÓNG</button>
-    </div>
+
+<div id="popupContent">
+
+<h3 id="popupResult"></h3>
+
+<button onclick="retakeQuiz()">THI LẠI</button>
+
+<button onclick="closeProgram()">ĐÓNG</button>
+
+</div>
+
 </div>
 
 <script>
 
 let allQuestions=[];
 let currentQuestions=[];
-let timeLeft=45*60;
-let timerInterval;
-let totalQuestions=60;
 let submitted=false;
+
+let timeLeft=45*60;
+
+let timer;
+
+let totalQuestions=200;
+
 let studentName="";
 
 fetch("questions.txt")
-.then(r=>r.text())
-.then(text=>parse(text));
 
-function parse(text){
-    let blocks=text.split(/\n\s*\n/);
-    blocks.forEach(block=>{
-        let lines=block.trim().split("\n");
-        if(lines.length>=6){
-            allQuestions.push({
-                question:lines[0],
-                options:lines.slice(1,5),
-                answer:lines[5].replace("ANSWER:","").trim()
-            });
-        }
-    });
+.then(r=>r.text())
+
+.then(text=>{
+
+let blocks=text.split(/\n\s*\n/);
+
+blocks.forEach(block=>{
+
+let lines=block.trim().split("\n");
+
+if(lines.length>=6){
+
+allQuestions.push({
+
+question:lines[0],
+
+options:lines.slice(1,5),
+
+answer:lines[5].replace("ANSWER:","").trim()
+
+});
+
 }
+
+});
+
+});
 
 function startQuiz(){
-    let nameInput=document.getElementById("studentName").value.trim();
-    if(nameInput===""){
-        alert("Vui lòng nhập tên!");
-        return;
-    }
 
-    studentName=nameInput;
-    document.getElementById("nameSection").style.display="none";
-    document.getElementById("quizSection").style.display="block";
+studentName=document.getElementById("studentName").value.trim();
 
-    loadQuiz(60);
+if(studentName===""){
+
+alert("Nhập tên");
+
+return;
+
 }
 
-function shuffle(arr){
-    for(let i=arr.length-1;i>0;i--){
-        let j=Math.floor(Math.random()*(i+1));
-        [arr[i],arr[j]]=[arr[j],arr[i]];
-    }
-    return arr;
+document.getElementById("nameSection").style.display="none";
+
+document.getElementById("quizSection").style.display="block";
+
+loadQuiz();
+
 }
 
-function loadQuiz(number){
+function shuffle(a){
 
-    submitted=false;
-    totalQuestions=number;
+return a.sort(()=>Math.random()-0.5);
 
-    clearInterval(timerInterval);
-    timeLeft=45*60;
-    startTimer();
-
-    document.getElementById("quiz").innerHTML="";
-    document.getElementById("sidebar").innerHTML="";
-
-    let randomSet=shuffle([...allQuestions]).slice(0,number);
-    currentQuestions=randomSet;
-
-    randomSet.forEach((q,index)=>{
-
-        let navBtn=document.createElement("button");
-        navBtn.innerText=index+1;
-        navBtn.id="nav"+index;
-        navBtn.onclick=function(){
-            document.getElementById("q"+index)
-                .scrollIntoView({behavior:"smooth"});
-        };
-        document.getElementById("sidebar").appendChild(navBtn);
-
-        let div=document.createElement("div");
-        div.className="question " + (index%2===0 ? "even":"odd");
-        div.id="q"+index;
-
-        let options=shuffle([...q.options]);
-
-        let html=`<p class="question-title">${index+1}. ${q.question}</p>`;
-
-        options.forEach(opt=>{
-            let letter=opt.charAt(0);
-            html+=`
-            <label>
-            <input type="radio"
-                   name="q${index}"
-                   value="${letter}"
-                   onchange="markDone(${index})">
-            ${opt}
-            </label><br>`;
-        });
-
-        div.innerHTML=html;
-        document.getElementById("quiz").appendChild(div);
-    });
 }
 
-function markDone(index){
-    if(!submitted){
-        document.getElementById("nav"+index).classList.add("done");
-    }
+function loadQuiz(){
+
+submitted=false;
+
+document.getElementById("quiz").innerHTML="";
+
+document.getElementById("sidebar").innerHTML="";
+
+currentQuestions=
+
+shuffle([...allQuestions]).slice(0,totalQuestions);
+
+startTimer();
+
+currentQuestions.forEach((q,i)=>{
+
+let nav=document.createElement("button");
+
+nav.innerText=i+1;
+
+nav.id="nav"+i;
+
+nav.onclick=()=>{
+
+document.getElementById("q"+i)
+
+.scrollIntoView({behavior:"smooth"});
+
+};
+
+sidebar.appendChild(nav);
+
+let div=document.createElement("div");
+
+div.className="question "+(i%2?"odd":"even");
+
+div.id="q"+i;
+
+let html=`<p class='question-title'>${i+1}. ${q.question}</p>`;
+
+shuffle([...q.options]).forEach(opt=>{
+
+let letter=opt.charAt(0);
+
+html+=`
+
+<label>
+
+<input type="radio"
+
+name="q${i}"
+
+value="${letter}"
+
+onchange="markDone(${i})">
+
+${opt}
+
+</label><br>`;
+
+});
+
+div.innerHTML=html;
+
+quiz.appendChild(div);
+
+});
+
+}
+
+function markDone(i){
+
+if(!submitted)
+
+document.getElementById("nav"+i)
+
+.classList.add("done");
+
 }
 
 function startTimer(){
-    timerInterval=setInterval(()=>{
-        let minutes=Math.floor(timeLeft/60);
-        let seconds=timeLeft%60;
-        seconds=seconds<10?"0"+seconds:seconds;
-        document.getElementById("timer").innerText=`Time: ${minutes}:${seconds}`;
-        timeLeft--;
 
-        if(timeLeft<0){
-            clearInterval(timerInterval);
-            finishQuiz();
-        }
-    },1000);
+clearInterval(timer);
+
+timeLeft=45*60;
+
+timer=setInterval(()=>{
+
+let m=Math.floor(timeLeft/60);
+
+let s=timeLeft%60;
+
+timerEl.innerText=
+
+`${m}:${s<10?'0':''}${s}`;
+
+timeLeft--;
+
+if(timeLeft<0)finishQuiz();
+
+},1000);
+
 }
 
 function finishQuiz(){
 
-    if(submitted) return;
-    submitted=true;
-    clearInterval(timerInterval);
+if(submitted)return;
 
-    let correctCount=0;
+submitted=true;
 
-    currentQuestions.forEach((q,index)=>{
-        let correct=q.answer;
-        let selected=document.querySelector(`input[name="q${index}"]:checked`);
-        let div=document.getElementById("q"+index);
+clearInterval(timer);
 
-        div.querySelectorAll("label").forEach(lb=>{
-            if(lb.innerText.trim().startsWith(correct)){
-                lb.classList.add("correct");
-            }
-        });
+let correctCount=0;
 
-        if(selected){
-            if(selected.value===correct){
-                correctCount++;
-            }else{
-                selected.parentElement.classList.add("wrong");
-            }
-        }
-    });
+let firstWrong=null;
 
-    document.querySelectorAll("input[type=radio]").forEach(r=>{
-        r.disabled=true;
-    });
+currentQuestions.forEach((q,i)=>{
 
-    let finalScore=(correctCount*(10/totalQuestions)).toFixed(2);
+let correct=q.answer;
 
-    document.getElementById("popupResult").innerHTML=
-        `Thí sinh: <b>${studentName}</b><br><br>
-         Số câu đúng: ${correctCount}<br><br>
-         Điểm: ${finalScore} / 10`;
+let selected=document.querySelector(
 
-    document.getElementById("popup").style.display="flex";
+`input[name=q${i}]:checked`
+
+);
+
+let div=document.getElementById("q"+i);
+
+let nav=document.getElementById("nav"+i);
+
+div.querySelectorAll("label")
+
+.forEach(lb=>{
+
+if(lb.innerText.trim()
+
+.startsWith(correct))
+
+lb.classList.add("correct");
+
+});
+
+if(selected){
+
+if(selected.value===correct){
+
+correctCount++;
+
+nav.className="correctNav";
+
+}
+
+else{
+
+selected.parentElement
+
+.classList.add("wrong");
+
+nav.className="wrongNav";
+
+if(!firstWrong)
+
+firstWrong=div;
+
+}
+
+}
+
+});
+
+document
+
+.querySelectorAll("input[type=radio]")
+
+.forEach(r=>r.disabled=true);
+
+let score=
+
+(correctCount*(10/totalQuestions))
+
+.toFixed(2);
+
+popupResult.innerHTML=
+
+`<b>${studentName}</b><br>
+
+Đúng ${correctCount}/200<br>
+
+Điểm ${score}/10`;
+
+popup.style.display="flex";
+
+if(firstWrong)
+
+firstWrong.scrollIntoView();
+
 }
 
 function retakeQuiz(){
-    document.getElementById("popup").style.display="none";
-    loadQuiz(60);
+
+popup.style.display="none";
+
+loadQuiz();
+
 }
 
 function closeProgram(){
-    document.body.innerHTML="<h2 style='text-align:center;margin-top:200px;'>Bài thi đã kết thúc.</h2>";
+
+document.body.innerHTML=
+
+"<h2 style='text-align:center;margin-top:200px'>Kết thúc</h2>";
+
 }
 
 </script>
 
-    
 </body>
+
 </html>
-
-
-
